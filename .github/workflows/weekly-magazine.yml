@@ -1,0 +1,52 @@
+# 工作流
+
+获取 GitHub Actions 工作流的简要概述，包括触发器、语法和高级功能。
+
+## 关于工作流程
+
+**工作流**是一个可配置的自动化过程，它将运行一个或多个作业。 工作流程由签入到存储库的 YAML 文件定义，并在存储库中的事件触发时运行，也可以手动触发，或按定义的时间表触发。
+
+工作流在仓库的 `.github/workflows` 目录中定义。 一个仓库可以有多个工作流，每个工作流都可以执行一组不同的任务，例如：
+
+* 构建和测试拉取请求
+* 在每次创建发布时，部署应用程序
+* 每当创建新提议时，添加标签
+
+## 工作流基础知识
+
+工作流必须包含以下基本组件：
+
+1. 一个或多个将触发工作流的事件。
+2. 一个或多个\_作业\_，每个作业都将在\_运行器\_计算机上执行，并运行一系列一个或多个\_步骤\_。
+3. 每个步骤都可以运行你定义的脚本或运行操作，这是一个可简化工作流的可重用扩展。
+
+有关这些基本组件的详细信息，请参阅“[了解GitHub Actions](/zh/actions/learn-github-actions/understanding-github-actions#the-components-of-github-actions)”。
+
+![触发运行器 1 运行作业 1，进而触发运行器 2 运行作业 2 的事件示意图。 每个作业都分为多个步骤。](/assets/images/help/actions/overview-actions-simple.png)
+
+## 工作流触发器
+
+工作流程触发器是导致工作流程运行的事件。 这些事件可以是：
+
+* 工作流程存储库中发生的事件
+* 在 GitHub 外部发生并在 GitHub 上触发 `repository_dispatch` 事件的事件
+* 预定时间
+* 手动
+
+例如，您可以将工作流程配置为在推送到存储库的默认分支、创建发行版或打开议题时运行。
+
+工作流触发器使用 `on` 键定义。 有关详细信息，请参阅“[GitHub Actions 的工作流语法](/zh/actions/using-workflows/workflow-syntax-for-github-actions#on)”。
+
+以下步骤将触发工作流程运行：
+
+1. 存储库上发生事件。 该事件具有关联的提交 SHA 和 Git 引用。
+2. GitHub 在仓库的根的 `.github/workflows` 目录中搜索事件的关联提交 SHA 或 Git 引用中存在的工作流文件。
+3. 对于具有与触发事件匹配的 `on:` 值的任何工作流，触发工作流运行。 某些事件还要求工作流程文件位于存储库的默认分支上才能运行。
+
+每个工作流程运行都将使用事件的关联提交 SHA 或 Git ref 中存在的工作流程版本。 当工作流运行时，GitHub 会在运行器环境中设置 `GITHUB_SHA`（提交 SHA）和 `GITHUB_REF`（Git 引用）环境变量。 有关详细信息，请参阅“[在变量中存储信息](/zh/actions/learn-github-actions/variables)”。
+
+有关详细信息，请参阅“[触发工作流程](/zh/actions/using-workflows/triggering-a-workflow)”。
+
+## 后续步骤
+
+若要生成第一个工作流，请参阅 [创建示例工作流](/zh/actions/tutorials/creating-an-example-workflow)。
