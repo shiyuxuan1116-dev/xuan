@@ -1,218 +1,474 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="zh-CN">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>AI News Radar｜24 小时 AI 更新雷达</title>
-    <meta
-      name="description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
-    />
-    <link rel="canonical" href="https://learnprompt.github.io/ai-news-radar/" />
-    <meta property="og:title" content="AI News Radar｜24 小时 AI 更新雷达" />
-    <meta
-      property="og:description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
-    />
-    <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://learnprompt.github.io/ai-news-radar/" />
-    <meta property="og:site_name" content="AI News Radar" />
-    <meta name="application-name" content="AI News Radar" />
-    <meta name="theme-color" content="#f6f6f2" />
-    <meta name="mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-title" content="AI News Radar" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="AI News Radar｜24 小时 AI 更新雷达" />
-    <meta
-      name="twitter:description"
-      content="自动整理过去 24 小时值得看的 AI、模型和开发者工具更新；伯乐Skill（Scout Skill）帮你从一堆信源里选出千里马。"
-    />
-    <link rel="icon" href="./assets/logo.svg" type="image/svg+xml" />
-    <link rel="icon" href="./assets/icons/favicon-32.png" sizes="32x32" type="image/png" />
-    <link rel="apple-touch-icon" href="./assets/icons/apple-touch-icon.png" sizes="180x180" />
-    <link rel="manifest" href="./site.webmanifest" />
-    <link rel="stylesheet" href="./assets/styles.css?v=ui-polish-0626a" />
-  </head>
-  <body>
-    <main class="shell">
-      <header class="hero">
-        <div class="hero-main">
-          <div class="hero-headline">
-            <img class="hero-logo" src="./assets/logo.svg" alt="AI News Radar Logo" />
-            <div>
-              <p class="hero-tag">AI INTELLIGENCE RADAR</p>
-              <h1>AI News Radar</h1>
-            </div>
-          </div>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI 雷达周报 · 2026年7月9日</title>
+<link rel="preconnect" href="https://fonts.googleapis.com/">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300;400;500;600;700;800;900&family=Noto+Serif+SC:wght@400;500;700;900&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#ffffff;--ink:#111111;--soft:#666666;--faint:#9a9a9a;
+    --line:#e6e6e6;--line-strong:#111111;
+    --sans:"Albert Sans","Noto Serif SC",sans-serif;
+    --mono:"DM Mono","Noto Sans SC",monospace;
+    --accent:#2563eb;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  html{scroll-behavior:smooth}
+  body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-weight:400;line-height:1.9;letter-spacing:.02em;-webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility}
+  .mono{font-family:var(--mono);font-weight:400;letter-spacing:.02em}
+  a{color:inherit;text-decoration:underline;text-decoration-color:rgba(17,17,17,.25);text-underline-offset:4px;text-decoration-thickness:1px;transition:text-decoration-color .2s}
+  a:hover{text-decoration-color:rgba(17,17,17,1)}
+  ::selection{background:#111;color:#fff}
+
+  .sheet{max-width:1080px;margin:0 auto;padding:0 40px}
+
+  .topbar{display:flex;justify-content:space-between;align-items:center;padding:24px 0 14px;border-bottom:1px solid var(--line);font-size:11px;text-transform:uppercase;letter-spacing:.22em;color:var(--soft)}
+  .topbar .left b{font-weight:600;color:var(--ink)}
+  .topbar .dot{display:inline-block;width:5px;height:5px;background:var(--ink);border-radius:50%;margin:0 10px;transform:translateY(-2px)}
+
+  .masthead{padding:40px 0 28px;border-bottom:1px solid var(--line)}
+  .kicker{font-size:11px;letter-spacing:.34em;text-transform:uppercase;color:var(--soft);font-weight:500;text-align:center;margin-bottom:20px}
+  .wordmark{font-family:var(--sans);font-weight:900;font-size:clamp(30px,6.5vw,76px);line-height:1.18;letter-spacing:.03em;text-align:center;color:var(--ink)}
+  .wordmark .en{display:block;font-weight:400;font-size:.19em;letter-spacing:.06em;color:var(--soft);margin-top:34px;line-height:1.6}
+  .mast-meta{display:flex;justify-content:space-between;align-items:flex-end;margin-top:30px;font-size:12px;letter-spacing:.14em;text-transform:uppercase;color:var(--soft)}
+  .mast-meta .center{text-align:center}
+  .mast-meta .big{font-weight:500;font-size:15px;letter-spacing:.04em;text-transform:none;color:var(--ink)}
+  .tagline{text-align:center;margin-top:36px;font-weight:400;font-size:17px;line-height:1.95;color:var(--soft);letter-spacing:.02em;max-width:60ch;margin-left:auto;margin-right:auto}
+
+  section{padding:60px 0;border-bottom:1px solid var(--line)}
+  .sec-head{display:flex;align-items:baseline;gap:22px;margin-bottom:30px}
+  .sec-num{font-weight:300;font-size:60px;line-height:1;color:#cfcfcf}
+  .sec-titles{flex:1}
+  .sec-tape{font-size:11px;letter-spacing:.3em;text-transform:uppercase;color:var(--soft);font-weight:500;margin-bottom:8px}
+  .sec-tape b{color:var(--ink);font-weight:600}
+  .sec-title{font-weight:800;font-size:clamp(28px,4vw,46px);line-height:1.32;letter-spacing:.03em}
+  .sec-deck{font-weight:400;color:var(--soft);font-size:18px;line-height:1.75;margin-top:10px;max-width:62ch;letter-spacing:.01em}
+
+  .story-grid{display:grid;grid-template-columns:1fr;gap:0}
+  .story-card{padding:28px 0;border-bottom:1px solid var(--line)}
+  .story-card:last-child{border-bottom:0}
+  .card-head{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:12px}
+  .card-time{font-size:12px;color:var(--faint);letter-spacing:.1em}
+  .card-score{font-size:12px;color:var(--ink);font-weight:500;letter-spacing:.06em}
+  .card-title{font-weight:700;font-size:22px;line-height:1.4;margin-bottom:10px;letter-spacing:.02em}
+  .card-title a{text-decoration:none;border-bottom:1px solid var(--ink)}
+  .card-title .en{display:block;font-weight:400;font-size:14px;color:var(--faint);margin-top:4px;letter-spacing:.01em}
+  .src-list{margin-bottom:10px}
+  .src-list .src{display:inline-block;font-size:12px;color:var(--soft);background:#f5f5f5;padding:3px 8px;margin-right:6px;margin-bottom:4px;border-radius:2px;letter-spacing:.02em}
+  .card-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:11px;color:var(--faint);letter-spacing:.02em}
+  .card-meta .pipe{color:var(--line);margin:0 4px}
+  .card-meta .src-count{color:var(--ink);font-weight:500}
+  .card-meta .ai-rel{color:var(--accent)}
+  .card-meta .reasons{color:var(--soft)}
+
+  .colophon{padding:48px 0 72px;text-align:center}
+  .colophon p{font-size:13px;line-height:1.95;color:var(--soft);max-width:52ch;margin:0 auto}
+  .colophon .fine{margin-top:16px;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+
+  @media(max-width:760px){
+    .sheet{padding:0 22px}
+    .mast-meta{flex-direction:column;gap:10px;text-align:center}
+    .mast-meta .center{order:-1}
+    .card-head{flex-direction:column;gap:4px}
+  }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <div class="topbar">
+    <div class="left mono"><b>AI 雷达周报</b><span class="dot"></span>AI Radar Weekly</div>
+    <div class="right mono">本周刊 · 2026年7月9日 周四</div>
+  </div>
+
+  <header class="masthead">
+    <div class="kicker">AI 雷达周报 · AI Radar Weekly</div>
+    <h1 class="wordmark">AI 雷达周报<span class="en">AI Radar Weekly</span></h1>
+    <div class="tagline">每周一期，追踪真正值得看的 AI 更新。伯乐 Skill 从 23 个信息源里精选 20 条故事，按官方更新、多源热议、行业动态分类，附信号强度、AI 相关度与来源层级。</div>
+    <div class="mast-meta mono">
+      <div class="left">23 个信息源</div>
+      <div class="center"><span class="big">2026年7月9日</span></div>
+      <div class="right">20 条精选故事</div>
+    </div>
+  </header>
+
+  <!-- 导读 -->
+  <div class="note" style="display:grid;grid-template-columns:150px 1fr;gap:36px;align-items:start;padding:44px 0 14px">
+    <div style="font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--ink);border-top:1px solid var(--ink);padding-top:10px;font-weight:600">本期导读<br>Editor's Note</div>
+    <p style="font-size:17px;line-height:1.95;max-width:66ch;color:var(--ink)">本期由 ai-news-radar 管线自动抓取、去重、故事合并、AI 相关性打分后精选生成。20 条故事来自 23 个信息源，按重要性排序，覆盖官方更新、多源热议和行业动态。每条故事都附带信号强度评分、AI 相关度、来源层级与原帖链接，帮你从噪音里选出千里马。</p>
+  </div>
+
+
+    <section id="sec-01">
+      <div class="sec-head">
+        <div class="sec-num">01</div>
+        <div class="sec-titles">
+          <div class="sec-tape"><b>官方更新</b> · OFFICIAL UPDATES</div>
+          <h2 class="sec-title">官方更新</h2>
+          <div class="sec-deck">来自 OpenAI、Anthropic、GitHub、Hugging Face 等官方一手源的更新。</div>
         </div>
-        <div class="hero-meta">
-          <span class="updated-label">更新时间</span>
-          <span class="updated" id="updatedAt">加载中...</span>
-          <span class="source-status-pill" id="sourceStatusPill">源状态加载中</span>
-          <div class="hero-links" aria-label="项目入口">
-            <a
-              class="hero-link"
-              href="https://github.com/LearnPrompt/ai-news-radar"
-              target="_blank"
-              rel="noopener noreferrer"
-            >接入 Agent</a>
-          </div>
-        </div>
-
-        <section class="stats" id="stats"></section>
-
-        <section class="section-nav-wrap" aria-label="内容栏目">
-          <div class="section-tabs" id="sectionTabs" role="tablist" aria-label="AI 新闻栏目"></div>
-          <div class="section-summary" id="sectionSummary">正在整理栏目...</div>
-        </section>
-      </header>
-
-      <section class="primary-controls">
-        <input id="searchInput" type="search" placeholder="搜索 AI 信号 / 来源" />
-        <div class="mode-hint" id="modeHint">AI强相关</div>
-      </section>
-
-      <div class="sticky-summary-bar" aria-label="当前视图摘要">
-        <strong>AI News Radar</strong>
-        <span id="stickySummaryText">正在整理 24 小时信号...</span>
       </div>
-
-      <details class="advanced-panel">
-        <summary>
-          <span>高级筛选</span>
-          <span class="advanced-summary" id="advancedSummary">加载中...</span>
-        </summary>
-        <div class="advanced-content">
-          <div class="advanced-controls">
-            <label class="field">
-              <span>时间范围</span>
-              <select id="timeRangeSelect" aria-label="时间范围">
-                <option value="24h">过去 24 小时</option>
-              </select>
-            </label>
-            <label class="field">
-              <span>来源类型</span>
-              <select id="sourceTypeSelect">
-                <option value="">全部来源</option>
-                <option value="official">官方 / 一手</option>
-                <option value="media">精选媒体 / 日报</option>
-                <option value="community">社区 / HN / Builders</option>
-                <option value="rss">RSS / OPML</option>
-                <option value="aggregate">聚合源</option>
-                <option value="creator">自媒体</option>
-                <option value="advanced">进阶源</option>
-              </select>
-            </label>
-            <label class="field">
-              <span>内容类型</span>
-              <select id="sectionSelect"></select>
-            </label>
-            <label class="field">
-              <span>信号等级</span>
-              <select id="signalLevelSelect">
-                <option value="">全部信号</option>
-                <option value="high">高优先级</option>
-                <option value="curated">精选 / 官方</option>
-                <option value="multi">多源验证</option>
-              </select>
-            </label>
-            <label class="field">
-              <span>具体来源</span>
-              <select id="siteSelect">
-                <option value="">全部站点</option>
-              </select>
-            </label>
-            <div class="field">
-              <span>AI 相关度</span>
-              <div class="mode-switch">
-                <button id="modeAiBtn" class="mode-btn active" type="button">AI强相关</button>
-                <button id="modeAllBtn" class="mode-btn" type="button">全量</button>
-              </div>
-            </div>
-            <label id="allDedupeWrap" class="all-dedupe" for="allDedupeToggle">
-              <input id="allDedupeToggle" type="checkbox" checked />
-              <span class="all-dedupe-dot"></span>
-              <span id="allDedupeLabel">去重开</span>
-            </label>
+      <div class="story-grid">
+        
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.8 08:00</span>
+            <span class="card-score mono">信号强度 85</span>
           </div>
-          <div class="source-health" id="sourceHealth">源状态加载中...</div>
-          <details class="source-detail-panel">
-            <summary>查看源状态详情</summary>
-            <div class="source-health-details" id="sourceHealthDetails"></div>
-            <section class="coverage-strip" id="coverageStrip" aria-label="Source coverage status"></section>
-            <section class="source-status-table" id="sourceStatusTable" aria-label="源状态详情"></section>
-            <section class="site-pills" id="sitePills"></section>
-          </details>
-        </div>
-      </details>
-
-      <section class="bole-picks-wrap" aria-label="今日 Top 3" id="bolePicksWrap">
-        <div class="bole-picks-head">
-          <div>
-            <p class="section-eyebrow">TODAY'S SIGNALS</p>
-            <h2 id="topStoriesTitle">今日重点信号</h2>
+          <h3 class="card-title"><a href="https://huggingface.co/blog/native-speed-vllm-transformers-backend" target="_blank" rel="noopener">原生速度的 vLLM transformers 建模后端</a><span class="en">Native-speed vLLM transformers modeling backend</span></h3>
+          <div class="src-list"><span class="src">Hugging Face Blog</span><span class="src">Hugging Face：Blog（RSS）</span><span class="src">huggingface.co</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">3 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 50%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · multi_source · high_ai_relevance</span>
           </div>
-          <div class="bole-head-tools">
-            <div class="bole-view-toggle" id="boleViewToggle" hidden>
-              <button id="boleHotBtn" class="mode-btn" type="button">当前热点</button>
-              <button id="boleTimelineBtn" class="mode-btn" type="button">时间线</button>
-            </div>
-            <span id="bolePicksMeta">按评分排序</span>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.8 21:00</span>
+            <span class="card-score mono">信号强度 84</span>
           </div>
-        </div>
-        <div id="bolePicksList" class="bole-board"></div>
-      </section>
-
-      <section class="waytoagi-wrap">
-        <div class="waytoagi-head">
-          <h2>社区更新 · WaytoAGI</h2>
-          <div class="waytoagi-tools">
-            <div class="waytoagi-switch">
-              <button id="waytoagiTodayBtn" class="waytoagi-btn active" type="button">最近更新日</button>
-              <button id="waytoagi7dBtn" class="waytoagi-btn" type="button">近7日</button>
-            </div>
-            <span id="waytoagiUpdatedAt">加载中...</span>
+          <h3 class="card-title"><a href="https://openai.com/index/separating-signal-from-noise-coding-evaluations" target="_blank" rel="noopener">OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷</a><span class="en">Separating signal from noise in coding evaluations</span></h3>
+          <div class="src-list"><span class="src">OpenAI News</span><span class="src">OpenAI：官网动态（RSS · 排除企业/客户案例）</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">2 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 97%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 25%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · multi_source · high_ai_relevance</span>
           </div>
-        </div>
-        <div id="waytoagiMeta" class="waytoagi-meta"></div>
-        <div id="waytoagiList" class="waytoagi-list"></div>
-      </section>
-
-      <section class="list-wrap">
-        <div class="list-head">
-          <h2 id="listTitle">全量 AI 情报源</h2>
-          <div class="list-head-tools">
-            <div class="list-sort-tools" id="listSortTools" role="group" aria-label="全量列表排序">
-              <button class="list-sort-btn active" type="button" data-sort="priority" title="综合来源权重、AI相关度、新鲜度与信号强度">综合</button>
-              <button class="list-sort-btn" type="button" data-sort="latest" title="按发布时间或发现时间倒序">最新</button>
-              <button class="list-sort-btn" type="button" data-sort="ai" title="按高相关度信号倒序">高分</button>
-              <button class="list-sort-btn" type="button" data-sort="source" title="按来源聚合度整理">来源</button>
-            </div>
-            <span id="resultCount">0 条</span>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.9 04:38</span>
+            <span class="card-score mono">信号强度 82</span>
           </div>
+          <h3 class="card-title"><a href="https://github.blog/changelog/2026-07-08-deploy-managed-copilot-settings-via-mdm-in-vs-code-and-cli" target="_blank" rel="noopener">通过 VS Code 和 CLI 中的 MDM 部署托管 Copilot 设置</a><span class="en">Deploy managed Copilot settings via MDM in VS Code and CLI</span></h3>
+          <div class="src-list"><span class="src">GitHub Changelog</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 91%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.9 05:11</span>
+            <span class="card-score mono">信号强度 81</span>
+          </div>
+          <h3 class="card-title"><a href="https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows" target="_blank" rel="noopener">使用 GitHub Agentic Workflows 自动化跨存储库文档</a><span class="en">Automating cross-repo documentation with GitHub Agentic Workflows</span></h3>
+          <div class="src-list"><span class="src">GitHub AI &amp; ML</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 87%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.8 08:00</span>
+            <span class="card-score mono">信号强度 84</span>
+          </div>
+          <h3 class="card-title"><a href="https://openai.com/index/introducing-gpt-live" target="_blank" rel="noopener">OpenAI 发布 GPT-Live 新一代全双工语音模型</a><span class="en">Introducing GPT-Live</span></h3>
+          <div class="src-list"><span class="src">Hacker News (黑客新闻)</span><span class="src">OpenAI News</span><span class="src">OpenAI：官网动态（RSS · 排除企业/客户案例）</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">3 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 95%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 50%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · multi_source · high_ai_relevance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.9 01:16</span>
+            <span class="card-score mono">信号强度 83</span>
+          </div>
+          <h3 class="card-title"><a href="https://huggingface.co/blog/nvidia/open-data-for-agents" target="_blank" rel="noopener">代理商数据</a><span class="en">Data for Agents</span></h3>
+          <div class="src-list"><span class="src">Hugging Face Blog</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 99%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.7 16:54</span>
+            <span class="card-score mono">信号强度 79</span>
+          </div>
+          <h3 class="card-title"><a href="https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api" target="_blank" rel="noopener">Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力</a><span class="en">Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more</span></h3>
+          <div class="src-list"><span class="src">Google AI Blog</span><span class="src">Google Blog：AI（RSS）</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">2 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 95%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 25%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · multi_source · high_ai_relevance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.9 02:24</span>
+            <span class="card-score mono">信号强度 82</span>
+          </div>
+          <h3 class="card-title"><a href="https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases" target="_blank" rel="noopener">Visual Studio Code 中的 GitHub Copilot，2026 年 6 月发布</a><span class="en">GitHub Copilot in Visual Studio Code, June 2026 releases</span></h3>
+          <div class="src-list"><span class="src">GitHub Changelog</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 91%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.9 00:00</span>
+            <span class="card-score mono">信号强度 81</span>
+          </div>
+          <h3 class="card-title"><a href="https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages" target="_blank" rel="noopener">GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置</a><span class="en">How GitHub Copilot enables zero DNS configuration for GitHub Pages</span></h3>
+          <div class="src-list"><span class="src">GitHub AI &amp; ML</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 91%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.9 05:30</span>
+            <span class="card-score mono">信号强度 81</span>
+          </div>
+          <h3 class="card-title"><a href="https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available" target="_blank" rel="noopener">内部源安全建议已普遍可用</a><span class="en">Innersource security advisories are generally available</span></h3>
+          <div class="src-list"><span class="src">GitHub Changelog</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 87%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.8 21:30</span>
+            <span class="card-score mono">信号强度 81</span>
+          </div>
+          <h3 class="card-title"><a href="https://openai.com/index/government-national-security-partnerships" target="_blank" rel="noopener">我们与政府和国家安全伙伴关系的方法</a><span class="en">Our approach to government and national security partnerships</span></h3>
+          <div class="src-list"><span class="src">OpenAI News</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 91%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.6 08:00</span>
+            <span class="card-score mono">信号强度 74</span>
+          </div>
+          <h3 class="card-title"><a href="https://developers.openai.com/codex/changelog" target="_blank" rel="noopener">适用于 iOS 的 ChatGPT 1.2026.181</a><span class="en">ChatGPT for iOS 1.2026.181</span></h3>
+          <div class="src-list"><span class="src">OpenAI Codex Changelog</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance</span>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section id="sec-02">
+      <div class="sec-head">
+        <div class="sec-num">02</div>
+        <div class="sec-titles">
+          <div class="sec-tape"><b>多源热议</b> · MULTI-SOURCE BUZZ</div>
+          <h2 class="sec-title">多源热议</h2>
+          <div class="sec-deck">被多个独立信息源同时报道的故事，热度最高。</div>
         </div>
-        <div id="newsList" class="news-list"></div>
-      </section>
+      </div>
+      <div class="story-grid">
+        
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.8 15:00</span>
+            <span class="card-score mono">信号强度 78</span>
+          </div>
+          <h3 class="card-title"><a href="https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets" target="_blank" rel="noopener">黑客可利用9款最流行的AI工具组装大规模僵尸网络</a></h3>
+          <div class="src-list"><span class="src">Ars Technica</span><span class="src">Ars Technica：AI（RSS）</span><span class="src">arstechnica.com</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">3 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 50%</span>
+            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+      </div>
+    </section>
 
-    </main>
-
-    <template id="itemTpl">
-      <article class="news-card">
-        <a class="title" target="_blank" rel="noopener noreferrer"></a>
-        <div class="meta-row">
-          <span class="site"></span>
-          <span class="category"></span>
-          <span class="source"></span>
-          <time class="time"></time>
+    <section id="sec-03">
+      <div class="sec-head">
+        <div class="sec-num">03</div>
+        <div class="sec-titles">
+          <div class="sec-tape"><b>行业动态</b> · INDUSTRY MOVES</div>
+          <h2 class="sec-title">行业动态</h2>
+          <div class="sec-deck">行业分析与产品动态。</div>
         </div>
-        <p class="news-summary"></p>
-      </article>
-    </template>
+      </div>
+      <div class="story-grid">
+        
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.9 15:06</span>
+            <span class="card-score mono">信号强度 78</span>
+          </div>
+          <h3 class="card-title"><a href="https://www.ithome.com/0/974/517.htm" target="_blank" rel="noopener">蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video</a></h3>
+          <div class="src-list"><span class="src">IT之家 (ITHome)</span><span class="src">IT之家（RSS）</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">2 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 25%</span>
+            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.9 16:47</span>
+            <span class="card-score mono">信号强度 78</span>
+          </div>
+          <h3 class="card-title"><a href="https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput" target="_blank" rel="noopener">NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍</a></h3>
+          <div class="src-list"><span class="src">MarkTechPost Research</span><span class="src">MarkTechPost（RSS）</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">2 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 25%</span>
+            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.9 18:06</span>
+            <span class="card-score mono">信号强度 77</span>
+          </div>
+          <h3 class="card-title"><a href="https://www.aibase.com/news/29500" target="_blank" rel="noopener">AI&quot;按量计费&quot;吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱</a></h3>
+          <div class="src-list"><span class="src">AIbase</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.8 16:29</span>
+            <span class="card-score mono">信号强度 76</span>
+          </div>
+          <h3 class="card-title"><a href="https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos" target="_blank" rel="noopener">GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞</a></h3>
+          <div class="src-list"><span class="src">Hacker News 热门（buzzing.cc 中文翻译）</span><span class="src">noma.security</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">2 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 25%</span>
+            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.8 08:00</span>
+            <span class="card-score mono">信号强度 75</span>
+          </div>
+          <h3 class="card-title"><a href="https://cursor.com/blog/grok-4-5" target="_blank" rel="noopener">推出 Grok 4.5</a></h3>
+          <div class="src-list"><span class="src">Cursor Blog</span><span class="src">Hacker News · 24h最热</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">2 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 25%</span>
+            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.9 18:06</span>
+            <span class="card-score mono">信号强度 77</span>
+          </div>
+          <h3 class="card-title"><a href="https://www.aibase.com/news/29490" target="_blank" rel="noopener">AI编码圈再传重磅：瑞典新星Lovable估值或将翻倍至 132 亿美元</a></h3>
+          <div class="src-list"><span class="src">AIbase</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">7.9 08:45</span>
+            <span class="card-score mono">信号强度 76</span>
+          </div>
+          <h3 class="card-title"><a href="https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0" target="_blank" rel="noopener">Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型</a></h3>
+          <div class="src-list"><span class="src">MarkTechPost Research</span><span class="src">MarkTechPost（RSS）</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">2 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 25%</span>
+            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+      </div>
+    </section>
 
-    <script src="https://cdn.jsdelivr.net/npm/gsap@3.13.0/dist/gsap.min.js" integrity="sha384-HOvlOYPIs/zjoIkWUGXkVmXsjr8GuZLV+Q+rcPwmJOVZVpvTSXQChiN4t9Euv9Vc" crossorigin="anonymous" defer></script>
-    <script src="./assets/motion.js?v=ui-adjustment-0620a" defer></script>
-    <script src="./assets/app.js?v=ui-polish-0626a" defer></script>
-  </body>
+  <footer class="colophon">
+    <p>本期内容由 <a href="https://github.com/LearnPrompt/ai-news-radar" target="_blank" rel="noopener">ai-news-radar</a> 管线自动抓取、合并、打分、翻译、精选生成。伯乐 Skill 从一堆信源里选出千里马。所有故事均附原帖跳转链接。</p>
+    <div class="fine mono">AI 雷达周报 · 2026年7月9日 · AI Radar Weekly</div>
+  </footer>
+
+</div>
+</body>
 </html>

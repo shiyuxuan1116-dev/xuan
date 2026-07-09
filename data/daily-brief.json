@@ -1,8 +1,109 @@
 {
-  "generated_at": "2026-07-09T03:18:07.519442Z",
-  "window_hours": 24,
+  "generated_at": "2026-07-09T10:06:58.379396Z",
+  "window_hours": 168,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_f2a3364a10eb",
+      "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "primary_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
+          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
+          "title": "原生速度的 vLLM transformers 建模后端",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "aca921c6d55d05c43d1e4bc9f5a739046d120794",
+          "title": "原生速度 vLLM Transformer 建模后端",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T18:05:51.366000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）",
+        "huggingface.co"
+      ],
+      "items": [
+        {
+          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
+          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
+          "title": "原生速度的 vLLM transformers 建模后端",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "aca921c6d55d05c43d1e4bc9f5a739046d120794",
+          "title": "原生速度 vLLM Transformer 建模后端",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T18:05:51.366000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.85,
+      "importance": 0.85,
+      "importance_score": 0.85,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.611,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T00:00:00Z",
+      "latest_at": "2026-07-08T18:05:51.366000Z",
+      "primary_item": {
+        "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
+        "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_eaad4cbcfa7f",
       "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
@@ -28,20 +129,10 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-08T13:00:00Z"
-        },
-        {
-          "id": "888663806c2cbc353d34c6020c85a0ae760bc7f5",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / OpenAI no longer recommends SWE-Bench Pro",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-08T21:03:51Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News",
         "OpenAI News",
         "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
@@ -63,29 +154,20 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-08T13:00:00Z"
-        },
-        {
-          "id": "888663806c2cbc353d34c6020c85a0ae760bc7f5",
-          "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / OpenAI no longer recommends SWE-Bench Pro",
-          "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-08T21:03:51Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8804,
-      "importance": 0.8804,
-      "importance_score": 0.8804,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.8134,
-        "story_heat": 0.5
+        "recency": 0.7372,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
@@ -95,230 +177,12 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-08T13:00:00Z",
-      "latest_at": "2026-07-08T21:03:51Z",
+      "latest_at": "2026-07-08T13:00:00Z",
       "primary_item": {
         "id": "5237c2d47f7e1265bb14c03a806f22d9d78e9b1e",
         "title": "OpenAI 审计 SWE-Bench Pro 发现约 30% 的评测任务存在缺陷 / Separating signal from noise in coding evaluations",
         "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_779e86c533da",
-      "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-      "primary_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
-          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T14:37:37.637000Z"
-        },
-        {
-          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T14:04:11Z"
-        },
-        {
-          "id": "b303fd6e5895d48ee052cf4d99de651f402e0949",
-          "title": "GitLost：我们欺骗 GitHub 的 AI 代理泄露私人存储库 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://news.ycombinator.com/item?id=48827858",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-08T08:53:34.412000Z"
-        },
-        {
-          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
-          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "149b395bda8209106bf9356f6cd604ca32b0e32f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-08T05:25:35Z"
-        }
-      ],
-      "source_count": 6,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "Lobsters (技术社区)",
-        "hackernews",
-        "noma.security"
-      ],
-      "items": [
-        {
-          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "60e1b51a5641a0374de0f40bc74439db76111cf2",
-          "title": "GitLost：我们是如何诱使 GitHub 的 AI 代理泄露私有仓库的",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T14:37:37.637000Z"
-        },
-        {
-          "id": "e33fc48e0f87019718a645844610f5ff1864458f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: How We Tricked GitHub’s AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T14:04:11Z"
-        },
-        {
-          "id": "b303fd6e5895d48ee052cf4d99de651f402e0949",
-          "title": "GitLost：我们欺骗 GitHub 的 AI 代理泄露私人存储库 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://news.ycombinator.com/item?id=48827858",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-08T08:53:34.412000Z"
-        },
-        {
-          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
-          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "noma.security",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T08:29:47.091000Z"
-        },
-        {
-          "id": "149b395bda8209106bf9356f6cd604ca32b0e32f",
-          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞 / GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-08T05:25:35Z"
-        }
-      ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.8518,
-      "importance": 0.8518,
-      "importance_score": 0.8518,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7622,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T05:25:35Z",
-      "latest_at": "2026-07-08T14:37:37.637000Z",
-      "primary_item": {
-        "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
-        "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
-        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5535aeb9eb9d",
-      "title": "代理商数据 / Data for Agents",
-      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "primary_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
-          "title": "代理商数据 / Data for Agents",
-          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T17:16:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
-          "title": "代理商数据 / Data for Agents",
-          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T17:16:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8651,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T17:16:05Z",
-      "latest_at": "2026-07-08T17:16:05Z",
-      "primary_item": {
-        "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
-        "title": "代理商数据 / Data for Agents",
-        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -357,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8355,
-      "importance": 0.8355,
-      "importance_score": 0.8355,
+      "score": 0.8202,
+      "importance": 0.8202,
+      "importance_score": 0.8202,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9084,
+        "recency": 0.8233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,15 +283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8288,
-      "importance": 0.8288,
-      "importance_score": 0.8288,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9156,
+        "recency": 0.8298,
         "story_heat": 0.0
       },
       "category": "official",
@@ -447,122 +311,248 @@
       }
     },
     {
-      "story_id": "story_9f661bf376d1",
-      "title": "Robostral Navigate：Mistral AI 首个具身导航模型",
-      "url": "https://mistral.ai/news/robostral-navigate",
-      "primary_url": "https://mistral.ai/news/robostral-navigate",
-      "source": "Mistral AI：News（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_d7499a6963c6",
+      "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / Introducing GPT-Live",
+      "url": "https://openai.com/index/introducing-gpt-live",
+      "primary_url": "https://openai.com/index/introducing-gpt-live",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "9603ada35633ee3a2b044bddffe571e3776fc612",
-          "title": "Robostral Navigate：Mistral AI 首个具身导航模型",
-          "url": "https://mistral.ai/news/robostral-navigate",
-          "source": "Mistral AI：News（网页）",
+          "id": "1566758863d4711f264c204bdc76017a1cfaafca",
+          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / Introducing GPT-Live",
+          "url": "https://openai.com/index/introducing-gpt-live",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "bda0da780e29f43df71a04769d0a3557258dce37",
+          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型",
+          "url": "https://openai.com/index/introducing-gpt-live",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T14:33:24.981000Z"
+          "published_at": "2026-07-08T00:00:00Z"
         },
         {
-          "id": "b59b36237b0b9464cc075c4579d965327560ebe6",
-          "title": "Mistral 的 Robostral Navigate：一种最先进的机器人导航模型",
-          "url": "https://mistral.ai/news/robostral-navigate",
-          "source": "mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T15:41:26.903000Z"
-        },
-        {
-          "id": "600bcfb19dba24bbcf97cee88e6c5cae0fb872bd",
-          "title": "Mistral 的 Robostral Navigate：最先进的机器人导航模型 / Mistral's Robostral Navigate: a state of the art robotics navigation model",
-          "url": "https://news.ycombinator.com/item?id=48832212",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-08T15:21:20.665000Z"
-        },
-        {
-          "id": "1b680dd8aeb9412d10ee43d1de25b5d790df8307",
-          "title": "Robostral Navigate：Mistral AI 首个具身导航模型 / Mistral's Robostral Navigate: a state of the art robotics navigation model",
-          "url": "https://mistral.ai/news/robostral-navigate",
+          "id": "025b31d1fa5a80ac4a10590c0d8d2e9bfcf0c392",
+          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / GPT‑Live",
+          "url": "https://openai.com/index/introducing-gpt-live",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-08T14:09:17Z"
+          "published_at": "2026-07-08T17:03:19Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "Mistral AI：News（网页）",
-        "hackernews",
-        "mistral.ai"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "9603ada35633ee3a2b044bddffe571e3776fc612",
-          "title": "Robostral Navigate：Mistral AI 首个具身导航模型",
-          "url": "https://mistral.ai/news/robostral-navigate",
-          "source": "Mistral AI：News（网页）",
+          "id": "1566758863d4711f264c204bdc76017a1cfaafca",
+          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / Introducing GPT-Live",
+          "url": "https://openai.com/index/introducing-gpt-live",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "bda0da780e29f43df71a04769d0a3557258dce37",
+          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型",
+          "url": "https://openai.com/index/introducing-gpt-live",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T14:33:24.981000Z"
+          "published_at": "2026-07-08T00:00:00Z"
         },
         {
-          "id": "b59b36237b0b9464cc075c4579d965327560ebe6",
-          "title": "Mistral 的 Robostral Navigate：一种最先进的机器人导航模型",
-          "url": "https://mistral.ai/news/robostral-navigate",
-          "source": "mistral.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-08T15:41:26.903000Z"
-        },
-        {
-          "id": "600bcfb19dba24bbcf97cee88e6c5cae0fb872bd",
-          "title": "Mistral 的 Robostral Navigate：最先进的机器人导航模型 / Mistral's Robostral Navigate: a state of the art robotics navigation model",
-          "url": "https://news.ycombinator.com/item?id=48832212",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-08T15:21:20.665000Z"
-        },
-        {
-          "id": "1b680dd8aeb9412d10ee43d1de25b5d790df8307",
-          "title": "Robostral Navigate：Mistral AI 首个具身导航模型 / Mistral's Robostral Navigate: a state of the art robotics navigation model",
-          "url": "https://mistral.ai/news/robostral-navigate",
+          "id": "025b31d1fa5a80ac4a10590c0d8d2e9bfcf0c392",
+          "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / GPT‑Live",
+          "url": "https://openai.com/index/introducing-gpt-live",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-08T14:09:17Z"
+          "published_at": "2026-07-08T17:03:19Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
-      "importance_label": "多源热议",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8319,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.611,
+        "story_heat": 0.5
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
+        "official_source",
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T14:09:17Z",
-      "latest_at": "2026-07-08T15:41:26.903000Z",
+      "earliest_at": "2026-07-08T00:00:00Z",
+      "latest_at": "2026-07-08T17:03:19Z",
       "primary_item": {
-        "id": "9603ada35633ee3a2b044bddffe571e3776fc612",
-        "title": "Robostral Navigate：Mistral AI 首个具身导航模型",
-        "url": "https://mistral.ai/news/robostral-navigate",
-        "source": "Mistral AI：News（网页）",
-        "source_name": "AI HOT"
+        "id": "1566758863d4711f264c204bdc76017a1cfaafca",
+        "title": "OpenAI 发布 GPT-Live 新一代全双工语音模型 / Introducing GPT-Live",
+        "url": "https://openai.com/index/introducing-gpt-live",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5535aeb9eb9d",
+      "title": "代理商数据 / Data for Agents",
+      "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "primary_url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+          "title": "代理商数据 / Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:16:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+          "title": "代理商数据 / Data for Agents",
+          "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T17:16:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8291,
+      "importance": 0.8291,
+      "importance_score": 0.8291,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.784,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T17:16:05Z",
+      "latest_at": "2026-07-08T17:16:05Z",
+      "primary_item": {
+        "id": "2cca5aea8ac52a4b7b0dbb9734a6748bcc4cde9d",
+        "title": "代理商数据 / Data for Agents",
+        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f7eb2a868aac",
+      "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
+          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T08:54:00Z"
+        },
+        {
+          "id": "15e5c24883cb7c67bee1ee7f9237382a140f9eca",
+          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T08:54:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google AI Blog",
+        "Google Blog：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
+          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T08:54:00Z"
+        },
+        {
+          "id": "15e5c24883cb7c67bee1ee7f9237382a140f9eca",
+          "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+          "source": "Google Blog：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T08:54:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.4913,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T08:54:00Z",
+      "latest_at": "2026-07-07T08:54:00Z",
+      "primary_item": {
+        "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
+        "title": "Gemini API Managed Agents 新增后台执行、远程 MCP 与自定义函数等能力 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -600,15 +590,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8796,
+        "recency": 0.7971,
         "story_heat": 0.0
       },
       "category": "official",
@@ -625,6 +615,168 @@
         "url": "https://github.blog/changelog/2026-07-08-github-copilot-in-visual-studio-code-june-2026-releases",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_766f1264711d",
+      "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
+      "url": "https://www.ithome.com/0/974/517.htm",
+      "primary_url": "https://www.ithome.com/0/974/517.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4c3b3076a63496f74b08ab3d12f9b348751c5ff1",
+          "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
+          "url": "https://www.ithome.com/0/974/517.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T07:06:00Z"
+        },
+        {
+          "id": "fc61deb727faab04353cf695367c03d72eb304e6",
+          "title": "全球首个面向具身智能的视频基模，蚂蚁灵波 LingBot-Video 开源",
+          "url": "https://www.ithome.com/0/974/517.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-09T07:06:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4c3b3076a63496f74b08ab3d12f9b348751c5ff1",
+          "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
+          "url": "https://www.ithome.com/0/974/517.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T07:06:00Z"
+        },
+        {
+          "id": "fc61deb727faab04353cf695367c03d72eb304e6",
+          "title": "全球首个面向具身智能的视频基模，蚂蚁灵波 LingBot-Video 开源",
+          "url": "https://www.ithome.com/0/974/517.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-09T07:06:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9574,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T07:06:00Z",
+      "latest_at": "2026-07-09T07:06:00Z",
+      "primary_item": {
+        "id": "4c3b3076a63496f74b08ab3d12f9b348751c5ff1",
+        "title": "蚂蚁灵波开源全球首个面向具身智能的MoE视频基模LingBot-Video",
+        "url": "https://www.ithome.com/0/974/517.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b1da07b1e47d",
+      "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
+      "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+      "primary_url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ae5727862d8df5235b90365ad06ee86f9f9b86c1",
+          "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
+          "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T08:47:37Z"
+        },
+        {
+          "id": "0012264c227029a32f0dbe7b21de53a7d631c69b",
+          "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍 / NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput",
+          "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T08:47:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ae5727862d8df5235b90365ad06ee86f9f9b86c1",
+          "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
+          "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-09T08:47:37Z"
+        },
+        {
+          "id": "0012264c227029a32f0dbe7b21de53a7d631c69b",
+          "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍 / NVIDIA Releases Nemotron-Labs-3-Puzzle-75B-A9B: A Compressed Hybrid MoE LLM Delivering 2.03x Server Throughput at Matched User Throughput",
+          "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T08:47:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7832,
+      "importance": 0.7832,
+      "importance_score": 0.7832,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9811,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T08:47:37Z",
+      "latest_at": "2026-07-09T08:47:37Z",
+      "primary_item": {
+        "id": "ae5727862d8df5235b90365ad06ee86f9f9b86c1",
+        "title": "NVIDIA 发布 Nemotron-Labs-3-Puzzle-75B-A9B：压缩混合 MoE 模型，服务器吞吐量提升 2.03 倍",
+        "url": "https://www.marktechpost.com/2026/07/09/nvidia-releases-nemotron-labs-3-puzzle-75b-a9b-a-compressed-hybrid-moe-llm-delivering-2-03x-server-throughput-at-matched-user-throughput",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -662,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8494,
+        "recency": 0.7698,
         "story_heat": 0.0
       },
       "category": "official",
@@ -687,87 +839,6 @@
         "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4b08748849bd",
-      "title": "MiniMax计划推出新一代大模型 参数规模2.7万亿",
-      "url": "https://www.aibase.com/news/29488",
-      "primary_url": "https://www.aibase.com/news/29488",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b93ed02b6def3cfdff019d40d2bc52726e6c147e",
-          "title": "MiniMax计划推出新一代大模型 参数规模2.7万亿",
-          "url": "https://www.aibase.com/news/29488",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T03:18:07.519442Z"
-        },
-        {
-          "id": "1ff5fa7f9a9e1d0917dd93a1f08fbc10f9aa6517",
-          "title": "MiniMax 计划推出新一代大模型 参数规模 2.7 万亿",
-          "url": "https://www.aibase.com/zh/news/29488",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b93ed02b6def3cfdff019d40d2bc52726e6c147e",
-          "title": "MiniMax计划推出新一代大模型 参数规模2.7万亿",
-          "url": "https://www.aibase.com/news/29488",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-09T03:18:07.519442Z"
-        },
-        {
-          "id": "1ff5fa7f9a9e1d0917dd93a1f08fbc10f9aa6517",
-          "title": "MiniMax 计划推出新一代大模型 参数规模 2.7 万亿",
-          "url": "https://www.aibase.com/zh/news/29488",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-09T03:18:07.519442Z",
-      "latest_at": "2026-07-09T03:18:07.519442Z",
-      "primary_item": {
-        "id": "b93ed02b6def3cfdff019d40d2bc52726e6c147e",
-        "title": "MiniMax计划推出新一代大模型 参数规模2.7万亿",
-        "url": "https://www.aibase.com/news/29488",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -843,15 +914,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.746,
+        "recency": 0.6761,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -867,6 +938,290 @@
         "title": "黑客可利用9款最流行的AI工具组装大规模僵尸网络",
         "url": "https://arstechnica.com/security/2026/07/hackers-can-use-9-of-the-most-popular-ai-tools-to-assemble-massive-botnets",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_244239f648c4",
+      "title": "AI\"按量计费\"吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱",
+      "url": "https://www.aibase.com/news/29500",
+      "primary_url": "https://www.aibase.com/news/29500",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fbd3e3000c5121b8fbe73fff617850d88d44aeae",
+          "title": "AI\"按量计费\"吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱",
+          "url": "https://www.aibase.com/news/29500",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T10:06:58.379396Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fbd3e3000c5121b8fbe73fff617850d88d44aeae",
+          "title": "AI\"按量计费\"吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱",
+          "url": "https://www.aibase.com/news/29500",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-09T10:06:58.379396Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-09T10:06:58.379396Z",
+      "latest_at": "2026-07-09T10:06:58.379396Z",
+      "primary_item": {
+        "id": "fbd3e3000c5121b8fbe73fff617850d88d44aeae",
+        "title": "AI\"按量计费\"吓退企业高管：近三分之一承认不懂经济账，算力账单成了黑箱",
+        "url": "https://www.aibase.com/news/29500",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_779e86c533da",
+      "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+      "primary_url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
+          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "noma.security"
+      ],
+      "items": [
+        {
+          "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+          "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        },
+        {
+          "id": "e56e5f1faa1f893f7df5991d3edd97b70095f68c",
+          "title": "GitLost：我们诱使 GitHub 的 AI 代理泄露了私有仓库",
+          "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+          "source": "noma.security",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-08T08:29:47.091000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6908,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T08:29:47.091000Z",
+      "latest_at": "2026-07-08T08:29:47.091000Z",
+      "primary_item": {
+        "id": "ac0a05587d53f82aada606789ecfb817aa9f970e",
+        "title": "GitLost：Noma Labs 发现 GitHub AI 代理提示词注入漏洞",
+        "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_018ea2c4b8d0",
+      "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+      "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T21:30:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T21:30:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8336,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T21:30:35Z",
+      "latest_at": "2026-07-08T21:30:35Z",
+      "primary_item": {
+        "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
+        "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
+        "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c33ddb5362c4",
+      "title": "推出 Grok 4.5",
+      "url": "https://cursor.com/blog/grok-4-5",
+      "primary_url": "https://cursor.com/blog/grok-4-5",
+      "source": "Cursor Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "64d2ccd5b718a3d7a07aa60fe0eebb580e2b7fa2",
+          "title": "推出 Grok 4.5",
+          "url": "https://cursor.com/blog/grok-4-5",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "c732d565a029982d33928ada112cf35508e42578",
+          "title": "Grok 4.5",
+          "url": "https://cursor.com/blog/grok-4-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-08T17:39:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Cursor Blog",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "64d2ccd5b718a3d7a07aa60fe0eebb580e2b7fa2",
+          "title": "推出 Grok 4.5",
+          "url": "https://cursor.com/blog/grok-4-5",
+          "source": "Cursor Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "c732d565a029982d33928ada112cf35508e42578",
+          "title": "Grok 4.5",
+          "url": "https://cursor.com/blog/grok-4-5",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-08T17:39:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.611,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-08T00:00:00Z",
+      "latest_at": "2026-07-08T17:39:48Z",
+      "primary_item": {
+        "id": "64d2ccd5b718a3d7a07aa60fe0eebb580e2b7fa2",
+        "title": "推出 Grok 4.5",
+        "url": "https://cursor.com/blog/grok-4-5",
+        "source": "Cursor Blog",
         "source_name": "AI HOT"
       }
     },
@@ -905,15 +1260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8057,
+      "importance": 0.8057,
+      "importance_score": 0.8057,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8193,
+        "recency": 0.7425,
         "story_heat": 0.0
       },
       "category": "official",
@@ -933,469 +1288,82 @@
       }
     },
     {
-      "story_id": "story_018ea2c4b8d0",
-      "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-      "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-      "source": "GitHub Changelog",
+      "story_id": "story_91992ed9f82d",
+      "title": "适用于 iOS 的 ChatGPT 1.2026.181 / ChatGPT for iOS 1.2026.181",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
-          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-          "source": "GitHub Changelog",
+          "id": "ff844420f91efce67a399dbfacab1001289b13b0",
+          "title": "适用于 iOS 的 ChatGPT 1.2026.181 / ChatGPT for iOS 1.2026.181",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T21:30:35Z"
+          "published_at": "2026-07-06T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
-          "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-          "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-          "source": "GitHub Changelog",
+          "id": "ff844420f91efce67a399dbfacab1001289b13b0",
+          "title": "适用于 iOS 的 ChatGPT 1.2026.181 / ChatGPT for iOS 1.2026.181",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-08T21:30:35Z"
+          "published_at": "2026-07-06T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8296,
-      "importance": 0.8296,
-      "importance_score": 0.8296,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9198,
+        "ai_relevance": 1.0,
+        "recency": 0.3055,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T21:30:35Z",
-      "latest_at": "2026-07-08T21:30:35Z",
-      "primary_item": {
-        "id": "fda793bcbf9721c40bc7a333d613cc80accb5bef",
-        "title": "内部源安全建议已普遍可用 / Innersource security advisories are generally available",
-        "url": "https://github.blog/changelog/2026-07-08-innersource-security-advisories-are-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8b657dc98587",
-      "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-      "url": "https://www.ithome.com/0/973/922.htm",
-      "primary_url": "https://www.ithome.com/0/973/922.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
-          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T03:30:52Z"
-        },
-        {
-          "id": "1f220f572ff59a3c9d1a58cf1670a0951bf9fa02",
-          "title": "结束管制：美国政府批准 OpenAI 大规模推广 GPT-5.6，Sol 明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T03:30:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
-          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T03:30:52Z"
-        },
-        {
-          "id": "1f220f572ff59a3c9d1a58cf1670a0951bf9fa02",
-          "title": "结束管制：美国政府批准 OpenAI 大规模推广 GPT-5.6，Sol 明日亮相",
-          "url": "https://www.ithome.com/0/973/922.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T03:30:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7643,
-      "importance": 0.7643,
-      "importance_score": 0.7643,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7093,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T03:30:52Z",
-      "latest_at": "2026-07-08T03:30:52Z",
-      "primary_item": {
-        "id": "95d7be903f3d2e9855c72b6588c7a151fc40e646",
-        "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
-        "url": "https://www.ithome.com/0/973/922.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2196b908122c",
-      "title": "ChatGPT Voice：口述文章的新体验",
-      "url": "https://x.com/jxnlco/status/2074905289237942512",
-      "primary_url": "https://x.com/jxnlco/status/2074905289237942512",
-      "source": "X：Jason Liu (@jxnlco)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "879e68ddb908bd8891975783c493222176970b37",
-          "title": "ChatGPT Voice：口述文章的新体验",
-          "url": "https://x.com/jxnlco/status/2074905289237942512",
-          "source": "X：Jason Liu (@jxnlco)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T17:15:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Jason Liu (@jxnlco)"
-      ],
-      "items": [
-        {
-          "id": "879e68ddb908bd8891975783c493222176970b37",
-          "title": "ChatGPT Voice：口述文章的新体验",
-          "url": "https://x.com/jxnlco/status/2074905289237942512",
-          "source": "X：Jason Liu (@jxnlco)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T17:15:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.865,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T17:15:45Z",
-      "latest_at": "2026-07-08T17:15:45Z",
-      "primary_item": {
-        "id": "879e68ddb908bd8891975783c493222176970b37",
-        "title": "ChatGPT Voice：口述文章的新体验",
-        "url": "https://x.com/jxnlco/status/2074905289237942512",
-        "source": "X：Jason Liu (@jxnlco)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_de9286311527",
-      "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
-      "url": "https://openai.com/index/k-12-educators-practical-skills",
-      "primary_url": "https://openai.com/index/k-12-educators-practical-skills",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3f6683043bf73f7539527e0c801f2599a2d2c67d",
-          "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
-          "url": "https://openai.com/index/k-12-educators-practical-skills",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3f6683043bf73f7539527e0c801f2599a2d2c67d",
-          "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
-          "url": "https://openai.com/index/k-12-educators-practical-skills",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7789,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T10:00:00Z",
-      "latest_at": "2026-07-08T10:00:00Z",
-      "primary_item": {
-        "id": "3f6683043bf73f7539527e0c801f2599a2d2c67d",
-        "title": "帮助 K-12 教育工作者培养实用的人工智能技能 / Helping K–12 educators build practical AI skills",
-        "url": "https://openai.com/index/k-12-educators-practical-skills",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3615d9eeb3d0",
-      "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-      "url": "https://x.com/berryxia/status/2074827915779580055",
-      "primary_url": "https://x.com/berryxia/status/2074827915779580055",
-      "source": "X：Berry Xia (@berryxia)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-          "url": "https://x.com/berryxia/status/2074827915779580055",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T12:08:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Berry Xia (@berryxia)"
-      ],
-      "items": [
-        {
-          "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-          "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-          "url": "https://x.com/berryxia/status/2074827915779580055",
-          "source": "X：Berry Xia (@berryxia)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T12:08:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8033,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-08T12:08:18Z",
-      "latest_at": "2026-07-08T12:08:18Z",
+      "earliest_at": "2026-07-06T00:00:00Z",
+      "latest_at": "2026-07-06T00:00:00Z",
       "primary_item": {
-        "id": "d28f4276ba025d290e91a8ea5c633b5345ba08a4",
-        "title": "在校研究生Kunkun开源管理相互调用Skill的方法",
-        "url": "https://x.com/berryxia/status/2074827915779580055",
-        "source": "X：Berry Xia (@berryxia)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8f63cacb1008",
-      "title": "工信部发布Claude Code后门安全风险提示",
-      "url": "https://x.com/xiaohu/status/2074736623284256881",
-      "primary_url": "https://x.com/xiaohu/status/2074736623284256881",
-      "source": "X：小互 (@xiaohu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
-          "title": "工信部发布Claude Code后门安全风险提示",
-          "url": "https://x.com/xiaohu/status/2074736623284256881",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T06:05:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：小互 (@xiaohu)"
-      ],
-      "items": [
-        {
-          "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
-          "title": "工信部发布Claude Code后门安全风险提示",
-          "url": "https://x.com/xiaohu/status/2074736623284256881",
-          "source": "X：小互 (@xiaohu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T06:05:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7362,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-08T06:05:32Z",
-      "latest_at": "2026-07-08T06:05:32Z",
-      "primary_item": {
-        "id": "0dfd1615a1b6dfde0d3ca442cdf89d95394f1992",
-        "title": "工信部发布Claude Code后门安全风险提示",
-        "url": "https://x.com/xiaohu/status/2074736623284256881",
-        "source": "X：小互 (@xiaohu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ce2436329e7b",
-      "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-      "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-      "primary_url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T20:50:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-          "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-          "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T20:50:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.828,
-      "importance": 0.828,
-      "importance_score": 0.828,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9108,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T20:50:07Z",
-      "latest_at": "2026-07-08T20:50:07Z",
-      "primary_item": {
-        "id": "dc8d60599ab200e5955dc21c6a580e694060f841",
-        "title": "用于 VS Code 和 CLI 的企业管理 OpenTelemetry 导出 / Enterprise-managed OpenTelemetry export for VS Code and CLI",
-        "url": "https://github.blog/changelog/2026-07-08-enterprise-managed-opentelemetry-export-for-vs-code-and-cli",
-        "source": "GitHub Changelog",
+        "id": "ff844420f91efce67a399dbfacab1001289b13b0",
+        "title": "适用于 iOS 的 ChatGPT 1.2026.181 / ChatGPT for iOS 1.2026.181",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_8975b8eaee74",
-      "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
-      "url": "https://www.aibase.com/news/29483",
-      "primary_url": "https://www.aibase.com/news/29483",
+      "story_id": "story_c8893867c66a",
+      "title": "AI编码圈再传重磅：瑞典新星Lovable估值或将翻倍至 132 亿美元",
+      "url": "https://www.aibase.com/news/29490",
+      "primary_url": "https://www.aibase.com/news/29490",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9a915130a90bcdda27facb34d42f255e75a74f03",
-          "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
-          "url": "https://www.aibase.com/news/29483",
+          "id": "a8e2af4964cfb63f85281b2082e4207b8fc90859",
+          "title": "AI编码圈再传重磅：瑞典新星Lovable估值或将翻倍至 132 亿美元",
+          "url": "https://www.aibase.com/news/29490",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-09T03:18:07.519442Z"
+          "published_at": "2026-07-09T10:06:58.379396Z"
         }
       ],
       "source_count": 1,
@@ -1404,13 +1372,13 @@
       ],
       "items": [
         {
-          "id": "9a915130a90bcdda27facb34d42f255e75a74f03",
-          "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
-          "url": "https://www.aibase.com/news/29483",
+          "id": "a8e2af4964cfb63f85281b2082e4207b8fc90859",
+          "title": "AI编码圈再传重磅：瑞典新星Lovable估值或将翻倍至 132 亿美元",
+          "url": "https://www.aibase.com/news/29490",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-09T03:18:07.519442Z"
+          "published_at": "2026-07-09T10:06:58.379396Z"
         }
       ],
       "item_count": 1,
@@ -1431,79 +1399,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-09T03:18:07.519442Z",
-      "latest_at": "2026-07-09T03:18:07.519442Z",
+      "earliest_at": "2026-07-09T10:06:58.379396Z",
+      "latest_at": "2026-07-09T10:06:58.379396Z",
       "primary_item": {
-        "id": "9a915130a90bcdda27facb34d42f255e75a74f03",
-        "title": "AI创作新高度：字节跳动发布Seedream 5.0 Pro，开启交互式精准编辑时代",
-        "url": "https://www.aibase.com/news/29483",
+        "id": "a8e2af4964cfb63f85281b2082e4207b8fc90859",
+        "title": "AI编码圈再传重磅：瑞典新星Lovable估值或将翻倍至 132 亿美元",
+        "url": "https://www.aibase.com/news/29490",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a21a2c62d75d",
-      "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
-      "url": "https://www.ithome.com/0/974/169.htm",
-      "primary_url": "https://www.ithome.com/0/974/169.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_123c3b05241e",
+      "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
+      "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+      "primary_url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+      "source": "MarkTechPost（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "97f7d0ca3409897250466842e3968e118c32f8e1",
-          "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
-          "url": "https://www.ithome.com/0/974/169.htm",
-          "source": "IT之家（RSS）",
+          "id": "ed770107cfac540b8fd1a942953419666a534758",
+          "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
+          "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T09:55:17Z"
+          "published_at": "2026-07-09T00:45:39Z"
         },
         {
-          "id": "45f07a6667890e78181627288634074faec0ef9b",
-          "title": "未上报凶手暴力 ChatGPT 对话，加拿大一省拟就校园枪击案起诉 OpenAI",
-          "url": "https://www.ithome.com/0/974/169.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T09:55:17Z"
+          "id": "17bc39a48bca8c98fb83c567d5be8ce7e778c934",
+          "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型 / Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation",
+          "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T00:45:39Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "97f7d0ca3409897250466842e3968e118c32f8e1",
-          "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
-          "url": "https://www.ithome.com/0/974/169.htm",
-          "source": "IT之家（RSS）",
+          "id": "ed770107cfac540b8fd1a942953419666a534758",
+          "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
+          "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+          "source": "MarkTechPost（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-08T09:55:17Z"
+          "published_at": "2026-07-09T00:45:39Z"
         },
         {
-          "id": "45f07a6667890e78181627288634074faec0ef9b",
-          "title": "未上报凶手暴力 ChatGPT 对话，加拿大一省拟就校园枪击案起诉 OpenAI",
-          "url": "https://www.ithome.com/0/974/169.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-08T09:55:17Z"
+          "id": "17bc39a48bca8c98fb83c567d5be8ce7e778c934",
+          "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型 / Robbyant Releases LingBot-VLA 2.0: An Open-Source 6B Vision-Language-Action (VLA) Model for Cross-Embodiment Robot Manipulation",
+          "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-09T00:45:39Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.778,
+        "recency": 0.8736,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1512,13 +1480,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T09:55:17Z",
-      "latest_at": "2026-07-08T09:55:17Z",
+      "earliest_at": "2026-07-09T00:45:39Z",
+      "latest_at": "2026-07-09T00:45:39Z",
       "primary_item": {
-        "id": "97f7d0ca3409897250466842e3968e118c32f8e1",
-        "title": "加拿大不列颠哥伦比亚省拟起诉OpenAI：未上报ChatGPT暴力对话致校园枪击惨案",
-        "url": "https://www.ithome.com/0/974/169.htm",
-        "source": "IT之家（RSS）",
+        "id": "ed770107cfac540b8fd1a942953419666a534758",
+        "title": "Robbyant 发布 LingBot-VLA 2.0：开源 6B 跨实体机器人视觉-语言-动作模型",
+        "url": "https://www.marktechpost.com/2026/07/08/lingbot-vla-2-0",
+        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     }
