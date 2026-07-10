@@ -2,11 +2,13 @@ name: Weekly AI Radar Magazine
 
 on:
   schedule:
-    - cron: "0 1 * * 1"
+    - cron: '0 1 * * 1'
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build-and-deploy:
@@ -18,7 +20,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: '3.11'
 
       - name: Install dependencies
         run: |
@@ -32,19 +34,26 @@ jobs:
         run: |
           python scripts/generate_magazine.py --input data/daily-brief.json --output data/weekly-magazine.html --title "AI 雷达周报" --subtitle "AI Radar Weekly"
 
+      - name: Copy to Pages root
+        run: |
+          cp data/weekly-magazine.html index.html
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ index.html
           git commit -m "weekly magazine: $(date -u +%Y-%m-%d)" || exit 0
           git push
+
+      - name: Deploy to Pages
+        uses: actions/deploy-pages@v4
 
       - name: Notify Feishu
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
           FEISHU_BOT_OPEN_ID: ${{ secrets.FEISHU_BOT_OPEN_ID }}
-          MAGAZINE_HTML_PATH: data/weekly-magazine.html
+          MAGAZINE_URL: https://shiyuxuan1116-dev.github.io/xuan/
         run: |
           python scripts/notify_feishu.py
