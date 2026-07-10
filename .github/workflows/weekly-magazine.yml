@@ -2,7 +2,7 @@ name: Weekly AI Radar Magazine
 
 on:
   schedule:
-    - cron: '0 1 * * 1'
+    - cron: "0 1 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -18,7 +18,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
         run: |
@@ -27,3 +27,24 @@ jobs:
       - name: Fetch news (7 days for weekly)
         run: |
           python scripts/update_news.py --output-dir data --window-hours 168
+
+      - name: Generate magazine HTML
+        run: |
+          python scripts/generate_magazine.py --input data/daily-brief.json --output data/weekly-magazine.html --title "AI 雷达周报" --subtitle "AI Radar Weekly"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "weekly magazine: $(date -u +%Y-%m-%d)" || exit 0
+          git push
+
+      - name: Notify Feishu
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+          FEISHU_BOT_OPEN_ID: ${{ secrets.FEISHU_BOT_OPEN_ID }}
+          MAGAZINE_HTML_PATH: data/weekly-magazine.html
+        run: |
+          python scripts/notify_feishu.py
