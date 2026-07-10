@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T03:44:03.964800Z",
+  "generated_at": "2026-07-10T05:55:57.627907Z",
   "window_hours": 168,
   "total_items": 20,
   "items": [
@@ -110,15 +110,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.9106,
-      "importance": 0.9106,
-      "importance_score": 0.9106,
+      "score": 0.9068,
+      "importance": 0.9068,
+      "importance_score": 0.9068,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.67,
+        "recency": 0.6491,
         "story_heat": 1.0
       },
       "category": "official",
@@ -211,15 +211,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8693,
-      "importance": 0.8693,
-      "importance_score": 0.8693,
+      "score": 0.865,
+      "importance": 0.865,
+      "importance_score": 0.865,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7741,
+        "recency": 0.7499,
         "story_heat": 0.5
       },
       "category": "official",
@@ -274,15 +274,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.8367,
+      "importance": 0.8367,
+      "importance_score": 0.8367,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8526,
+        "recency": 0.826,
         "story_heat": 0.0
       },
       "category": "official",
@@ -355,15 +355,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8443,
-      "importance": 0.8443,
-      "importance_score": 0.8443,
+      "score": 0.84,
+      "importance": 0.84,
+      "importance_score": 0.84,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7741,
+        "recency": 0.7499,
         "story_heat": 0.25
       },
       "category": "official",
@@ -380,6 +380,88 @@
         "title": "GPT-5.6：前沿智能，随您的雄心壮志而扩展 / GPT-5.6: Frontier intelligence that scales with your ambition",
         "url": "https://openai.com/index/gpt-5-6",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f2a3364a10eb",
+      "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "primary_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
+          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
+          "title": "原生速度的 vLLM transformers 建模后端",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
+          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:00:00Z"
+        },
+        {
+          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
+          "title": "原生速度的 vLLM transformers 建模后端",
+          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T00:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.4589,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T00:00:00Z",
+      "latest_at": "2026-07-08T00:00:00Z",
+      "primary_item": {
+        "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
+        "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
+        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -456,15 +538,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9175,
+        "recency": 0.8889,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -481,88 +563,6 @@
         "url": "https://www.pangram.com/blog/ai-in-your-feed",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f2a3364a10eb",
-      "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-      "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "primary_url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
-          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
-          "title": "原生速度的 vLLM transformers 建模后端",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
-          "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:00:00Z"
-        },
-        {
-          "id": "6efe429bd106908b4a6d1b5d7599f25c13388f77",
-          "title": "原生速度的 vLLM transformers 建模后端",
-          "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.4738,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T00:00:00Z",
-      "latest_at": "2026-07-08T00:00:00Z",
-      "primary_item": {
-        "id": "2b20caf8be18578bbbf163a30f998b12257393e5",
-        "title": "原生速度的 vLLM transformers 建模后端 / Native-speed vLLM transformers modeling backend",
-        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -600,15 +600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.67,
+        "recency": 0.6491,
         "story_heat": 0.0
       },
       "category": "official",
@@ -625,87 +625,6 @@
         "url": "https://www.anthropic.com/news/hard-questions",
         "source": "Anthropic News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2422b2378c4d",
-      "title": "马斯克公开认错\"看走眼\"：Anthropic才是AI老大，我不会拔它服务器",
-      "url": "https://www.aibase.com/news/29520",
-      "primary_url": "https://www.aibase.com/news/29520",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "401dee5b8377c7437938ec56a01b1c671db2ed1c",
-          "title": "马斯克公开认错\"看走眼\"：Anthropic才是AI老大，我不会拔它服务器",
-          "url": "https://www.aibase.com/news/29520",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T03:44:03.964800Z"
-        },
-        {
-          "id": "94e970705009cf19de0da60c35bc314f30c59154",
-          "title": "马斯克公开认错「看走眼」：Anthropic 才是 AI 老大，我不会拔它服务器",
-          "url": "https://www.aibase.com/zh/news/29520",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "401dee5b8377c7437938ec56a01b1c671db2ed1c",
-          "title": "马斯克公开认错\"看走眼\"：Anthropic才是AI老大，我不会拔它服务器",
-          "url": "https://www.aibase.com/news/29520",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-10T03:44:03.964800Z"
-        },
-        {
-          "id": "94e970705009cf19de0da60c35bc314f30c59154",
-          "title": "马斯克公开认错「看走眼」：Anthropic 才是 AI 老大，我不会拔它服务器",
-          "url": "https://www.aibase.com/zh/news/29520",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-10T03:44:03.964800Z",
-      "latest_at": "2026-07-10T03:44:03.964800Z",
-      "primary_item": {
-        "id": "401dee5b8377c7437938ec56a01b1c671db2ed1c",
-        "title": "马斯克公开认错\"看走眼\"：Anthropic才是AI老大，我不会拔它服务器",
-        "url": "https://www.aibase.com/news/29520",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -743,15 +662,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8205,
-      "importance": 0.8205,
-      "importance_score": 0.8205,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8252,
+        "recency": 0.7994,
         "story_heat": 0.0
       },
       "category": "official",
@@ -767,6 +686,68 @@
         "title": "向 Copilot 询问存储库概述 / Ask Copilot for a repository overview",
         "url": "https://github.blog/changelog/2026-07-09-ask-copilot-for-a-repository-overview",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_450af95c2f12",
+      "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
+          "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+          "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T21:11:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
+          "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+          "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T21:11:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6233,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T21:11:56Z",
+      "latest_at": "2026-07-08T21:11:56Z",
+      "primary_item": {
+        "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
+        "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
+        "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
@@ -824,15 +805,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
+      "score": 0.776,
+      "importance": 0.776,
+      "importance_score": 0.776,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.92,
+        "recency": 0.8913,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -849,68 +830,6 @@
         "url": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_450af95c2f12",
-      "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
-      "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
-          "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
-          "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T21:11:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
-          "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
-          "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T21:11:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6434,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T21:11:56Z",
-      "latest_at": "2026-07-08T21:11:56Z",
-      "primary_item": {
-        "id": "32c25b9f66a1668de61662188c040d0bad2a73c6",
-        "title": "使用 GitHub Agentic Workflows 自动化跨存储库文档 / Automating cross-repo documentation with GitHub Agentic Workflows",
-        "url": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -967,15 +886,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3809,
+        "recency": 0.369,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1030,15 +949,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
+      "score": 0.829,
+      "importance": 0.829,
+      "importance_score": 0.829,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8083,
+        "recency": 0.7831,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1055,6 +974,67 @@
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d738e13faca6",
+      "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+      "url": "https://www.aibase.com/news/29506",
+      "primary_url": "https://www.aibase.com/news/29506",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+          "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+          "url": "https://www.aibase.com/news/29506",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T05:55:57.627907Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+          "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+          "url": "https://www.aibase.com/news/29506",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-10T05:55:57.627907Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T05:55:57.627907Z",
+      "latest_at": "2026-07-10T05:55:57.627907Z",
+      "primary_item": {
+        "id": "f84bb619b9fc21f341ed1e1f9ecfaeec0217a1ef",
+        "title": "AI初创公司Lyzr利用自主研发代理自主完成1亿美元B轮融资",
+        "url": "https://www.aibase.com/news/29506",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1092,15 +1072,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7974,
-      "importance": 0.7974,
-      "importance_score": 0.7974,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.6079,
+        "recency": 0.5889,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1173,15 +1153,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8163,
+        "recency": 0.7908,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1254,15 +1234,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.62,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9719,
+        "recency": 0.9415,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1316,15 +1296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8429,
+        "recency": 0.8166,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1378,21 +1358,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9521,
+        "recency": 0.9224,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T00:20:20.110000Z",
       "latest_at": "2026-07-10T00:20:20.110000Z",
@@ -1402,6 +1381,68 @@
         "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
         "source": "Google Research：Blog（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c2a416d6e7fa",
+      "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
+          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
+          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5782,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T16:00:00Z",
+      "latest_at": "2026-07-08T16:00:00Z",
+      "primary_item": {
+        "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
+        "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1458,15 +1499,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9178,
+        "recency": 0.8892,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1483,68 +1524,6 @@
         "url": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c2a416d6e7fa",
-      "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
-          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
-          "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7794,
-      "importance": 0.7794,
-      "importance_score": 0.7794,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5969,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T16:00:00Z",
-      "latest_at": "2026-07-08T16:00:00Z",
-      "primary_item": {
-        "id": "ac55f22041029dcf20ceb60fd8acc953ff799fcb",
-        "title": "GitHub Copilot 如何为 GitHub Pages 启用零 DNS 配置 / How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
       }
     }
   ]
