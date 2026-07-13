@@ -2,7 +2,7 @@ name: Weekly AI Radar Magazine
 
 on:
   schedule:
-    - cron: '0 1 */3 * *'
+    - cron: '0 2 */3 * *'
   workflow_dispatch:
 
 permissions:
