@@ -2,7 +2,8 @@ name: Weekly AI Radar Magazine
 
 on:
   schedule:
-    - cron: '0 2 1,4,7,10,13,16,19,22,25,28 * *'
+    # 每天 UTC 02:00 = 北京 10:00 触发；是否真跑由「72h 门禁」决定
+    - cron: '0 2 * * *'
   workflow_dispatch:
 
 permissions:
@@ -17,28 +18,58 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: 72h 门禁（距上次成功推送满 72 小时才继续）
+        id: check
+        run: |
+          python3 - <<'PY'
+          import json, os, datetime
+          path = ".github/last-notify.json"
+          now = datetime.datetime.now(datetime.timezone.utc)
+          should = True
+          if os.path.exists(path):
+              try:
+                  d = json.load(open(path))
+                  last = datetime.datetime.fromisoformat(d["last_notify"].replace("Z", "+00:00"))
+                  h = (now - last).total_seconds() / 3600
+                  print(f"last_notify={d['last_notify']}  elapsed_hours={h:.1f}  threshold=72")
+                  should = h >= 72
+              except Exception as e:
+                  print(f"解析 last-notify 失败({e}) → 允许运行")
+          else:
+              print("无 last-notify 记录 → 首次运行，允许")
+          print(f"should_run={'true' if should else 'false'}")
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write(f"should_run={'true' if should else 'false'}\n")
+          PY
+
       - name: Setup Python
+        if: steps.check.outputs.should_run == 'true'
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
+        if: steps.check.outputs.should_run == 'true'
         run: |
           pip install -r requirements.txt
 
       - name: Fetch news (7 days for weekly)
+        if: steps.check.outputs.should_run == 'true'
         run: |
           python scripts/update_news.py --output-dir data --window-hours 168
 
       - name: Generate magazine HTML
+        if: steps.check.outputs.should_run == 'true'
         run: |
           python scripts/generate_magazine.py --input data/daily-brief.json --output data/weekly-magazine.html --title "AI 雷达周报" --subtitle "AI Radar Weekly"
 
       - name: Copy to Pages root
+        if: steps.check.outputs.should_run == 'true'
         run: |
           cp data/weekly-magazine.html index.html
 
       - name: Commit and push
+        if: steps.check.outputs.should_run == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -47,14 +78,18 @@ jobs:
           git push
 
       - name: Upload Pages artifact
+        if: steps.check.outputs.should_run == 'true'
         uses: actions/upload-pages-artifact@v3
         with:
           path: '.'
 
       - name: Deploy to Pages
+        if: steps.check.outputs.should_run == 'true'
         uses: actions/deploy-pages@v4
 
       - name: Notify Feishu
+        id: notify
+        if: steps.check.outputs.should_run == 'true'
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
@@ -62,3 +97,19 @@ jobs:
           MAGAZINE_URL: https://shiyuxuan1116-dev.github.io/xuan/
         run: |
           python scripts/notify_feishu.py
+
+      - name: 邮件推送成功 → 盖时间戳（下次 72h 倒计时基准）
+        if: steps.check.outputs.should_run == 'true' && success()
+        run: |
+          python3 - <<'PY'
+          import json, datetime
+          now = datetime.datetime.now(datetime.timezone.utc).isoformat()
+          with open(".github/last-notify.json", "w") as f:
+              json.dump({"last_notify": now}, f, ensure_ascii=False, indent=2)
+          print(f"stamped last_notify={now}")
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .github/last-notify.json
+          git commit -m "chore: stamp last-notify (72h gate)" || exit 0
+          git push
