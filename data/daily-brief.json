@@ -1,8 +1,90 @@
 {
-  "generated_at": "2026-07-22T05:16:26.029784Z",
+  "generated_at": "2026-07-23T02:23:34.937425Z",
   "window_hours": 168,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_482712912042",
+      "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+      "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+      "primary_url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d153609eb57845646058e7718e14183113f17a91",
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:38:54Z"
+        },
+        {
+          "id": "6455cb01f12eeec7cf0e56dc41b5e06e9d009007",
+          "title": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分 / Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "d153609eb57845646058e7718e14183113f17a91",
+          "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:38:54Z"
+        },
+        {
+          "id": "6455cb01f12eeec7cf0e56dc41b5e06e9d009007",
+          "title": "谷歌承诺为创世任务投入 4000 万美元的人工智能代币和积分 / Google commits $40M in AI tokens and credits for the Genesis Mission",
+          "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8387,
+      "importance": 0.8387,
+      "importance_score": 0.8387,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8319,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T13:38:54Z",
+      "latest_at": "2026-07-23T02:23:34.937425Z",
+      "primary_item": {
+        "id": "d153609eb57845646058e7718e14183113f17a91",
+        "title": "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission",
+        "url": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_20b0eb2d5c14",
       "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident during model evaluation",
@@ -30,24 +112,6 @@
           "published_at": "2026-07-21T07:00:00Z"
         },
         {
-          "id": "29119a66f1868a2b558b802e2d4078dcfc2660fb",
-          "title": "OpenAI模型突破安全沙箱，入侵Hugging Face获取数据以通过测试",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T21:47:48.098000Z"
-        },
-        {
-          "id": "fba18341e51c956c08af218056c9ebec7d33e0fd",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T20:43:27.075000Z"
-        },
-        {
           "id": "966b3c0d8e2b38c51fa30a9dd478de6824d3ad4a",
           "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
           "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
@@ -55,24 +119,13 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-07-21T20:38:04Z"
-        },
-        {
-          "id": "db9d67dc5cd5c793b75ca2ce586be1942a5ff124",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:09:52Z"
         }
       ],
-      "source_count": 6,
+      "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Lobsters (技术社区)",
         "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
@@ -94,24 +147,6 @@
           "published_at": "2026-07-21T07:00:00Z"
         },
         {
-          "id": "29119a66f1868a2b558b802e2d4078dcfc2660fb",
-          "title": "OpenAI模型突破安全沙箱，入侵Hugging Face获取数据以通过测试",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T21:47:48.098000Z"
-        },
-        {
-          "id": "fba18341e51c956c08af218056c9ebec7d33e0fd",
-          "title": "OpenAI 与 Hugging Face 合作应对安全事件",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T20:43:27.075000Z"
-        },
-        {
           "id": "966b3c0d8e2b38c51fa30a9dd478de6824d3ad4a",
           "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI model breaks out of security sandbox, hacks Hugging Face for data to pass test",
           "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
@@ -119,29 +154,20 @@
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-07-21T20:38:04Z"
-        },
-        {
-          "id": "db9d67dc5cd5c793b75ca2ce586be1942a5ff124",
-          "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face address security incident during model evaluation",
-          "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T20:09:52Z"
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.9205,
-      "importance": 0.9205,
-      "importance_score": 0.9205,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.725,
-        "story_heat": 1.0
+        "recency": 0.5344,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
@@ -151,7 +177,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-21T07:00:00Z",
-      "latest_at": "2026-07-21T21:47:48.098000Z",
+      "latest_at": "2026-07-21T20:38:04Z",
       "primary_item": {
         "id": "494d38cbc59cc560c42129d01d1dc19ce9a76409",
         "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident during model evaluation",
@@ -161,68 +187,615 @@
       }
     },
     {
-      "story_id": "story_5479f7ef8f00",
-      "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
-      "primary_url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
-      "source": "Google DeepMind",
+      "story_id": "story_d8ab4e37a1c1",
+      "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "58a603ff973e405be8b22025b3eff82bfeab08a7",
-          "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
-          "source": "Google DeepMind",
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-21T15:16:30Z"
-        },
-        {
-          "id": "bd0de261b36ea5e5be6581587592ef11638034f3",
-          "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T15:17:16Z"
+          "published_at": "2026-07-22T19:00:00Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Google DeepMind",
-        "Hacker News (黑客新闻)"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "58a603ff973e405be8b22025b3eff82bfeab08a7",
-          "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
-          "source": "Google DeepMind",
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-21T15:16:30Z"
-        },
-        {
-          "id": "bd0de261b36ea5e5be6581587592ef11638034f3",
-          "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T15:17:16Z"
+          "published_at": "2026-07-22T19:00:00Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8441,
-      "importance": 0.8441,
-      "importance_score": 0.8441,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8338,
+      "importance": 0.8338,
+      "importance_score": 0.8338,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.817,
+        "recency": 0.8987,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T19:00:00Z",
+      "latest_at": "2026-07-22T19:00:00Z",
+      "primary_item": {
+        "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+        "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+        "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3710e649c509",
+      "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+      "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "primary_url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+          "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+          "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T16:21:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8652,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T16:21:47Z",
+      "latest_at": "2026-07-22T16:21:47Z",
+      "primary_item": {
+        "id": "48df5469086aeccce335ad76fcfb2954ca77ddf7",
+        "title": "新的 Copilot 使用指标影响仪表板 / New Copilot usage metrics impact dashboard",
+        "url": "https://github.blog/changelog/2026-07-22-new-copilot-usage-metrics-impact-dashboard",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.145.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "915820cb34acc5fdbeb4fd1925686a6e5ec3bf4d",
+          "title": "Codex CLI 0.145.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T00:00:00Z"
+        },
+        {
+          "id": "288af7843ad79b22d50ae7f93f96929fb0301bc8",
+          "title": "ChatGPT for iOS 1.2026.195",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T00:00:00Z"
+        },
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "Codex CLI 0.144.6",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "915820cb34acc5fdbeb4fd1925686a6e5ec3bf4d",
+          "title": "Codex CLI 0.145.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T00:00:00Z"
+        },
+        {
+          "id": "288af7843ad79b22d50ae7f93f96929fb0301bc8",
+          "title": "ChatGPT for iOS 1.2026.195",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T00:00:00Z"
+        },
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "Codex CLI 0.144.6",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.483,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-18T00:00:00Z",
+      "latest_at": "2026-07-21T00:00:00Z",
+      "primary_item": {
+        "id": "915820cb34acc5fdbeb4fd1925686a6e5ec3bf4d",
+        "title": "Codex CLI 0.145.0",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4f87af667aa6",
+      "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
+      "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+      "primary_url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f967fc89f0ed99cc18aef459c05ef4bf6caab3e",
+          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
+          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:33:48Z"
+        },
+        {
+          "id": "c493472cfb3e1f3f3cedd44ab43ec42152fd3a60",
+          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录 / Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-22T19:33:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6f967fc89f0ed99cc18aef459c05ef4bf6caab3e",
+          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
+          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T19:33:48Z"
+        },
+        {
+          "id": "c493472cfb3e1f3f3cedd44ab43ec42152fd3a60",
+          "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录 / Anthropic's $1.5B piracy settlement with book authors is a record loss that hands AI labs their biggest legal win",
+          "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-22T19:33:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.86,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9061,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T19:33:48Z",
+      "latest_at": "2026-07-22T19:33:48Z",
+      "primary_item": {
+        "id": "6f967fc89f0ed99cc18aef459c05ef4bf6caab3e",
+        "title": "Anthropic 因盗版书籍支付 15 亿美元和解金，创下集体诉讼版权赔偿纪录",
+        "url": "https://the-decoder.com/anthropics-1-5b-piracy-settlement-with-book-authors-is-a-record-loss-that-hands-ai-labs-their-biggest-legal-win",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_844ec17c6121",
+      "title": "3 Google updates from Galaxy Unpacked 2026",
+      "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+      "primary_url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+          "title": "3 Google updates from Galaxy Unpacked 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+          "title": "3 Google updates from Galaxy Unpacked 2026",
+          "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8241,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T13:00:00Z",
+      "latest_at": "2026-07-22T13:00:00Z",
+      "primary_item": {
+        "id": "96a819ef68912bdd6ca3c73d5de648448d83558b",
+        "title": "3 Google updates from Galaxy Unpacked 2026",
+        "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e9c71c13a6e7",
+      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+      "url": "https://github.com/marcelroed/gigatoken",
+      "primary_url": "https://github.com/marcelroed/gigatoken",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "a8c40916236521d37842f5fb913730ac539029cb",
+          "title": "GigaToken：语言模型分词速度提升约1000倍",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "f5fcc48e7fc6ad4c86ddb614a349ca9e55f1d88e",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers / GigaToken: ~1000x faster Language model tokenization",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-22T17:20:38Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "a8c40916236521d37842f5fb913730ac539029cb",
+          "title": "GigaToken：语言模型分词速度提升约1000倍",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T18:51:32.473000Z"
+        },
+        {
+          "id": "f5fcc48e7fc6ad4c86ddb614a349ca9e55f1d88e",
+          "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers / GigaToken: ~1000x faster Language model tokenization",
+          "url": "https://github.com/marcelroed/gigatoken",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-22T17:20:38Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8969,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T17:20:38Z",
+      "latest_at": "2026-07-22T18:51:32.473000Z",
+      "primary_item": {
+        "id": "21a6152c39f8ec4e0055c81474bcfe6c4ea9747f",
+        "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+        "url": "https://github.com/marcelroed/gigatoken",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_788f933fe449",
+      "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+      "primary_url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T23:51:33Z"
+        },
+        {
+          "id": "5312a668a7c66bf5282de0e955d021020751e19d",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T23:51:33Z"
+        },
+        {
+          "id": "5312a668a7c66bf5282de0e955d021020751e19d",
+          "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊 / OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+          "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8041,
+      "importance": 0.8041,
+      "importance_score": 0.8041,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9641,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T23:51:33Z",
+      "latest_at": "2026-07-23T02:23:34.937425Z",
+      "primary_item": {
+        "id": "58244cf6838cc24631a179988eb42df28e0b44cb",
+        "title": "OpenAI 模型在安全测试中突破沙箱入侵 Hugging Face 作弊",
+        "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+        "source": "Simon Willison 博客",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c54f46e53d48",
+      "title": "Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "primary_url": "https://openai.com/index/introducing-openai-presence",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+          "title": "Introducing OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T05:30:00Z"
+        },
+        {
+          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
+          "title": "OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-22T15:12:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+          "title": "Introducing OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T05:30:00Z"
+        },
+        {
+          "id": "917f21479e088d88c0fb8646923c28857bb19d27",
+          "title": "OpenAI Presence",
+          "url": "https://openai.com/index/introducing-openai-presence",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-22T15:12:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8301,
+      "importance": 0.8301,
+      "importance_score": 0.8301,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7396,
         "story_heat": 0.25
       },
       "category": "official",
@@ -232,13 +805,218 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T15:16:30Z",
-      "latest_at": "2026-07-21T15:17:16Z",
+      "earliest_at": "2026-07-22T05:30:00Z",
+      "latest_at": "2026-07-22T15:12:26Z",
       "primary_item": {
-        "id": "58a603ff973e405be8b22025b3eff82bfeab08a7",
-        "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-        "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
-        "source": "Google DeepMind",
+        "id": "b837aaba9a8cd4918eb0a3906625456af41df706",
+        "title": "Introducing OpenAI Presence",
+        "url": "https://openai.com/index/introducing-openai-presence",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_eed16821fcdd",
+      "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
+      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "primary_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
+          "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
+          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T20:00:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
+          "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
+          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-21T20:00:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6448,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T20:00:27Z",
+      "latest_at": "2026-07-21T20:00:27Z",
+      "primary_item": {
+        "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
+        "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
+        "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b4c8a52eb5bb",
+      "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+      "url": "https://www.aibase.com/news/29816",
+      "primary_url": "https://www.aibase.com/news/29816",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+          "url": "https://www.aibase.com/news/29816",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T02:23:34.937425Z"
+        },
+        {
+          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
+          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
+          "url": "https://www.aibase.com/zh/news/29816",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+          "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+          "url": "https://www.aibase.com/news/29816",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T02:23:34.937425Z"
+        },
+        {
+          "id": "04988b1cfa16a95e7fbd297f3af402f7360ace54",
+          "title": "原「阿里云开发者」公众号正式更名为「千问 AI 平台」",
+          "url": "https://www.aibase.com/zh/news/29816",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T02:23:34.937425Z",
+      "latest_at": "2026-07-23T02:23:34.937425Z",
+      "primary_item": {
+        "id": "13b4aff5e1d247ba140d014c2f42c94bd553f920",
+        "title": "原“阿里云开发者”公众号正式更名为“千问AI平台”",
+        "url": "https://www.aibase.com/news/29816",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1d793ca53d31",
+      "title": "Upcoming GHES change impacting uploading support bundles",
+      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "primary_url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+          "title": "Upcoming GHES change impacting uploading support bundles",
+          "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T15:05:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8494,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T15:05:19Z",
+      "latest_at": "2026-07-22T15:05:19Z",
+      "primary_item": {
+        "id": "7e955df69096ab14523d693e59f2832e5d316fe6",
+        "title": "Upcoming GHES change impacting uploading support bundles",
+        "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -296,15 +1074,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.7985,
+      "importance": 0.7985,
+      "importance_score": 0.7985,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8256,
+        "recency": 0.6086,
         "story_heat": 0.25
       },
       "category": "official",
@@ -325,245 +1103,21 @@
       }
     },
     {
-      "story_id": "story_eed16821fcdd",
-      "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
-      "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "primary_url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
-          "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
-          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T20:00:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
-          "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
-          "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T20:00:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8748,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T20:00:27Z",
-      "latest_at": "2026-07-21T20:00:27Z",
-      "primary_item": {
-        "id": "9ebf5c48305ae386c0e6a4477024ccf03d38ee44",
-        "title": "物理 AI 仿真现状：概述 / The State of Simulation for Physical AI: An Overview",
-        "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6e1bc4c47003",
-      "title": "Gemini 3.6 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
-          "title": "Gemini 3.6 Flash is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T15:04:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
-          "title": "Gemini 3.6 Flash is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-21T15:04:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8146,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T15:04:31Z",
-      "latest_at": "2026-07-21T15:04:31Z",
-      "primary_item": {
-        "id": "12329e281ad4425174fe24a37d21d0178b44ca42",
-        "title": "Gemini 3.6 Flash is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_3b721dae502e",
-      "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-      "url": "https://ads.openai.com",
-      "primary_url": "https://ads.openai.com",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "accf280639a56738b35caeae00d936182a99c7d9",
-          "title": "在ChatGPT上投放广告",
-          "url": "https://ads.openai.com",
-          "source": "ads.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "304e0d4126c9474fc37cf4a31548ed0be8179afb",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务 / Advertise in ChatGPT",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T18:58:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "ads.openai.com"
-      ],
-      "items": [
-        {
-          "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "accf280639a56738b35caeae00d936182a99c7d9",
-          "title": "在ChatGPT上投放广告",
-          "url": "https://ads.openai.com",
-          "source": "ads.openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T19:39:29.689000Z"
-        },
-        {
-          "id": "304e0d4126c9474fc37cf4a31548ed0be8179afb",
-          "title": "OpenAI 在 ChatGPT 中正式推出广告服务 / Advertise in ChatGPT",
-          "url": "https://ads.openai.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T18:58:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8704,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T18:58:44Z",
-      "latest_at": "2026-07-21T19:39:29.689000Z",
-      "primary_item": {
-        "id": "b8af78c969e2fb72ccdecda47ff3d069c0dafc0b",
-        "title": "OpenAI 在 ChatGPT 中正式推出广告服务",
-        "url": "https://ads.openai.com",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d42362617c64",
-      "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-      "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+      "story_id": "story_bd6ce42035f5",
+      "title": "Building AI infrastructure with the Effingham County community",
+      "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+      "primary_url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
+          "title": "Building AI infrastructure with the Effingham County community",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-21T17:00:00Z"
+          "published_at": "2026-07-22T13:00:00Z"
         }
       ],
       "source_count": 1,
@@ -572,26 +1126,26 @@
       ],
       "items": [
         {
-          "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-          "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-          "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
+          "title": "Building AI infrastructure with the Effingham County community",
+          "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-21T17:00:00Z"
+          "published_at": "2026-07-22T13:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8376,
+        "ai_relevance": 0.91,
+        "recency": 0.8241,
         "story_heat": 0.0
       },
       "category": "official",
@@ -600,60 +1154,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:00:00Z",
-      "latest_at": "2026-07-21T17:00:00Z",
+      "earliest_at": "2026-07-22T13:00:00Z",
+      "latest_at": "2026-07-22T13:00:00Z",
       "primary_item": {
-        "id": "b9aa56271695b6dc458f13551b888e6449f32922",
-        "title": "推出适用于小型企业的 ChatGPT 计划 / Introducing the ChatGPT for small business program",
-        "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
+        "id": "5e7f9c64c7891969d90129dd9dfdb0cbe001cf95",
+        "title": "Building AI infrastructure with the Effingham County community",
+        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_2e31341bbc0d",
-      "title": "OpenAI 与 HuggingFace 调查安全事件",
-      "url": "https://x.com/OpenAI/status/2079658951264920020",
-      "primary_url": "https://x.com/OpenAI/status/2079658951264920020",
-      "source": "X：OpenAI (@OpenAI)",
+      "story_id": "story_d9d674100731",
+      "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
+      "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
+      "primary_url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
+      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-          "title": "OpenAI 与 HuggingFace 调查安全事件",
-          "url": "https://x.com/OpenAI/status/2079658951264920020",
-          "source": "X：OpenAI (@OpenAI)",
+          "id": "972433a07cbca6415e167f2a0a186d7bcd46b590",
+          "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
+          "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T20:05:06Z"
+          "published_at": "2026-07-22T21:00:17Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI (@OpenAI)"
+        "Gary Marcus：The Road to AI We Can Trust（RSS）"
       ],
       "items": [
         {
-          "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-          "title": "OpenAI 与 HuggingFace 调查安全事件",
-          "url": "https://x.com/OpenAI/status/2079658951264920020",
-          "source": "X：OpenAI (@OpenAI)",
+          "id": "972433a07cbca6415e167f2a0a186d7bcd46b590",
+          "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
+          "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
+          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T20:05:06Z"
+          "published_at": "2026-07-22T21:00:17Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.88,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8757,
+        "recency": 0.9251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -661,141 +1215,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T20:05:06Z",
-      "latest_at": "2026-07-21T20:05:06Z",
+      "earliest_at": "2026-07-22T21:00:17Z",
+      "latest_at": "2026-07-22T21:00:17Z",
       "primary_item": {
-        "id": "e99c44acaa1e2f76ff58dbc27e47de802c6f4735",
-        "title": "OpenAI 与 HuggingFace 调查安全事件",
-        "url": "https://x.com/OpenAI/status/2079658951264920020",
-        "source": "X：OpenAI (@OpenAI)",
+        "id": "972433a07cbca6415e167f2a0a186d7bcd46b590",
+        "title": "OpenAI 系统利用零日漏洞入侵 HuggingFace 安全基准测试",
+        "url": "https://garymarcus.substack.com/p/openais-disconcerting-hack-of-huggingface",
+        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_61626271e238",
-      "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
-      "url": "https://www.aibase.com/news/29785",
-      "primary_url": "https://www.aibase.com/news/29785",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "069f33320aaaf7a0ab44956f2dc8d24a14a447b5",
-          "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
-          "url": "https://www.aibase.com/news/29785",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T05:16:26.029784Z"
-        },
-        {
-          "id": "8b3af4c6e4cb7d22f0d23309874d64614c206e57",
-          "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
-          "url": "https://www.aibase.com/zh/news/29785",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "069f33320aaaf7a0ab44956f2dc8d24a14a447b5",
-          "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
-          "url": "https://www.aibase.com/news/29785",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T05:16:26.029784Z"
-        },
-        {
-          "id": "8b3af4c6e4cb7d22f0d23309874d64614c206e57",
-          "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
-          "url": "https://www.aibase.com/zh/news/29785",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T05:16:26.029784Z",
-      "latest_at": "2026-07-22T05:16:26.029784Z",
-      "primary_item": {
-        "id": "069f33320aaaf7a0ab44956f2dc8d24a14a447b5",
-        "title": "OpenAI 正式在 ChatGPT 中推出广告服务，Best Buy 等已率先试水",
-        "url": "https://www.aibase.com/news/29785",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f3196b73cd32",
-      "title": "腾讯设计Agent平台Miora全面开放",
-      "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-      "primary_url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_5dcd050f470c",
+      "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+      "url": "https://x.com/omarsar0/status/2079982491578827214",
+      "primary_url": "https://x.com/omarsar0/status/2079982491578827214",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d50fdfa0f64e53690f99d1a2b52b1d7070bf630f",
-          "title": "腾讯设计Agent平台Miora全面开放",
-          "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-          "source": "公众号：数字生命卡兹克",
+          "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
+          "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+          "url": "https://x.com/omarsar0/status/2079982491578827214",
+          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T04:21:03Z"
+          "published_at": "2026-07-22T17:30:44Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)"
       ],
       "items": [
         {
-          "id": "d50fdfa0f64e53690f99d1a2b52b1d7070bf630f",
-          "title": "腾讯设计Agent平台Miora全面开放",
-          "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-          "source": "公众号：数字生命卡兹克",
+          "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
+          "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+          "url": "https://x.com/omarsar0/status/2079982491578827214",
+          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-22T04:21:03Z"
+          "published_at": "2026-07-22T17:30:44Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.8796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -803,60 +1276,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T04:21:03Z",
-      "latest_at": "2026-07-22T04:21:03Z",
+      "earliest_at": "2026-07-22T17:30:44Z",
+      "latest_at": "2026-07-22T17:30:44Z",
       "primary_item": {
-        "id": "d50fdfa0f64e53690f99d1a2b52b1d7070bf630f",
-        "title": "腾讯设计Agent平台Miora全面开放",
-        "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-        "source": "公众号：数字生命卡兹克",
+        "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
+        "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+        "url": "https://x.com/omarsar0/status/2079982491578827214",
+        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f07ea0986edc",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
-      "primary_url": "https://huggingface.co/blog/grabette",
-      "source": "Hugging Face Blog",
+      "story_id": "story_5479f7ef8f00",
+      "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+      "source": "Google DeepMind",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3048ed4489ec1e9727754d1b4d23059367e4c184",
-          "title": "Grabette: an open system to record robot-manipulation data",
-          "url": "https://huggingface.co/blog/grabette",
-          "source": "Hugging Face Blog",
+          "id": "58a603ff973e405be8b22025b3eff82bfeab08a7",
+          "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-21T00:00:00Z"
+          "published_at": "2026-07-21T15:16:30Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "Google DeepMind"
       ],
       "items": [
         {
-          "id": "3048ed4489ec1e9727754d1b4d23059367e4c184",
-          "title": "Grabette: an open system to record robot-manipulation data",
-          "url": "https://huggingface.co/blog/grabette",
-          "source": "Hugging Face Blog",
+          "id": "58a603ff973e405be8b22025b3eff82bfeab08a7",
+          "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+          "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-21T00:00:00Z"
+          "published_at": "2026-07-21T15:16:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.6553,
+        "ai_relevance": 0.91,
+        "recency": 0.6022,
         "story_heat": 0.0
       },
       "category": "official",
@@ -865,60 +1338,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T00:00:00Z",
-      "latest_at": "2026-07-21T00:00:00Z",
+      "earliest_at": "2026-07-21T15:16:30Z",
+      "latest_at": "2026-07-21T15:16:30Z",
       "primary_item": {
-        "id": "3048ed4489ec1e9727754d1b4d23059367e4c184",
-        "title": "Grabette: an open system to record robot-manipulation data",
-        "url": "https://huggingface.co/blog/grabette",
-        "source": "Hugging Face Blog",
+        "id": "58a603ff973e405be8b22025b3eff82bfeab08a7",
+        "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_bc7c548c4d8d",
-      "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
-      "url": "https://www.ithome.com/0/979/815.htm",
-      "primary_url": "https://www.ithome.com/0/979/815.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_f27dbe775a23",
+      "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+      "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
+      "primary_url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
+      "source": "X：SemiAnalysis (@SemiAnalysis_)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "29d063973311934cc0312d1fa62f8ff982039403",
-          "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
-          "url": "https://www.ithome.com/0/979/815.htm",
-          "source": "IT之家（RSS）",
+          "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
+          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+          "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T22:54:38Z"
+          "published_at": "2026-07-22T14:00:35Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：SemiAnalysis (@SemiAnalysis_)"
       ],
       "items": [
         {
-          "id": "29d063973311934cc0312d1fa62f8ff982039403",
-          "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
-          "url": "https://www.ithome.com/0/979/815.htm",
-          "source": "IT之家（RSS）",
+          "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
+          "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+          "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
+          "source": "X：SemiAnalysis (@SemiAnalysis_)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T22:54:38Z"
+          "published_at": "2026-07-22T14:00:35Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.8363,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -926,283 +1399,60 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T22:54:38Z",
-      "latest_at": "2026-07-21T22:54:38Z",
+      "earliest_at": "2026-07-22T14:00:35Z",
+      "latest_at": "2026-07-22T14:00:35Z",
       "primary_item": {
-        "id": "29d063973311934cc0312d1fa62f8ff982039403",
-        "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
-        "url": "https://www.ithome.com/0/979/815.htm",
-        "source": "IT之家（RSS）",
+        "id": "d0cb57ffd7404a4a981bc59f02f147d7683a9d88",
+        "title": "AMD 投资 50 亿，Anthropic 采购 2GW GPU",
+        "url": "https://x.com/SemiAnalysis_/status/2079929602429141215",
+        "source": "X：SemiAnalysis (@SemiAnalysis_)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_a81c94f16b8f",
-      "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
-      "url": "https://arxiv.org/abs/2607.19191",
-      "primary_url": "https://arxiv.org/abs/2607.19191",
-      "source": "HuggingFace Daily Papers（社区热门论文）",
+      "story_id": "story_e8fd0fe4c651",
+      "title": "微软 MagenticLite 模型全面开源",
+      "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+      "primary_url": "https://x.com/MSFTResearch/status/2079989338994069511",
+      "source": "X：Microsoft Research (@MSFTResearch)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c617fbb7fca8bbb3e6e5bc35a1bc07e1c9910ff1",
-          "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
-          "url": "https://arxiv.org/abs/2607.19191",
-          "source": "HuggingFace Daily Papers（社区热门论文）",
+          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+          "source": "X：Microsoft Research (@MSFTResearch)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T15:26:50Z"
+          "published_at": "2026-07-22T17:57:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "HuggingFace Daily Papers（社区热门论文）"
+        "X：Microsoft Research (@MSFTResearch)"
       ],
       "items": [
         {
-          "id": "c617fbb7fca8bbb3e6e5bc35a1bc07e1c9910ff1",
-          "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
-          "url": "https://arxiv.org/abs/2607.19191",
-          "source": "HuggingFace Daily Papers（社区热门论文）",
+          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+          "source": "X：Microsoft Research (@MSFTResearch)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-21T15:26:50Z"
+          "published_at": "2026-07-22T17:57:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.819,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T15:26:50Z",
-      "latest_at": "2026-07-21T15:26:50Z",
-      "primary_item": {
-        "id": "c617fbb7fca8bbb3e6e5bc35a1bc07e1c9910ff1",
-        "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成",
-        "url": "https://arxiv.org/abs/2607.19191",
-        "source": "HuggingFace Daily Papers（社区热门论文）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_01119b73028b",
-      "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
-      "primary_url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "58964ea448845690e62aa7ada30a2161b894a18b",
-          "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:11:50Z"
-        },
-        {
-          "id": "05bc4282f94a11d45e862cdf47f121e590a7dd72",
-          "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro / Google releases three new Gemini models — but no 3.5 Pro",
-          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-21T17:11:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "58964ea448845690e62aa7ada30a2161b894a18b",
-          "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:11:50Z"
-        },
-        {
-          "id": "05bc4282f94a11d45e862cdf47f121e590a7dd72",
-          "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro / Google releases three new Gemini models — but no 3.5 Pro",
-          "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-21T17:11:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.84,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T17:11:50Z",
-      "latest_at": "2026-07-21T17:11:50Z",
-      "primary_item": {
-        "id": "58964ea448845690e62aa7ada30a2161b894a18b",
-        "title": "Google DeepMind 发布三款新 Gemini 模型，但未包含 3.5 Pro",
-        "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8a76849761ae",
-      "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-      "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "primary_url": "https://qwen.ai/blog?id=qwen-image-3.0",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T06:00:00Z"
-        },
-        {
-          "id": "9e1c85bdb91b749d58b1ef2fcf5ed6849a5e4003",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T08:44:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Qwen：Blog Retrieval（API）"
-      ],
-      "items": [
-        {
-          "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T06:00:00Z"
-        },
-        {
-          "id": "9e1c85bdb91b749d58b1ef2fcf5ed6849a5e4003",
-          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\" / Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-          "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T08:44:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7146,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T06:00:00Z",
-      "latest_at": "2026-07-21T08:44:23Z",
-      "primary_item": {
-        "id": "36d38540011f8f5fcbc9e5b3b53653f01cd2a3d0",
-        "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
-        "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-        "source": "Qwen：Blog Retrieval（API）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2b4a10c6a262",
-      "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-      "url": "https://x.com/karpathy/status/2079610838143623371",
-      "primary_url": "https://x.com/karpathy/status/2079610838143623371",
-      "source": "X：Andrej Karpathy (@karpathy)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f27cd361ad5af13540c36cae62a98991594b013c",
-          "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-          "url": "https://x.com/karpathy/status/2079610838143623371",
-          "source": "X：Andrej Karpathy (@karpathy)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T16:53:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Andrej Karpathy (@karpathy)"
-      ],
-      "items": [
-        {
-          "id": "f27cd361ad5af13540c36cae62a98991594b013c",
-          "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-          "url": "https://x.com/karpathy/status/2079610838143623371",
-          "source": "X：Andrej Karpathy (@karpathy)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T16:53:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8364,
+        "recency": 0.8854,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1210,295 +1460,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T16:53:55Z",
-      "latest_at": "2026-07-21T16:53:55Z",
+      "earliest_at": "2026-07-22T17:57:57Z",
+      "latest_at": "2026-07-22T17:57:57Z",
       "primary_item": {
-        "id": "f27cd361ad5af13540c36cae62a98991594b013c",
-        "title": "Karpathy：用语音与LLM长谈可提升理解效率",
-        "url": "https://x.com/karpathy/status/2079610838143623371",
-        "source": "X：Andrej Karpathy (@karpathy)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_204ad590c8d0",
-      "title": "Claude 不是编译器--它比编译器更好",
-      "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-      "primary_url": "https://blog.exe.dev/claude-is-not-a-compiler",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1afaa93141a4e70b78e2d44d11731c2de10dba48",
-          "title": "Claude 不是编译器--它比编译器更好",
-          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:15:35.727000Z"
-        },
-        {
-          "id": "db7d943ddc2e7e78378d9b73c1263d8696947b50",
-          "title": "Claude 不是编译器",
-          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-          "source": "blog.exe.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T17:15:35.727000Z"
-        },
-        {
-          "id": "43d3fc7d75d76ad83dfc5e0009510dffe737d3bd",
-          "title": "Claude 不是编译器--它比编译器更好 / Claude Is Not a Compiler",
-          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T14:49:18Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "blog.exe.dev"
-      ],
-      "items": [
-        {
-          "id": "1afaa93141a4e70b78e2d44d11731c2de10dba48",
-          "title": "Claude 不是编译器--它比编译器更好",
-          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T17:15:35.727000Z"
-        },
-        {
-          "id": "db7d943ddc2e7e78378d9b73c1263d8696947b50",
-          "title": "Claude 不是编译器",
-          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-          "source": "blog.exe.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-21T17:15:35.727000Z"
-        },
-        {
-          "id": "43d3fc7d75d76ad83dfc5e0009510dffe737d3bd",
-          "title": "Claude 不是编译器--它比编译器更好 / Claude Is Not a Compiler",
-          "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-21T14:49:18Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8407,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T14:49:18Z",
-      "latest_at": "2026-07-21T17:15:35.727000Z",
-      "primary_item": {
-        "id": "1afaa93141a4e70b78e2d44d11731c2de10dba48",
-        "title": "Claude 不是编译器--它比编译器更好",
-        "url": "https://blog.exe.dev/claude-is-not-a-compiler",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_25ae159be541",
-      "title": "小红书 dots 模型获 IMO 2026 满分金牌",
-      "url": "https://mp.weixin.qq.com/s/EITf-SrP5o62Ljp7UGzPVw",
-      "primary_url": "https://mp.weixin.qq.com/s/EITf-SrP5o62Ljp7UGzPVw",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d31ec0496782583c871669e3350b725ef9a644bd",
-          "title": "小红书 dots 模型获 IMO 2026 满分金牌",
-          "url": "https://mp.weixin.qq.com/s/EITf-SrP5o62Ljp7UGzPVw",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T11:06:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "d31ec0496782583c871669e3350b725ef9a644bd",
-          "title": "小红书 dots 模型获 IMO 2026 满分金牌",
-          "url": "https://mp.weixin.qq.com/s/EITf-SrP5o62Ljp7UGzPVw",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T11:06:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7693,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T11:06:49Z",
-      "latest_at": "2026-07-21T11:06:49Z",
-      "primary_item": {
-        "id": "d31ec0496782583c871669e3350b725ef9a644bd",
-        "title": "小红书 dots 模型获 IMO 2026 满分金牌",
-        "url": "https://mp.weixin.qq.com/s/EITf-SrP5o62Ljp7UGzPVw",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d6ee30edc95b",
-      "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-      "url": "https://alignment.openai.com/measuring-reward-seeking",
-      "primary_url": "https://alignment.openai.com/measuring-reward-seeking",
-      "source": "OpenAI：Alignment 研究博客（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
-          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-          "url": "https://alignment.openai.com/measuring-reward-seeking",
-          "source": "OpenAI：Alignment 研究博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:10:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI：Alignment 研究博客（RSS）"
-      ],
-      "items": [
-        {
-          "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
-          "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-          "url": "https://alignment.openai.com/measuring-reward-seeking",
-          "source": "OpenAI：Alignment 研究博客（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T15:10:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8157,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-21T15:10:00Z",
-      "latest_at": "2026-07-21T15:10:00Z",
-      "primary_item": {
-        "id": "cf8dd478d1d0aab91793c13258b57ce1fb65c140",
-        "title": "OpenAI 与 Apollo Research 开发 Contrastive SDF 测试衡量 AI 的 reward-seeking 行为",
-        "url": "https://alignment.openai.com/measuring-reward-seeking",
-        "source": "OpenAI：Alignment 研究博客（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_11385d2f3bae",
-      "title": "OpenRouter 上线 Gemini 3.6 Flash 与 3.5 Flash-Lite",
-      "url": "https://x.com/OpenRouter/status/2079686435247186015",
-      "primary_url": "https://x.com/OpenRouter/status/2079686435247186015",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "86424d7feb8caa2bc8dc3b0c8058a854bedf561c",
-          "title": "OpenRouter 上线 Gemini 3.6 Flash 与 3.5 Flash-Lite",
-          "url": "https://x.com/OpenRouter/status/2079686435247186015",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T21:54:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "86424d7feb8caa2bc8dc3b0c8058a854bedf561c",
-          "title": "OpenRouter 上线 Gemini 3.6 Flash 与 3.5 Flash-Lite",
-          "url": "https://x.com/OpenRouter/status/2079686435247186015",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T21:54:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8991,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T21:54:19Z",
-      "latest_at": "2026-07-21T21:54:19Z",
-      "primary_item": {
-        "id": "86424d7feb8caa2bc8dc3b0c8058a854bedf561c",
-        "title": "OpenRouter 上线 Gemini 3.6 Flash 与 3.5 Flash-Lite",
-        "url": "https://x.com/OpenRouter/status/2079686435247186015",
-        "source": "X：OpenRouter (@OpenRouter)",
+        "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
+        "title": "微软 MagenticLite 模型全面开源",
+        "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+        "source": "X：Microsoft Research (@MSFTResearch)",
         "source_name": "AI HOT"
       }
     }
