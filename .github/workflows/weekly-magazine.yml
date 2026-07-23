@@ -2,8 +2,8 @@ name: Weekly AI Radar Magazine
 
 on:
   schedule:
-    # 每天 UTC 02:00 = 北京 10:00 触发；是否真跑由「72h 门禁」决定
-    - cron: '0 2 * * *'
+    # 每天 UTC 02:07 = 北京 10:07 触发；避开整点降低 GitHub 调度延迟。是否真跑由「72h 门禁」决定
+    - cron: '7 2 * * *'
   workflow_dispatch:
 
 permissions:
