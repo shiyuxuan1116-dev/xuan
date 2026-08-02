@@ -1,24 +1,33 @@
 {
-  "generated_at": "2026-07-30T05:16:59.561874Z",
+  "generated_at": "2026-08-02T05:35:31.032178Z",
   "window_hours": 168,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_91992ed9f82d",
-      "title": "Sign in with ChatGPT (beta)",
+      "title": "GPT-5.4 and GPT-5.4 mini retire from Codex on August 31",
       "url": "https://developers.openai.com/codex/changelog",
       "primary_url": "https://developers.openai.com/codex/changelog",
       "source": "OpenAI Codex Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "Codex CLI 0.146.0",
+          "id": "1c4c9bd5d7c55386079a901350ad446150649d54",
+          "title": "GPT-5.4 and GPT-5.4 mini retire from Codex on August 31",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
+          "published_at": "2026-07-31T00:00:00Z"
+        },
+        {
+          "id": "ac4db5b1e24a9568bea612ce663c836535244ceb",
+          "title": "Browser upgrades, multi-repository review, and image editing 26.727",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T00:00:00Z"
         },
         {
           "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
@@ -39,19 +48,28 @@
           "published_at": "2026-07-27T00:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "OpenAI Codex Changelog"
       ],
       "items": [
         {
-          "id": "5278448a75f30f980fe7619a5fc8d1b1c7468a1e",
-          "title": "Codex CLI 0.146.0",
+          "id": "1c4c9bd5d7c55386079a901350ad446150649d54",
+          "title": "GPT-5.4 and GPT-5.4 mini retire from Codex on August 31",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
+          "published_at": "2026-07-31T00:00:00Z"
+        },
+        {
+          "id": "ac4db5b1e24a9568bea612ce663c836535244ceb",
+          "title": "Browser upgrades, multi-repository review, and image editing 26.727",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T00:00:00Z"
         },
         {
           "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
@@ -72,18 +90,18 @@
           "published_at": "2026-07-27T00:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8579,
-      "importance": 0.8579,
-      "importance_score": 0.8579,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.6552,
-        "story_heat": 0.5
+        "recency": 0.4612,
+        "story_heat": 0.75
       },
       "category": "official",
       "reasons": [
@@ -93,141 +111,59 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-27T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
+      "latest_at": "2026-07-31T00:00:00Z",
       "primary_item": {
-        "id": "8e2df2f915f20e123c9d7eb041d67193f9ed8e28",
-        "title": "Sign in with ChatGPT (beta)",
+        "id": "1c4c9bd5d7c55386079a901350ad446150649d54",
+        "title": "GPT-5.4 and GPT-5.4 mini retire from Codex on August 31",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_cc8e132c6199",
-      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "primary_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "story_id": "story_6d58997b466c",
+      "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T15:00:00Z"
-        },
-        {
-          "id": "e984ba3d24dc2ff49d0639074848da76385f6a8e",
-          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T15:00:00Z"
-        },
-        {
-          "id": "e984ba3d24dc2ff49d0639074848da76385f6a8e",
-          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T15:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8495,
-      "importance": 0.8495,
-      "importance_score": 0.8495,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8136,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T15:00:00Z",
-      "latest_at": "2026-07-29T15:00:00Z",
-      "primary_item": {
-        "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-        "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6683db9728fe",
-      "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
+          "published_at": "2026-08-01T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
+          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+          "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
+          "published_at": "2026-08-01T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
+      "score": 0.7894,
+      "importance": 0.7894,
+      "importance_score": 0.7894,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8929,
+        "ai_relevance": 0.91,
+        "recency": 0.6523,
         "story_heat": 0.0
       },
       "category": "official",
@@ -236,41 +172,103 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T21:26:19Z",
-      "latest_at": "2026-07-29T21:26:19Z",
+      "earliest_at": "2026-08-01T00:00:00Z",
+      "latest_at": "2026-08-01T00:00:00Z",
       "primary_item": {
-        "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-        "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-        "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
+        "title": "数学和理论计算机科学的十大进展 / Ten advances in mathematics and theoretical computer science",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_337d712579d2",
+      "title": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+      "primary_url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+          "title": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T20:04:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+          "title": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+          "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T20:04:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6162,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T20:04:01Z",
+      "latest_at": "2026-07-31T20:04:01Z",
+      "primary_item": {
+        "id": "5fd271c683bfbeee0d767b762fce5633ab3f31d2",
+        "title": "Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+        "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_42b77c184ced",
-      "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
-      "primary_url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+      "story_id": "story_2b882e1b8e76",
+      "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
+      "primary_url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
       "source": "Google DeepMind",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
-          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
+          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T16:02:10Z"
+          "published_at": "2026-07-30T15:00:59Z"
         },
         {
-          "id": "b27e5f472b50128a9c7a4ebe724b27e89cfd20fa",
-          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
-          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "id": "31436365d349d5724cd1391bb86efa3f6c491e67",
+          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
           "source": "Google DeepMind：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T16:02:10Z"
+          "published_at": "2026-07-30T15:00:59Z"
         }
       ],
       "source_count": 2,
@@ -280,35 +278,35 @@
       ],
       "items": [
         {
-          "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
-          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
+          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
           "source": "Google DeepMind",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T16:02:10Z"
+          "published_at": "2026-07-30T15:00:59Z"
         },
         {
-          "id": "b27e5f472b50128a9c7a4ebe724b27e89cfd20fa",
-          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
-          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "id": "31436365d349d5724cd1391bb86efa3f6c491e67",
+          "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人",
+          "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
           "source": "Google DeepMind：Blog（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T16:02:10Z"
+          "published_at": "2026-07-30T15:00:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8259,
+        "ai_relevance": 0.97,
+        "recency": 0.4051,
         "story_heat": 0.25
       },
       "category": "official",
@@ -318,99 +316,80 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T16:02:10Z",
-      "latest_at": "2026-07-29T16:02:10Z",
+      "earliest_at": "2026-07-30T15:00:59Z",
+      "latest_at": "2026-07-30T15:00:59Z",
       "primary_item": {
-        "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
-        "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
-        "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+        "id": "3149b015308bb0989076ecf844477cdfdf6cf120",
+        "title": "Gemini Robotics ER 2：用视频理解、任务编排与多机器人协作赋能机器人 / Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+        "url": "https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_6d964f10c333",
-      "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "primary_url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "source": "OpenAI News",
+      "story_id": "story_8871db2f43d8",
+      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI News",
+          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
+          "published_at": "2026-07-30T17:30:24Z"
         },
         {
-          "id": "b7c79fad7caaa5c909be57f8f8eb0f495b4d8adf",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "60d91c86762adeeab864186e3844c59b0353e90f",
+          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
-        },
-        {
-          "id": "e0d0da20920318ae8d9665daba429f1fc196fa16",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / The way GPT-5.6 fuses frontier intelligence with frontier efficiency – OpenAI",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-29T20:52:48Z"
+          "published_at": "2026-07-30T17:30:24Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "HN Algolia · AI 24h",
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "GitHub AI & ML",
+        "GitHub Blog"
       ],
       "items": [
         {
-          "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI News",
+          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T00:00:00Z"
+          "published_at": "2026-07-30T17:30:24Z"
         },
         {
-          "id": "b7c79fad7caaa5c909be57f8f8eb0f495b4d8adf",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "60d91c86762adeeab864186e3844c59b0353e90f",
+          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
-        },
-        {
-          "id": "e0d0da20920318ae8d9665daba429f1fc196fa16",
-          "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / The way GPT-5.6 fuses frontier intelligence with frontier efficiency – OpenAI",
-          "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-07-29T20:52:48Z"
+          "published_at": "2026-07-30T17:30:24Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7726,
+      "importance": 0.7726,
+      "importance_score": 0.7726,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.6552,
-        "story_heat": 0.5
+        "ai_relevance": 0.91,
+        "recency": 0.4199,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
@@ -419,13 +398,280 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T20:52:48Z",
+      "earliest_at": "2026-07-30T17:30:24Z",
+      "latest_at": "2026-07-30T17:30:24Z",
       "primary_item": {
-        "id": "c038b82f6bfc145d6a23b7c1d24032f290009a95",
-        "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+        "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+        "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+        "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f684c3a66a25",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "94478772289f7d30ab8af720414186d57c47492e",
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T15:09:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "94478772289f7d30ab8af720414186d57c47492e",
+          "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T15:09:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.4059,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T15:09:09Z",
+      "latest_at": "2026-07-30T15:09:09Z",
+      "primary_item": {
+        "id": "94478772289f7d30ab8af720414186d57c47492e",
+        "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a86f05568153",
+      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "primary_url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T10:40:50Z"
+        },
+        {
+          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-01T10:40:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T10:40:50Z"
+        },
+        {
+          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
+          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
+          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-01T10:40:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.761,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-01T10:40:50Z",
+      "latest_at": "2026-08-01T10:40:50Z",
+      "primary_item": {
+        "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
+        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
+        "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b86dc435d64a",
+      "title": "Advancing responsible AI across Europe",
+      "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "primary_url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+          "title": "Advancing responsible AI across Europe",
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+          "title": "Advancing responsible AI across Europe",
+          "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5728,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T15:00:00Z",
+      "latest_at": "2026-07-31T15:00:00Z",
+      "primary_item": {
+        "id": "6f15452c6a78dda5866e27c9b09616977b3c8a4a",
+        "title": "Advancing responsible AI across Europe",
+        "url": "https://openai.com/index/advancing-responsible-ai-across-europe",
         "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_3bde4c44877d",
+      "title": "Enterprise teams model policy targeting in public preview",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+          "title": "Enterprise teams model policy targeting in public preview",
+          "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T18:11:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5998,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-31T18:11:50Z",
+      "latest_at": "2026-07-31T18:11:50Z",
+      "primary_item": {
+        "id": "85684ae353d62814aaced6dd8005af52e330e36f",
+        "title": "Enterprise teams model policy targeting in public preview",
+        "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -483,23 +729,22 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8021,
-      "importance": 0.8021,
-      "importance_score": 0.8021,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5837,
+        "recency": 0.2054,
         "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T16:00:00Z",
       "latest_at": "2026-07-28T16:00:00Z",
@@ -512,130 +757,109 @@
       }
     },
     {
-      "story_id": "story_6bc925122a55",
-      "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-      "url": "https://www.aibase.com/news/30000",
-      "primary_url": "https://www.aibase.com/news/30000",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_38808d3e5e9a",
+      "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+      "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+      "primary_url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/news/30000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T05:16:59.561874Z"
-        },
-        {
-          "id": "f569265a10fdb5a1cf268437e2e05afcbb49b0e2",
-          "title": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/zh/news/30000",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-          "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/news/30000",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T05:16:59.561874Z"
-        },
-        {
-          "id": "f569265a10fdb5a1cf268437e2e05afcbb49b0e2",
-          "title": "OpenAI CEO 泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-          "url": "https://www.aibase.com/zh/news/30000",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T05:16:59.561874Z",
-      "latest_at": "2026-07-30T05:16:59.561874Z",
-      "primary_item": {
-        "id": "0d211faf956db245d14a9d64eef9d04e1f01a0f8",
-        "title": "OpenAI CEO泼冷水：AI 不会带来四天工作制，超级智能时代人只会更忙",
-        "url": "https://www.aibase.com/news/30000",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_85dd02699b25",
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-          "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T15:01:45Z"
+          "id": "3932e3be300dec7756de5bb45508c0a891eb636b",
+          "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+          "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T03:57:07Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hugging Face Blog"
+        "X：阿易 AI Notes (@AYi_AInotes)"
       ],
       "items": [
         {
-          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-          "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T15:01:45Z"
+          "id": "3932e3be300dec7756de5bb45508c0a891eb636b",
+          "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+          "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-01T03:57:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6906,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-01T03:57:07Z",
+      "latest_at": "2026-08-01T03:57:07Z",
+      "primary_item": {
+        "id": "3932e3be300dec7756de5bb45508c0a891eb636b",
+        "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+        "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6e145b017b5a",
+      "title": "Building abundant intelligence",
+      "url": "https://openai.com/index/building-abundant-intelligence",
+      "primary_url": "https://openai.com/index/building-abundant-intelligence",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+          "title": "Building abundant intelligence",
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+          "title": "Building abundant intelligence",
+          "url": "https://openai.com/index/building-abundant-intelligence",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-31T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.5756,
+        "ai_relevance": 0.91,
+        "recency": 0.5728,
         "story_heat": 0.0
       },
       "category": "official",
@@ -644,32 +868,113 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T15:01:45Z",
-      "latest_at": "2026-07-28T15:01:45Z",
+      "earliest_at": "2026-07-31T15:00:00Z",
+      "latest_at": "2026-07-31T15:00:00Z",
       "primary_item": {
-        "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
-        "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-        "source": "Hugging Face Blog",
+        "id": "2440a232fead11fbf349052abb1cbc7f0577e5f6",
+        "title": "Building abundant intelligence",
+        "url": "https://openai.com/index/building-abundant-intelligence",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_65e0a5db5254",
-      "title": "Default model enablement for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "story_id": "story_42b77c184ced",
+      "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+      "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+      "primary_url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
+          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T16:02:10Z"
+        },
+        {
+          "id": "b27e5f472b50128a9c7a4ebe724b27e89cfd20fa",
+          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:02:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google DeepMind",
+        "Google DeepMind：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
+          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T16:02:10Z"
+        },
+        {
+          "id": "b27e5f472b50128a9c7a4ebe724b27e89cfd20fa",
+          "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制",
+          "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:02:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.2907,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T16:02:10Z",
+      "latest_at": "2026-07-29T16:02:10Z",
+      "primary_item": {
+        "id": "81ae2e2f8cde8743358cdd5dd802d493a3c8f500",
+        "title": "Google DeepMind 在 Flow Music 中推出 Lyria 3.5，提升音乐性、歌词、人声与创作控制 / We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control",
+        "url": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_40a9fce1f45e",
+      "title": "Restricting npm bypass-2FA granular access tokens",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "primary_url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Default model enablement for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T14:01:07Z"
+          "published_at": "2026-07-31T16:45:50Z"
         }
       ],
       "source_count": 1,
@@ -678,26 +983,26 @@
       ],
       "items": [
         {
-          "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-          "title": "Default model enablement for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+          "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+          "title": "Restricting npm bypass-2FA granular access tokens",
+          "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T14:01:07Z"
+          "published_at": "2026-07-31T16:45:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8164,
-      "importance": 0.8164,
-      "importance_score": 0.8164,
+      "score": 0.7698,
+      "importance": 0.7698,
+      "importance_score": 0.7698,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8022,
+        "ai_relevance": 0.87,
+        "recency": 0.5875,
         "story_heat": 0.0
       },
       "category": "official",
@@ -706,481 +1011,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T14:01:07Z",
-      "latest_at": "2026-07-29T14:01:07Z",
+      "earliest_at": "2026-07-31T16:45:50Z",
+      "latest_at": "2026-07-31T16:45:50Z",
       "primary_item": {
-        "id": "b1d3ea66eaa96a24c6f41d62102efd9c4afc2f9f",
-        "title": "Default model enablement for Copilot Business and Enterprise",
-        "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+        "id": "b92f0c9e89acf8a77f679f56c9dfb200cc5c686a",
+        "title": "Restricting npm bypass-2FA granular access tokens",
+        "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_cf352dddb40c",
-      "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-      "url": "https://www.ithome.com/0/983/444.htm",
-      "primary_url": "https://www.ithome.com/0/983/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        },
-        {
-          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
-          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "2f2c2962adb80539002c13357b644f38857975fc",
-          "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:49:47Z"
-        },
-        {
-          "id": "b7b3015852d443a90d3912bfdee9f469c2399767",
-          "title": "OpenAI 总裁布罗克曼承认新 ChatGPT AI 桌面应用“有点乱”，目标打造“零标签”",
-          "url": "https://www.ithome.com/0/983/444.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-30T02:49:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9652,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T02:49:47Z",
-      "latest_at": "2026-07-30T02:49:47Z",
-      "primary_item": {
-        "id": "2f2c2962adb80539002c13357b644f38857975fc",
-        "title": "OpenAI 总裁布罗克曼承认新版 ChatGPT 桌面应用\"有点乱\"，目标年底实现\"零标签\"",
-        "url": "https://www.ithome.com/0/983/444.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2b31e5040cd9",
-      "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "primary_url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T18:45:27Z"
-        },
-        {
-          "id": "9797d71520f75e59daa04536256009c0f9afb601",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T18:45:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T18:45:27Z"
-        },
-        {
-          "id": "9797d71520f75e59daa04536256009c0f9afb601",
-          "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录 / Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-          "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T18:45:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7762,
-      "importance": 0.7762,
-      "importance_score": 0.7762,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.859,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T18:45:27Z",
-      "latest_at": "2026-07-29T18:45:27Z",
-      "primary_item": {
-        "id": "a8fdebbb52e723e914d458511f5173901a9392a7",
-        "title": "Claude Opus 5 在模拟售货机任务中展现欺骗与背叛，创下新纪录",
-        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eb885d8898bd",
-      "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
-          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T16:00:00Z"
-        },
-        {
-          "id": "512978bfc570bbb869cc1e3f95711e04bbd058f8",
-          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T16:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub AI & ML",
-        "GitHub Blog"
-      ],
-      "items": [
-        {
-          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
-          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T16:00:00Z"
-        },
-        {
-          "id": "512978bfc570bbb869cc1e3f95711e04bbd058f8",
-          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-          "source": "GitHub Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T16:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4127,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T16:00:00Z",
-      "latest_at": "2026-07-27T16:00:00Z",
-      "primary_item": {
-        "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
-        "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_97854c7d008d",
-      "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "primary_url": "https://github.com/drumih/turbo-fieldfare",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T16:09:22.496000Z"
-        },
-        {
-          "id": "1b37939ebfbbfe70a1a7f1b13d03ba2ad4e44ebd",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B / Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T15:05:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T16:09:22.496000Z"
-        },
-        {
-          "id": "1b37939ebfbbfe70a1a7f1b13d03ba2ad4e44ebd",
-          "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B / Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-          "url": "https://github.com/drumih/turbo-fieldfare",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T15:05:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7675,
-      "importance": 0.7675,
-      "importance_score": 0.7675,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8273,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T15:05:43Z",
-      "latest_at": "2026-07-29T16:09:22.496000Z",
-      "primary_item": {
-        "id": "bb4afb8da404531d5aaa679ea87c87cf14cd9e33",
-        "title": "开源引擎可在任何 M 系列 Mac 上以 2 GB 内存运行 Gemma 4 26B",
-        "url": "https://github.com/drumih/turbo-fieldfare",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_46c8d10a3322",
-      "title": "腾讯混元Hyra破解50年数学难题",
-      "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-      "primary_url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-      "source": "X：腾讯混元 (@TencentHunyuan)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-          "title": "腾讯混元Hyra破解50年数学难题",
-          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:33:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：腾讯混元 (@TencentHunyuan)"
-      ],
-      "items": [
-        {
-          "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-          "title": "腾讯混元Hyra破解50年数学难题",
-          "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-          "source": "X：腾讯混元 (@TencentHunyuan)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T02:33:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9614,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T02:33:16Z",
-      "latest_at": "2026-07-30T02:33:16Z",
-      "primary_item": {
-        "id": "a7c02d288ab395f82ca06440d71d72b1161cfe28",
-        "title": "腾讯混元Hyra破解50年数学难题",
-        "url": "https://x.com/TencentHunyuan/status/2082655737541726636",
-        "source": "X：腾讯混元 (@TencentHunyuan)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2e9c935fe683",
-      "title": "xAI发布Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-      "url": "https://www.aibase.com/news/30002",
-      "primary_url": "https://www.aibase.com/news/30002",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8c866de05fd6030748d2f968ab08890da9a5e481",
-          "title": "xAI发布Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-          "url": "https://www.aibase.com/news/30002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T05:16:59.561874Z"
-        },
-        {
-          "id": "3f2a6e50a92d1e35c591b3ee9c24c1415320d7a6",
-          "title": "xAI 发布 Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-          "url": "https://www.aibase.com/zh/news/30002",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8c866de05fd6030748d2f968ab08890da9a5e481",
-          "title": "xAI发布Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-          "url": "https://www.aibase.com/news/30002",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T05:16:59.561874Z"
-        },
-        {
-          "id": "3f2a6e50a92d1e35c591b3ee9c24c1415320d7a6",
-          "title": "xAI 发布 Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-          "url": "https://www.aibase.com/zh/news/30002",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T05:16:59.561874Z",
-      "latest_at": "2026-07-30T05:16:59.561874Z",
-      "primary_item": {
-        "id": "8c866de05fd6030748d2f968ab08890da9a5e481",
-        "title": "xAI发布Grok Voice Think Fast2.0，语音识别与智能体能力全面升级",
-        "url": "https://www.aibase.com/news/30002",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1237,23 +1075,22 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5589,
+        "recency": 0.1967,
         "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T13:00:00Z",
       "latest_at": "2026-07-28T13:00:00Z",
@@ -1266,308 +1103,440 @@
       }
     },
     {
-      "story_id": "story_8ff67d77127c",
-      "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线 / Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "primary_url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "source": "Hugging Face Blog",
+      "story_id": "story_eb885d8898bd",
+      "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2e86afe8cf9229f99bc47bd03ed6bdae7f21ab50",
-          "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线 / Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-          "source": "Hugging Face Blog",
+          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T00:00:00Z"
+          "published_at": "2026-07-27T16:00:00Z"
         },
         {
-          "id": "931093f470032d191e55c506a7d127c3c7675c4f",
-          "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线",
-          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T18:01:32.853000Z"
-        },
-        {
-          "id": "b760e5c5b1a427b919fab19ffea63e21b4443121",
-          "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线 / Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T15:01:52Z"
+          "id": "512978bfc570bbb869cc1e3f95711e04bbd058f8",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T16:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Hugging Face Blog",
-        "huggingface.co"
+        "GitHub AI & ML",
+        "GitHub Blog"
       ],
       "items": [
         {
-          "id": "2e86afe8cf9229f99bc47bd03ed6bdae7f21ab50",
-          "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线 / Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-          "source": "Hugging Face Blog",
+          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T00:00:00Z"
+          "published_at": "2026-07-27T16:00:00Z"
         },
         {
-          "id": "931093f470032d191e55c506a7d127c3c7675c4f",
-          "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线",
-          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-29T18:01:32.853000Z"
-        },
-        {
-          "id": "b760e5c5b1a427b919fab19ffea63e21b4443121",
-          "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线 / Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-          "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-29T15:01:52Z"
+          "id": "512978bfc570bbb869cc1e3f95711e04bbd058f8",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T16:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7231,
+      "importance": 0.7231,
+      "importance_score": 0.7231,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.3276,
-        "story_heat": 0.5
+        "ai_relevance": 0.91,
+        "recency": 0.1453,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-27T00:00:00Z",
-      "latest_at": "2026-07-29T18:01:32.853000Z",
+      "earliest_at": "2026-07-27T16:00:00Z",
+      "latest_at": "2026-07-27T16:00:00Z",
       "primary_item": {
-        "id": "2e86afe8cf9229f99bc47bd03ed6bdae7f21ab50",
-        "title": "Frontier Lab 代理入侵事件剖析：该事件的技术时间线 / Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+        "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+        "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_85dd02699b25",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
+          "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T15:01:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
+          "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T15:01:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.2026,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T15:01:45Z",
+      "latest_at": "2026-07-28T15:01:45Z",
+      "primary_item": {
+        "id": "6b4343c587f8a82ce5345ee23b16a5ac90928057",
+        "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_e8035148749c",
-      "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T11:54:29Z"
-        },
-        {
-          "id": "47e23e037a1d0c96ad8796a8da4cda32a0d925d8",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T11:54:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T11:54:29Z"
-        },
-        {
-          "id": "47e23e037a1d0c96ad8796a8da4cda32a0d925d8",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-29T11:54:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7781,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T11:54:29Z",
-      "latest_at": "2026-07-29T11:54:29Z",
-      "primary_item": {
-        "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-        "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_14fd05ad34f9",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "primary_url": "https://openai.com/index/chatgpt-for-academic-researchers",
+      "story_id": "story_fc362ba711f5",
+      "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "primary_url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
+          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
+          "published_at": "2026-07-30T10:00:00Z"
+        },
+        {
+          "id": "73b88d22c98b75e89ebc8d8bfce2f712bc7cc96d",
+          "title": "GPT-5.6 如何推进性价比前沿",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T10:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
       ],
       "items": [
         {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
+          "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
+          "published_at": "2026-07-30T10:00:00Z"
+        },
+        {
+          "id": "73b88d22c98b75e89ebc8d8bfce2f712bc7cc96d",
+          "title": "GPT-5.6 如何推进性价比前沿",
+          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T10:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8163,
-      "importance": 0.8163,
-      "importance_score": 0.8163,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7569,
-        "story_heat": 0.0
+        "recency": 0.3768,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T10:00:00Z",
-      "latest_at": "2026-07-29T10:00:00Z",
+      "earliest_at": "2026-07-30T10:00:00Z",
+      "latest_at": "2026-07-30T10:00:00Z",
       "primary_item": {
-        "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+        "id": "92a6cb960e9fc72d2e82136ce956e4b334d8f2d0",
+        "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_9c352ca7201e",
-      "title": "Replit Design 发布：AI 赋能设计愿景",
-      "url": "https://x.com/Replit/status/2082568269119062019",
-      "primary_url": "https://x.com/Replit/status/2082568269119062019",
-      "source": "X：Replit (@Replit)",
-      "source_name": "AI HOT",
+      "story_id": "story_2df82173bb28",
+      "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+      "source": "社区更新 · 2026-08-01",
+      "source_name": "WaytoAGI",
       "sources": [
         {
-          "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-          "title": "Replit Design 发布：AI 赋能设计愿景",
-          "url": "https://x.com/Replit/status/2082568269119062019",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T20:45:42Z"
+          "id": "c06e1536ca165c819ac55c05b2693fb3441cb121",
+          "title": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T05:35:31.032178Z"
+        },
+        {
+          "id": "961db9ce643831a109b7d562d2efbeb5a4d5134a",
+          "title": "大多数人用 Codex 的方式，是开一个会话、交代一件事、等它做完。这种用法只动用了它很小一部分能力。这篇文章把几个关键概念讲得很清楚：Task、Subagent、Worktree、SSH、Handoff、Automation。已经会用Codex、想处理复杂项目的人不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T05:35:31.032178Z"
+        },
+        {
+          "id": "ef8a92139ed81c0d03704b1795eac9596de0060e",
+          "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T05:35:31.032178Z"
+        },
+        {
+          "id": "e21e886d0cf89b666afd8d7fc1fea8962c35fe43",
+          "title": "如果你最近也在担心：AI越来越强，我现在到底该学什么、往哪走，才不容易被甩下？这篇很适合普通人看看。Khan Academy 创始人Sal Khan用网约车、工程师、学生论文这些真实例子，讲了AI正在怎么改变工作，人该把力气花在哪里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T05:35:31.032178Z"
+        },
+        {
+          "id": "4a5eb18c0f953f38d547226fa91d38a5829ecfcb",
+          "title": "阿K烧了5w积分，用30+案例全面测试了MiniMax H3，覆盖商用级多场景、多模态参考、原生音画生成、精准编辑、复杂复合内容生成等等。结果发现H3在UI 动效、产品广告、片头字体、拼贴动画、短剧上表现比较突出。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T05:35:31.032178Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 5,
       "source_names": [
-        "X：Replit (@Replit)"
+        "社区更新 · 2026-08-01"
       ],
       "items": [
         {
-          "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-          "title": "Replit Design 发布：AI 赋能设计愿景",
-          "url": "https://x.com/Replit/status/2082568269119062019",
-          "source": "X：Replit (@Replit)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T20:45:42Z"
+          "id": "c06e1536ca165c819ac55c05b2693fb3441cb121",
+          "title": "作者对Codex Micro，这个vibecoding 键盘做了配置体验和拆机。它没有本地AI、也没有内置麦克风，主要负责输入、灯光、通信和供电；同时也遇到了 USB 卡顿、HID 读取中断等稳定性问题。一起来看看230美元到底买到的是什么。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T05:35:31.032178Z"
+        },
+        {
+          "id": "961db9ce643831a109b7d562d2efbeb5a4d5134a",
+          "title": "大多数人用 Codex 的方式，是开一个会话、交代一件事、等它做完。这种用法只动用了它很小一部分能力。这篇文章把几个关键概念讲得很清楚：Task、Subagent、Worktree、SSH、Handoff、Automation。已经会用Codex、想处理复杂项目的人不容错过！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T05:35:31.032178Z"
+        },
+        {
+          "id": "ef8a92139ed81c0d03704b1795eac9596de0060e",
+          "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T05:35:31.032178Z"
+        },
+        {
+          "id": "e21e886d0cf89b666afd8d7fc1fea8962c35fe43",
+          "title": "如果你最近也在担心：AI越来越强，我现在到底该学什么、往哪走，才不容易被甩下？这篇很适合普通人看看。Khan Academy 创始人Sal Khan用网约车、工程师、学生论文这些真实例子，讲了AI正在怎么改变工作，人该把力气花在哪里。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T05:35:31.032178Z"
+        },
+        {
+          "id": "4a5eb18c0f953f38d547226fa91d38a5829ecfcb",
+          "title": "阿K烧了5w积分，用30+案例全面测试了MiniMax H3，覆盖商用级多场景、多模态参考、原生音画生成、精准编辑、复杂复合内容生成等等。结果发现H3在UI 动效、产品广告、片头字体、拼贴动画、短剧上表现比较突出。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-08-01",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-08-02T05:35:31.032178Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
-      "importance_label": "行业动态",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6734,
+      "importance": 0.6734,
+      "importance_score": 0.6734,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8842,
-        "story_heat": 0.0
+        "editorial": 0.4752,
+        "source_tier": 0.54,
+        "ai_relevance": 0.66,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-29T20:45:42Z",
-      "latest_at": "2026-07-29T20:45:42Z",
+      "earliest_at": "2026-08-02T05:35:31.032178Z",
+      "latest_at": "2026-08-02T05:35:31.032178Z",
       "primary_item": {
-        "id": "1389b7666f2e91008307cadb590d1a85ddffee8a",
-        "title": "Replit Design 发布：AI 赋能设计愿景",
-        "url": "https://x.com/Replit/status/2082568269119062019",
-        "source": "X：Replit (@Replit)",
-        "source_name": "AI HOT"
+        "id": "ef8a92139ed81c0d03704b1795eac9596de0060e",
+        "title": "如果你已经会让 AI 帮自己写代码、查资料，但一到团队协作就变乱：谁的记忆算谁的？文件和权限怎么隔离？AI 能不能在Slack里一起推进项目？这篇就很好理解。YC开源了他们内部使用的多Agent协作框架：QM。它让每个员工、每个频道、每个项目都有独立的记忆、文件、密钥权限、定时任务和沙箱环境；还能接入 Pi、OpenCode、Codex、Claude Code 等不同Agent框架，避免被单一模型或工具绑定。",
+        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+        "source": "社区更新 · 2026-08-01",
+        "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_97b8a5b6a8dc",
+      "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+      "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T18:00:00Z"
+        },
+        {
+          "id": "14c3844b789a43cdd84064b00b5779806855f4b4",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T18:00:00Z"
+        },
+        {
+          "id": "14c3844b789a43cdd84064b00b5779806855f4b4",
+          "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
+          "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T18:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7159,
+      "importance": 0.7159,
+      "importance_score": 0.7159,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.1495,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T18:00:00Z",
+      "latest_at": "2026-07-27T18:00:00Z",
+      "primary_item": {
+        "id": "dfe1166a7e4b61e194a54d3f29e213dcc90401c2",
+        "title": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查 / The harness is all you need (mostly)",
+        "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     }
   ]
