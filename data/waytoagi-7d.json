@@ -1,45 +1,110 @@
 {
-  "generated_at": "2026-08-10T04:04:53.754391Z",
+  "generated_at": "2026-08-13T04:19:20.155340Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-08-09",
+  "latest_date": "2026-08-11",
   "count_today": 6,
   "updates_today": [
     {
-      "date": "2026-08-09",
-      "title": "阿里正式发布视频模型 Wan3.0，它把“参考素材”往前推进了一步：网页链接、Excel、Word、说明书、图片组都能直接丢进去，自动生成科普、数据汇报、产品演示和门店宣传视频。想做“文件转视频”或产品展示的人可以重点看看小歪这组测试。",
+      "date": "2026-08-11",
+      "title": "这篇文章把从RAG到上下文图的路线拆成 9 步：先找一个RAG答不好的多跳问题，再抽实体和关系、做实体规范化、建正反向边、给边加权并保留来源，最后按路径检索并带引用生成答案。适合做企业知识库、GraphRAG、Agent上下文工程的人看。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-09",
-      "title": "本周AI论文合集聚焦智能体工程落地的现实痛点。十篇研究基于大量实测与对照实验，厘清了模型与harness的故障划分，验证零大模型调用记忆栈的降本效果，推翻自我反思类方案的增益认知。同时还覆盖harness学习优化、提示词带来的隐性成本、技能库实际收益、长周期仿真基准、分词加速等方向。",
+      "date": "2026-08-11",
+      "title": "现在用 AI 半天搓个产品上线，已经不稀奇了，但最容易被忽略的往往是安全：权限没收紧、数据库没校验、接口没防护，前期看不出问题，真有流量后就可能变成事故。OpenAI 开源的Codex Security可以直接装成npm包，在项目里扫描漏洞，还会先验证风险、给出位置和修复建议，支持日常检查和深度扫描，也能对比修复前后的结果。产品上线前用它跑一遍，至少能少踩几个安全坑。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-09",
-      "title": "很多人做 AI 视频，真正卡住的往往是“镜头到底该怎么写”：人物怎么站、镜头怎么动、光从哪边来，前后画面怎么别突然跳戏。小歪拿《Hell Grind》这个开源项目做样本，把每个镜头公开的提示词、参考图、参数、11 万多条生成记录，以及官方 CINEDANCE 电影级提示词 Skill 都拆开讲清楚。照着“找相似画面→拆运镜/动作/灯光→替换成自己的内容”这条路抄作业，会比盲目堆提示词稳很多。",
+      "date": "2026-08-11",
+      "title": "智能体会自己写代码、自己改提示词、自己跑循环，看起来越来越聪明；但如果你没先定义什么叫“好”，它很可能只是把分数刷漂亮，真实效果反而变差。来一起看看Google官方的自改进智能体循环是如何避免这一问题的！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-09",
-      "title": "一块只有 8 MB PSRAM、16 MB Flash 的 ESP32-S3，能不能离线运行一个真正会逐词生成答案的中文模型？我们用一套从随机参数开始训练的 783 万参数模型，完成了从产品知识、训练、量化到真板运行的整条链路。",
+      "date": "2026-08-11",
+      "title": "很多人用Claude/Codex来vibe coding，都会遇到一个很烦的问题。上下文一乱，新想法塞进当前对话会带偏主线，重开一条又要补充背景、重复解释踩过的坑。Claude/Codex能跨会话传消息后，就可以探索所有可行路径还不丢上下文。Codex适合用会话ID精确寻址，Claude Code则更适合按项目、日期、主题搜索历史会话。快来试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-09",
-      "title": "MiniMax H3开源4天就有人做出 4–8 步蒸馏 LoRA，Reddit AMA里大家也开始追问 2K、VAE、长视频续写、显存、LoRA 和 ComfyUI 接入这些硬问题。尽管显存、细节损失等难题仍待解决，但开源释放的社区活力，让这套视频模型的想象空间真正打开。",
+      "date": "2026-08-11",
+      "title": "作者在走访纽约大学、卡内基梅隆、南加大、UCLA、ACCD后发现，美国高校的 AI 恐慌正在退潮，老师们更关心一项作业里哪些步骤能交给 AI，哪些必须学生亲手完成。AI 让答案变便宜了，人的判断、过程和责任反而更值钱。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-08-09",
-      "title": "MiniMax H3 开源的第一周，很多国内外开发社区里的开发者、创作者已经有了量化、硬件适配和工作流的丰富探索，也提出了一些关于模型机制和后续计划的问题。技术团队参加了 Reddit 社区 AMA 问答交流和 ComfyUI Live 直播，和来自不同地区的开发者、创作者聊了聊：模型架构是怎么做的？长视频能不能续写？目前还有哪些技术局限，后续的开源策略是什么。",
+      "date": "2026-08-11",
+      "title": "一个月前，Anthropic 在Slack里上线了Claude Tag。阿颖这篇文章把Claude Tag和Claude Code、Codex、OpenClaw放在一起进行了对比，发现Claude Tag或许会是下一个现象级 AI 产品。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
-  "count_7d": 33,
+  "count_7d": 29,
   "updates_7d": [
+    {
+      "date": "2026-08-11",
+      "title": "这篇文章把从RAG到上下文图的路线拆成 9 步：先找一个RAG答不好的多跳问题，再抽实体和关系、做实体规范化、建正反向边、给边加权并保留来源，最后按路径检索并带引用生成答案。适合做企业知识库、GraphRAG、Agent上下文工程的人看。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "现在用 AI 半天搓个产品上线，已经不稀奇了，但最容易被忽略的往往是安全：权限没收紧、数据库没校验、接口没防护，前期看不出问题，真有流量后就可能变成事故。OpenAI 开源的Codex Security可以直接装成npm包，在项目里扫描漏洞，还会先验证风险、给出位置和修复建议，支持日常检查和深度扫描，也能对比修复前后的结果。产品上线前用它跑一遍，至少能少踩几个安全坑。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "智能体会自己写代码、自己改提示词、自己跑循环，看起来越来越聪明；但如果你没先定义什么叫“好”，它很可能只是把分数刷漂亮，真实效果反而变差。来一起看看Google官方的自改进智能体循环是如何避免这一问题的！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "很多人用Claude/Codex来vibe coding，都会遇到一个很烦的问题。上下文一乱，新想法塞进当前对话会带偏主线，重开一条又要补充背景、重复解释踩过的坑。Claude/Codex能跨会话传消息后，就可以探索所有可行路径还不丢上下文。Codex适合用会话ID精确寻址，Claude Code则更适合按项目、日期、主题搜索历史会话。快来试试！",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "作者在走访纽约大学、卡内基梅隆、南加大、UCLA、ACCD后发现，美国高校的 AI 恐慌正在退潮，老师们更关心一项作业里哪些步骤能交给 AI，哪些必须学生亲手完成。AI 让答案变便宜了，人的判断、过程和责任反而更值钱。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-11",
+      "title": "一个月前，Anthropic 在Slack里上线了Claude Tag。阿颖这篇文章把Claude Tag和Claude Code、Codex、OpenClaw放在一起进行了对比，发现Claude Tag或许会是下一个现象级 AI 产品。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "这周AI音乐领域的变化，已经从“生成一首歌”延伸到实体收藏、移动端声线和版权商业化：Suno准备推出AI歌曲黑胶定制，Voices声音克隆也上线 iOS/Android。行业规则也开始变清楚：Spotify联合Merlin做授权翻唱/重混，华纳预计AI授权将在2027年带来收入，Suno也在加强提示词审查、音频水印、下载限制和社区治理。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "身边越来越多人遇到降薪、调岗、离职、毕业求职卡住，明知道该学AI、做自媒体、换方向，却总被“我还没想清楚”“我看不懂”挡在原地。小鱿鱼这篇文章很适合待业、转岗、毕业迷茫，或者想学AI却迟迟开不了头的人读。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "很多人学AI一上来就被一堆英文缩写劝退：GPT、Token、RAG、MCP、Agent、Loop、Graph单独都能查，放在一起就分不清谁是模型、谁是产品、谁负责资料、谁负责执行。这份白皮书适合刚入门的小白。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "学习AI有很多需要用到网络底层基础知识的地方。作者用这篇文章，以最通俗易懂的方式让你了解清楚去解决这些现实问题，所需要具备的最基础的网络名词概念。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Floatboat Harness公开的基准评测，印证了Harness执行底座对Agent能力的巨大加成。锁定同一低成本模型，仅更换运行底座，长程复杂任务性能大幅提升，甚至全面超越价格高出数十倍的旗舰模型。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "Adam Ward 是Cursor的人力主管。他在业内拥有超过20年的经验，擅长打造精英人才团队，被公认为科技界最高效、最具创意的招聘人员之一。一起来看看他是如何组建顶尖的AI团队。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-08-10",
+      "title": "8月14日，WaytoAGI 成都科梦 OPC 社区要开园了！这是WaytoAGI和成都传媒产业集团旗下红星传媒一起做的 OPC 社区，也是 WaytoAGI 继北京亦庄之后的第二个线下 OPC 社区。欢迎大家报名，来现场一起参与见证 WaytoAGI 成都科梦 OPC 社区的落地。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
     {
       "date": "2026-08-09",
       "title": "阿里正式发布视频模型 Wan3.0，它把“参考素材”往前推进了一步：网页链接、Excel、Word、说明书、图片组都能直接丢进去，自动生成科普、数据汇报、产品演示和门店宣传视频。想做“文件转视频”或产品展示的人可以重点看看小歪这组测试。",
@@ -118,91 +183,6 @@
     {
       "date": "2026-08-07",
       "title": "Finn Mallery 访谈了十位增长很快的 YC 创始人，覆盖新锐项目与数十亿美元估值企业，深挖了他们的真实获客与增长路径。尽管各家赛道、投放渠道差异很大，但做事次序却很接近。由此提炼出了一套四步增长框架，框架逻辑看似很简单，背后却都是硬核的实战案例：有团队两年做到4000万美元年收入。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "很多人选模型只看“谁最准、谁最快、谁最便宜”，这篇文章用18个模型跑了108次谷歌财报统计任务后发现，真实办公场景里根本没有万能冠军，速度、成本和准确率永远要做取舍。海外旗舰模型交付快且稳，国产模型成本优势明显，Kimi K3更均衡，DeepSeek-V4-Flash便宜但更慢；而且提示词优化能拉高普通模型下限，也可能束缚强模型。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "对于很多做公众号和自媒体的人来说，写稿只是第一步。真正耗时间的是标题反复修改、封面配图难统一、排版来回切工具，发出去后数据还要单独追踪。苍何开源了他的Codex +Obsidian 公众号创作工作流，适合想把AI用到完整内容生产链路的人照着搭一遍。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "全新一代视频生成模型Wan3.0开启公测。Wan3.0在生成时长、万能创作、全能参考与真实感等维度全面升级，单次可生成30秒视频；在文本、图片、音频、视频四种基础模态之外，首次支持doc、xls、ppt、pdf、md等文档格式输入，让“万物皆可生视频”。快来体验一下！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "Graph Engineering 最近被炒得很热，但很多人其实把知识图谱、GraphRAG、LangGraph、多 Agent 编排和组织治理混在一起讲，越听越晕。 这篇指南的目标不是给你\"图工程的准确定义\"——那东西不存在。目标是给你 一把尺子 ，让你下次再听到\"Graph Engineering\"时，能立刻判断对方在说哪一层、针对什么问题、以多大动态性在谈。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-06",
-      "title": "AI越来越强，Vibe Coding也越来越普及，也越来越容易遇到一些专为某个痛点而生的小工具。卡尔这篇文章就分享了10个超实用的开源小工具，带你把Mac变成更顺手的 AI 工作台。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "这部作品制作成本为50万美元，曾在戛纳电影市场展映，并获得《华尔街日报》、Variety及BBC新闻的报道。一起来看看他们的制作流程！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "很多人给Agent一路加 Skill，以为能力会越多越强。但卡尔烧了5亿token后发现，300多个Skill每次启动都会先占掉一大截上下文，模型还没干活就被塞满了。他给出一套Skill瘦身方法：按高频、项目级、触发级和少用但关键来分层，把低频能力从全局暴露降到动态加载，适合Codex、Claude重度用户参考。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "市面上的通用写作Agent能写故事，但真正落到抖音剧情时，会出现各种问题：开头不够抓人、节奏太慢、反转生硬、台词不像真人说话，也缺少对达人剧情结构的理解。作者把自己整理的剧情创作机制、检索程序和授权参考库，做成了一套纯本地运行的 Skill。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "卡兹克开源了他的「活人感写作.skill」，把写作拉回到“义理、考据、辞章”三层：先帮你挖掘真实观点和经历，再处理叙事节奏和AI常见口癖。快来一起试试！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "余一把分享了她的高阶 AI 协作思路：用文件夹结构、异步沟通文档、红黄绿灯授权机制，让 AI 自己读资料、做决策、交付PPT/视频等长程任务。更关键的是，她把自己的流程、审美和判断标准压缩成Skill、HTML样本和验收规则，让 AI 越用越像一个懂偏好的执行系统；想从“会用 AI”走到“让 AI 自己干活”，这篇很值得看。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-05",
-      "title": "上篇讲清了网页的布局、结构、导航和组件，这篇继续补齐“网页怎么动、怎么反馈、怎么显得更完整”：从滚动出现、视差、进度条、懒加载、骨架屏，到空状态、错误重试、极简/杂志风/玻璃拟态/深色模式，以及 3D、转场、性能和无障碍。读完你会更知道怎么把“把网页做得高级点”拆成具体、可执行、AI能听懂的设计需求。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "这篇Vibe Coding 新手视觉宝典，把网页拆成四层：布局、页面结构、导航和组件。针对 卡片、瀑布流、Bento、分屏、CSS Grid/Flexbox、Hero、Landing Page、Sticky Navbar、Drawer、Tabs、Modal、Toast、表单、Command Palette都讲了各自的适用场景，还配了对应的提示词。如果你想用AI搭个人网站、作品集、产品页，可以参考一下。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "这是一个面向设计师与前端工程师的技能库。它们来自作者在Vercel、Linear等公司的多年工作经验。对于持续学习Vibe Coding、产品设计的用户来说，都非常有价值。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "海螺 MiniMax H3 正式开源，小歪跑了一大批案例，测试了产品广告、饮品广告、越野车、探店、美妆带货、餐饮广告，也试了文字渲染、多视角同步、灾难片、二次元变身、情感短剧、动作片、魔法特效、打斗和国风演唱。还给出了完整的提示词，快来一起试试效果如何！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "本文会介绍这个循环工程的来源、Claude Code中的四类循环、如何按顺序构建第一个循环，以及循环会在你睡觉时以哪四种方式产生账单。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "乔木开源的这个 元Skill 可以让你一句话生成真正能被发现、能稳定触发、能通过验证、还能一键开源的Skill。你把提示词、SOP、聊天记录、旧Skill或者一个模糊想法交给它，它会自动完成需求收敛、同类检索、取舍设计、触发评测、格式校验、README、密钥泄露检查、PR、Release和npx安装验证。快来试试看！",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
-    },
-    {
-      "date": "2026-08-04",
-      "title": "AI Agent 能自动改代码、提 PR，但真正难的是：我们怎么判断它这次改动“真的可以合并”？这篇文章讲的就是“评测工程”这道闸门怎么搭建，适合做Agent产品、AI编程工具、自动化流程的人看。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
