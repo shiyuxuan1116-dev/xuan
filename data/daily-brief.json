@@ -1,24 +1,312 @@
 {
-  "generated_at": "2026-09-09T07:20:23.556721Z",
+  "generated_at": "2026-09-13T07:25:44.606309Z",
   "window_hours": 168,
   "total_items": 20,
   "items": [
     {
+      "story_id": "story_91992ed9f82d",
+      "title": "Quick chats with Pets and Appshots on Windows 26.908",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7117458f518f885fe141d11b2560556284fc84d8",
+          "title": "Quick chats with Pets and Appshots on Windows 26.908",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T00:00:00Z"
+        },
+        {
+          "id": "e68db8d85219bed1556b149155beb7759db91bbc",
+          "title": "Codex CLI Cygwin build inputs and matching source for Windows voice",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T00:00:00Z"
+        },
+        {
+          "id": "4a626eb7c4e4a97cc2ed6e709431dddbf19fba02",
+          "title": "Codex CLI Python SDK 0.154.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T00:00:00Z"
+        },
+        {
+          "id": "2128df5666e630f101d91e4b1bd1df095078ee00",
+          "title": "Codex CLI 0.154.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T00:00:00Z"
+        },
+        {
+          "id": "4aad23fa3775a21fd062711a82073a045a6909b3",
+          "title": "ChatGPT for iOS 1.2026.244",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "7117458f518f885fe141d11b2560556284fc84d8",
+          "title": "Quick chats with Pets and Appshots on Windows 26.908",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T00:00:00Z"
+        },
+        {
+          "id": "e68db8d85219bed1556b149155beb7759db91bbc",
+          "title": "Codex CLI Cygwin build inputs and matching source for Windows voice",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T00:00:00Z"
+        },
+        {
+          "id": "4a626eb7c4e4a97cc2ed6e709431dddbf19fba02",
+          "title": "Codex CLI Python SDK 0.154.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T00:00:00Z"
+        },
+        {
+          "id": "2128df5666e630f101d91e4b1bd1df095078ee00",
+          "title": "Codex CLI 0.154.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T00:00:00Z"
+        },
+        {
+          "id": "4aad23fa3775a21fd062711a82073a045a6909b3",
+          "title": "ChatGPT for iOS 1.2026.244",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-08T00:00:00Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8668,
+      "importance": 0.8668,
+      "importance_score": 0.8668,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.4491,
+        "story_heat": 1.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-08T00:00:00Z",
+      "latest_at": "2026-09-11T00:00:00Z",
+      "primary_item": {
+        "id": "7117458f518f885fe141d11b2560556284fc84d8",
+        "title": "Quick chats with Pets and Appshots on Windows 26.908",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_12e9dd685180",
+      "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "primary_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
+          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
+          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.86,
+      "importance": 0.86,
+      "importance_score": 0.86,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T00:00:00Z",
+      "latest_at": "2026-09-14T00:00:00Z",
+      "primary_item": {
+        "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
+        "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8587315c03c9",
+      "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T18:26:10Z"
+        },
+        {
+          "id": "84d095da089a6bbac567518186a311edae283570",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T18:26:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T18:26:10Z"
+        },
+        {
+          "id": "84d095da089a6bbac567518186a311edae283570",
+          "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T18:26:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5861,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-11T18:26:10Z",
+      "latest_at": "2026-09-11T18:26:10Z",
+      "primary_item": {
+        "id": "d180e9307ad6108eb08f57f88bc0238030d71ce7",
+        "title": "GitHub 日韩营销负责人如何用 GitHub Copilot 把活动运营自动化 / Marketing ops as code: Automating events from planning to follow-up on GitHub",
+        "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
       "story_id": "story_6cbde97d8260",
-      "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+      "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
       "source": "公众号：卡尔的AI沃茨",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
-          "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
+          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
           "source": "公众号：卡尔的AI沃茨",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T00:27:00Z"
+          "published_at": "2026-09-11T04:24:28Z"
+        },
+        {
+          "id": "fa27be238f3c70c332da91ed576d6ebf332c56c0",
+          "title": "27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T00:08:00Z"
         },
         {
           "id": "0cda3bb8339290894f2a93fddbc220fedf4130ed",
@@ -46,15 +334,6 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-07T00:08:00Z"
-        },
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
         }
       ],
       "source_count": 5,
@@ -64,13 +343,22 @@
       ],
       "items": [
         {
-          "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
-          "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
+          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
           "source": "公众号：卡尔的AI沃茨",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T00:27:00Z"
+          "published_at": "2026-09-11T04:24:28Z"
+        },
+        {
+          "id": "fa27be238f3c70c332da91ed576d6ebf332c56c0",
+          "title": "27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T00:08:00Z"
         },
         {
           "id": "0cda3bb8339290894f2a93fddbc220fedf4130ed",
@@ -98,28 +386,19 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-07T00:08:00Z"
-        },
-        {
-          "id": "8fcb315f932c03959f1b18eca4c996c65925fabf",
-          "title": "实测GPT-6 Astra：速度、前端与代码能力对比GPT-5.6 Sol的全面升级",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685905&idx=1&sn=2a6327daa3fb1d5573a824afd63af7f6",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-05T11:39:52Z"
         }
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8656,
-      "importance": 0.8656,
-      "importance_score": 0.8656,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.77,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9053,
+        "recency": 0.4787,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -128,252 +407,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-05T11:39:52Z",
-      "latest_at": "2026-09-09T00:27:00Z",
+      "earliest_at": "2026-09-07T00:08:00Z",
+      "latest_at": "2026-09-11T04:24:28Z",
       "primary_item": {
-        "id": "ee16b6ca62e0147f97f9b39244a01722e89f88ea",
-        "title": "OpenAI 上线 GPT Image 2.5，作者实测新版与 image2 的生图差异",
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247510824&idx=1&sn=025a8b7c5fec54d8a00c8632f55f8d98",
+        "id": "75b9e770438f92296d66b37e1b8f03368d074325",
+        "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
         "source": "公众号：卡尔的AI沃茨",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_305f03a4aa6a",
-      "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e403851c39788b25d33193c78b15146edbe25fd8",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T11:30:00Z"
-        },
-        {
-          "id": "e2475f9da4eb6104eda4fab36f0f5224436a47fc",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T11:30:00Z"
-        },
-        {
-          "id": "b38d0cf2066e85b3b2bd11f3b092d07b23275955",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / ChatGPT Images 2.5",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T19:14:22.077000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "e403851c39788b25d33193c78b15146edbe25fd8",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T11:30:00Z"
-        },
-        {
-          "id": "e2475f9da4eb6104eda4fab36f0f5224436a47fc",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T11:30:00Z"
-        },
-        {
-          "id": "b38d0cf2066e85b3b2bd11f3b092d07b23275955",
-          "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / ChatGPT Images 2.5",
-          "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T19:14:22.077000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8652,
-      "importance": 0.8652,
-      "importance_score": 0.8652,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7509,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T11:30:00Z",
-      "latest_at": "2026-09-08T19:14:22.077000Z",
-      "primary_item": {
-        "id": "e403851c39788b25d33193c78b15146edbe25fd8",
-        "title": "OpenAI 发布 ChatGPT Images 2.5 图像模型 / Introducing ChatGPT Images 2.5",
-        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_917b521aa1cb",
-      "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-      "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "primary_url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "7f1305bda050497be8d04dba7d3dfac57b7f12a9",
-          "title": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T21:38:06.785000Z"
-        },
-        {
-          "id": "f5ab1bcbfd771343bfb5e2e974a84c96f228f8fc",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T19:47:13Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）",
-        "techcrunch.com"
-      ],
-      "items": [
-        {
-          "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "1ef9f7cc56b8124414fb2fb30b3b1e128aef75c5",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem, says NYU mathematician",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-08T17:32:15Z"
-        },
-        {
-          "id": "7f1305bda050497be8d04dba7d3dfac57b7f12a9",
-          "title": "OpenAI在一道可能决定职业生涯的数学题上使出下作手段",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "techcrunch.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T21:38:06.785000Z"
-        },
-        {
-          "id": "f5ab1bcbfd771343bfb5e2e974a84c96f228f8fc",
-          "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认 / OpenAI fought dirty on career-making math problem",
-          "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T19:47:13Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8491,
-      "importance": 0.8491,
-      "importance_score": 0.8491,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8193,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T17:32:15Z",
-      "latest_at": "2026-09-08T21:38:06.785000Z",
-      "primary_item": {
-        "id": "14280cff771d4b404eb65526b0858eefc8d03e8f",
-        "title": "NYU 数学家指控 OpenAI 在千禧年难题竞赛中不正当竞争，Bubeck 否认",
-        "url": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_57f248685be7",
-      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-      "primary_url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+      "story_id": "story_ed5843bdd0a9",
+      "title": "Add VS Code Agents to Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+      "primary_url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-          "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+          "title": "Add VS Code Agents to Copilot usage metrics",
+          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T02:43:38Z"
+          "published_at": "2026-09-11T21:30:30Z"
         }
       ],
       "source_count": 1,
@@ -382,271 +441,26 @@
       ],
       "items": [
         {
-          "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-          "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
+          "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+          "title": "Add VS Code Agents to Copilot usage metrics",
+          "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-09T02:43:38Z"
+          "published_at": "2026-09-11T21:30:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8464,
-      "importance": 0.8464,
-      "importance_score": 0.8464,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9356,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T02:43:38Z",
-      "latest_at": "2026-09-09T02:43:38Z",
-      "primary_item": {
-        "id": "08bd7a3f9b9cfa4a945437f9891e6a9506d8a2bf",
-        "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f7dd334d631a",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-      "primary_url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T14:00:15Z"
-        },
-        {
-          "id": "53c806a5b6031575279a80c6693c82d7a3125a14",
-          "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T14:14:15Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-          "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T14:00:15Z"
-        },
-        {
-          "id": "53c806a5b6031575279a80c6693c82d7a3125a14",
-          "title": "AlphaGenome Atlas predictive map of every DNA letter change in the human genome",
-          "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-08T14:14:15Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7785,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T14:00:15Z",
-      "latest_at": "2026-09-08T14:14:15Z",
-      "primary_item": {
-        "id": "bd408293d32e3b3ed026e5399e9e52f6ca55576d",
-        "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-        "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fbb79928f7d9",
-      "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
-      "primary_url": "https://openai.com/index/navier-stokes-solution",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "bc52c016828eb7a34ebb943def2c26ed1f82d172",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "2939a41654030d09fc713c6f56cb393c55aefc77",
-          "title": "关于纳维-斯托克斯千禧奖问题",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T17:37:53.153000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "bc52c016828eb7a34ebb943def2c26ed1f82d172",
-          "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T10:00:00Z"
-        },
-        {
-          "id": "2939a41654030d09fc713c6f56cb393c55aefc77",
-          "title": "关于纳维-斯托克斯千禧奖问题",
-          "url": "https://openai.com/index/navier-stokes-solution",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-08T17:37:53.153000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8543,
-      "importance": 0.8543,
-      "importance_score": 0.8543,
+      "score": 0.7823,
+      "importance": 0.7823,
+      "importance_score": 0.7823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7348,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T10:00:00Z",
-      "latest_at": "2026-09-08T17:37:53.153000Z",
-      "primary_item": {
-        "id": "fc178d7640328bd881374f099f4ed158e8bb1540",
-        "title": "OpenAI 宣布以内部 AI 系统给出 Navier-Stokes 千禧年问题解答 / On the Navier–Stokes Millennium Prize Problem",
-        "url": "https://openai.com/index/navier-stokes-solution",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4f420d1c5cd0",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
-          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T14:23:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
-          "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-          "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-08T14:23:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7828,
+        "recency": 0.6127,
         "story_heat": 0.0
       },
       "category": "official",
@@ -655,133 +469,141 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T14:23:07Z",
-      "latest_at": "2026-09-08T14:23:07Z",
+      "earliest_at": "2026-09-11T21:30:30Z",
+      "latest_at": "2026-09-11T21:30:30Z",
       "primary_item": {
-        "id": "50d984ced7249d24ee585d7fe58912c5f4a5dad0",
-        "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-        "source": "Hugging Face Blog",
+        "id": "6a28b4e26cc701066b0b877350ad6928fee9bfe5",
+        "title": "Add VS Code Agents to Copilot usage metrics",
+        "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.153.3 / Codex CLI 0.153.3",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c5db4791b13f",
+      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+      "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+      "primary_url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-          "title": "法典 CLI 0.153.3 / Codex CLI 0.153.3",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
-        },
-        {
-          "id": "dcfcb80918a5e6169f5ad622c94ff888b6c710a2",
-          "title": "法典 CLI 0.153.4 / Codex CLI 0.153.4",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
-        },
-        {
-          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-          "title": "法典 CLI 0.153.0 / Codex CLI 0.153.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "50aa205ff410f3127af9c9a89ce05de430cd66de",
-          "title": "法典 CLI 0.153.1 / Codex CLI 0.153.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "7066e5d0ee42d54549e84813f79c6cb34e3fd492",
-          "title": "法典 CLI 0.153.2 / Codex CLI 0.153.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
+          "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+          "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T05:56:03Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "MarkTechPost（RSS）"
       ],
       "items": [
         {
-          "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-          "title": "法典 CLI 0.153.3 / Codex CLI 0.153.3",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
-        },
-        {
-          "id": "dcfcb80918a5e6169f5ad622c94ff888b6c710a2",
-          "title": "法典 CLI 0.153.4 / Codex CLI 0.153.4",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-04T00:00:00Z"
-        },
-        {
-          "id": "bb85c2474327fd3868ec4d226718a0570ac11485",
-          "title": "法典 CLI 0.153.0 / Codex CLI 0.153.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "50aa205ff410f3127af9c9a89ce05de430cd66de",
-          "title": "法典 CLI 0.153.1 / Codex CLI 0.153.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
-        },
-        {
-          "id": "7066e5d0ee42d54549e84813f79c6cb34e3fd492",
-          "title": "法典 CLI 0.153.2 / Codex CLI 0.153.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-03T00:00:00Z"
+          "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+          "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T05:56:03Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9786,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-13T05:56:03Z",
+      "latest_at": "2026-09-13T05:56:03Z",
+      "primary_item": {
+        "id": "4b8e45d73d6f9168d6f30f8fa97f8c8e80e018f0",
+        "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+        "url": "https://www.marktechpost.com/2026/09/12/context-engineering-inside-the-harness-4-mechanisms-that-beat-context-overflow-and-goal-loss-on-long-horizon-tasks",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c7d3c8aeae42",
+      "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "primary_url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
+          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T10:00:00Z"
+        },
+        {
+          "id": "d2ba51c1450a2b8d19ce126838aaad5b2be66399",
+          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T10:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
+          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-11T10:00:00Z"
+        },
+        {
+          "id": "d2ba51c1450a2b8d19ce126838aaad5b2be66399",
+          "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇）",
+          "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-11T10:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.159,
-        "story_heat": 1.0
+        "ai_relevance": 0.95,
+        "recency": 0.5189,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
@@ -790,79 +612,79 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-03T00:00:00Z",
-      "latest_at": "2026-09-04T00:00:00Z",
+      "earliest_at": "2026-09-11T10:00:00Z",
+      "latest_at": "2026-09-11T10:00:00Z",
       "primary_item": {
-        "id": "0be79c3568d5a6ee1e1df288e5f752c6ef0fb2ee",
-        "title": "法典 CLI 0.153.3 / Codex CLI 0.153.3",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
+        "id": "9fa69dd2432ab59881aac0c5b1ccd0936f65064b",
+        "title": "OpenAI 详解存储平台 Habitat 如何扩展支撑超 10 亿 ChatGPT 用户（上篇） / Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_694b0dcfe5b5",
-      "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-      "url": "https://www.ithome.com/1/000/188.htm",
-      "primary_url": "https://www.ithome.com/1/000/188.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_4e2dca866221",
+      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+      "url": "https://x.com/sama/status/2098811563415150910",
+      "primary_url": "https://x.com/sama/status/2098811563415150910",
+      "source": "X：Sam Altman (@sama)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fa808e6855f412167058a091985bcbf806b32686",
-          "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "url": "https://www.ithome.com/1/000/188.htm",
-          "source": "IT之家（RSS）",
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T06:41:51Z"
+          "published_at": "2026-09-12T16:30:45Z"
         },
         {
-          "id": "0a9fd1822bed1dd452a18688d9617df3de6fa87d",
-          "title": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
-          "url": "https://www.ithome.com/1/000/188.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T06:41:51Z"
+          "id": "ef2975b2243de76f3a5d59310157a881804c2886",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T16:30:45Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "Follow Builders · X · Sam Altman",
+        "X：Sam Altman (@sama)"
       ],
       "items": [
         {
-          "id": "fa808e6855f412167058a091985bcbf806b32686",
-          "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-          "url": "https://www.ithome.com/1/000/188.htm",
-          "source": "IT之家（RSS）",
+          "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "X：Sam Altman (@sama)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-09T06:41:51Z"
+          "published_at": "2026-09-12T16:30:45Z"
         },
         {
-          "id": "0a9fd1822bed1dd452a18688d9617df3de6fa87d",
-          "title": "曝 DeepSeek 已聘请中信证券筹备 IPO 事宜：目标是在今年递交申请、明年正式挂牌上市",
-          "url": "https://www.ithome.com/1/000/188.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T06:41:51Z"
+          "id": "ef2975b2243de76f3a5d59310157a881804c2886",
+          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问 / I agree with Dario that we need to pace the frontier. This has been a primary topic of discussions we've had at OpenAI in recent weeks. Committing to having independent evaluators with employee-like access is a great...",
+          "url": "https://x.com/sama/status/2098811563415150910",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T16:30:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9908,
+        "recency": 0.8062,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -871,79 +693,303 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-09T06:41:51Z",
-      "latest_at": "2026-09-09T06:41:51Z",
+      "earliest_at": "2026-09-12T16:30:45Z",
+      "latest_at": "2026-09-12T16:30:45Z",
       "primary_item": {
-        "id": "fa808e6855f412167058a091985bcbf806b32686",
-        "title": "曝 DeepSeek 聘请中信证券筹备科创板 IPO，目标年内递交申请",
-        "url": "https://www.ithome.com/1/000/188.htm",
-        "source": "IT之家（RSS）",
+        "id": "8fb65a9db3c76702cd484138e5b9b442d1ad9c1f",
+        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
+        "url": "https://x.com/sama/status/2098811563415150910",
+        "source": "X：Sam Altman (@sama)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_048aa76fa30e",
-      "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
-      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-      "primary_url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
+      "story_id": "story_cb50b0c3c856",
+      "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "primary_url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "58436be6016157fdfe3da160adb8e3c2b5b97744",
-          "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T23:55:12Z"
+          "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
+          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T00:00:00Z"
         },
         {
-          "id": "c0b66a0d4d5c9e92b04b7e47ab3d1e4111752c85",
-          "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争 / The Navier–Stokes Millennium Prize Problem",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T05:55:39Z"
+          "id": "727d5873220f3fc9958259ce1b00a1f39a9d855e",
+          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T00:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Simon Willison 博客"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
-          "id": "58436be6016157fdfe3da160adb8e3c2b5b97744",
-          "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T23:55:12Z"
+          "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
+          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T00:00:00Z"
         },
         {
-          "id": "c0b66a0d4d5c9e92b04b7e47ab3d1e4111752c85",
-          "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争 / The Navier–Stokes Millennium Prize Problem",
-          "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-09T05:55:39Z"
+          "id": "727d5873220f3fc9958259ce1b00a1f39a9d855e",
+          "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能",
+          "url": "https://huggingface.co/blog/gradio-workflow-1111",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-10T00:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8013,
-      "importance": 0.8013,
-      "importance_score": 0.8013,
+      "score": 0.7622,
+      "importance": 0.7622,
+      "importance_score": 0.7622,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.3176,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-10T00:00:00Z",
+      "latest_at": "2026-09-10T00:00:00Z",
+      "primary_item": {
+        "id": "e78747797ab8eaea98f4e279c790cee43817aef7",
+        "title": "Hugging Face 用 Gradio Workflow 重建 Workflow1111，复刻 AUTOMATIC1111 主要功能 / Rebuilding AUTOMATIC1111 with Gradio Workflow",
+        "url": "https://huggingface.co/blog/gradio-workflow-1111",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_83b26543b013",
+      "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+      "url": "https://x.com/trq212/status/2098860941391872132",
+      "primary_url": "https://x.com/trq212/status/2098860941391872132",
+      "source": "X：Thariq (@trq212)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        },
+        {
+          "id": "a74c267d91533ab499d35cedc39ec1bd472a0bce",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thariq",
+        "X：Thariq (@trq212)"
+      ],
+      "items": [
+        {
+          "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "X：Thariq (@trq212)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T19:46:58Z"
+        },
+        {
+          "id": "a74c267d91533ab499d35cedc39ec1bd472a0bce",
+          "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间 / If you showed me Claude Code today in 2018, I would have thought it was AGI. We have already absorbed a dramatic amount of change in the profession of software engineering and society as a whole. But still, we’re star...",
+          "url": "https://x.com/trq212/status/2098860941391872132",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-09-12T19:46:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8452,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T19:46:58Z",
+      "latest_at": "2026-09-12T19:46:58Z",
+      "primary_item": {
+        "id": "c2560befab7f82dffe6d7cde42df3a486bec135f",
+        "title": "Thariq 支持 Dario Amodei 的放缓前沿 AI 倡议，呼吁给系统加固和社会讨论留出时间",
+        "url": "https://x.com/trq212/status/2098860941391872132",
+        "source": "X：Thariq (@trq212)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4eb0f95713f7",
+      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+      "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "primary_url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T17:33:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+          "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T17:33:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8185,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-12T17:33:23Z",
+      "latest_at": "2026-09-12T17:33:23Z",
+      "primary_item": {
+        "id": "64f0788da28b86cf441c6809e7d0d5bda872fbb6",
+        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
+        "url": "https://x.com/OpenAIDevs/status/2098827327832822014",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_59326c036955",
+      "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+      "url": "https://www.rubyhack.ai",
+      "primary_url": "https://www.rubyhack.ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+          "url": "https://www.rubyhack.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T00:24:20.561000Z"
+        },
+        {
+          "id": "fbf3ff376bfc93627bc7a0634eb6984c11e35017",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://www.rubyhack.ai",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T23:41:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "Lobsters (技术社区)"
+      ],
+      "items": [
+        {
+          "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+          "url": "https://www.rubyhack.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T00:24:20.561000Z"
+        },
+        {
+          "id": "fbf3ff376bfc93627bc7a0634eb6984c11e35017",
+          "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析 / OpenAI agents carried out an undisclosed attack on RubyGems",
+          "url": "https://www.rubyhack.ai",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-11T23:41:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8984,
+        "recency": 0.6389,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -952,113 +998,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T23:55:12Z",
-      "latest_at": "2026-09-09T05:55:39Z",
+      "earliest_at": "2026-09-11T23:41:50Z",
+      "latest_at": "2026-09-12T00:24:20.561000Z",
       "primary_item": {
-        "id": "58436be6016157fdfe3da160adb8e3c2b5b97744",
-        "title": "Simon Willison 评 OpenAI 用未发布模型求解 Navier-Stokes 千禧年大奖难题之争",
-        "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-        "source": "Simon Willison 博客",
+        "id": "b7e23e6fc7f12a692719217a64c3f1a5fbdd7046",
+        "title": "OpenAI 智能体集群对 RubyGems 发动未公开攻击：作者团队的详细取证分析",
+        "url": "https://www.rubyhack.ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_9c900309bfef",
-      "title": "京东启动“物理 AI 加速计划”：要建全球最大物理世界运营中心",
-      "url": "https://www.aibase.com/news/30926",
-      "primary_url": "https://www.aibase.com/news/30926",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f1621e561a51bf77eda8c9244adb29bb70f34ed7",
-          "title": "京东启动“物理 AI 加速计划”：要建全球最大物理世界运营中心",
-          "url": "https://www.aibase.com/news/30926",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T07:20:23.556721Z"
-        },
-        {
-          "id": "f50d56976e546a82ef81cdd3ca13afa7a1abb158",
-          "title": "京东启动“京东物理 AI 加速计划”，打造全球最大物理世界运营中心",
-          "url": "https://www.ithome.com/1/000/163.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T05:13:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
-      ],
-      "items": [
-        {
-          "id": "f1621e561a51bf77eda8c9244adb29bb70f34ed7",
-          "title": "京东启动“物理 AI 加速计划”：要建全球最大物理世界运营中心",
-          "url": "https://www.aibase.com/news/30926",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T07:20:23.556721Z"
-        },
-        {
-          "id": "f50d56976e546a82ef81cdd3ca13afa7a1abb158",
-          "title": "京东启动“京东物理 AI 加速计划”，打造全球最大物理世界运营中心",
-          "url": "https://www.ithome.com/1/000/163.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-09T05:13:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T05:13:10Z",
-      "latest_at": "2026-09-09T07:20:23.556721Z",
-      "primary_item": {
-        "id": "f1621e561a51bf77eda8c9244adb29bb70f34ed7",
-        "title": "京东启动“物理 AI 加速计划”：要建全球最大物理世界运营中心",
-        "url": "https://www.aibase.com/news/30926",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c5201349f1b3",
-      "title": "GitHub Enterprise Server 3.22 is now generally available",
-      "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+      "story_id": "story_850b6df2d33d",
+      "title": "Auto-resolution and analysis updates in Copilot code review",
+      "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
+      "primary_url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
-          "title": "GitHub Enterprise Server 3.22 is now generally available",
-          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T21:52:42Z"
+          "published_at": "2026-09-11T20:00:07Z"
         }
       ],
       "source_count": 1,
@@ -1067,26 +1032,26 @@
       ],
       "items": [
         {
-          "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
-          "title": "GitHub Enterprise Server 3.22 is now generally available",
-          "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+          "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+          "title": "Auto-resolution and analysis updates in Copilot code review",
+          "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T21:52:42Z"
+          "published_at": "2026-09-11T20:00:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8723,
+        "ai_relevance": 0.91,
+        "recency": 0.5995,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1095,32 +1060,153 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T21:52:42Z",
-      "latest_at": "2026-09-08T21:52:42Z",
+      "earliest_at": "2026-09-11T20:00:07Z",
+      "latest_at": "2026-09-11T20:00:07Z",
       "primary_item": {
-        "id": "81992c21c827e3d016b7b2c3b9c1b99e8713c4a3",
-        "title": "GitHub Enterprise Server 3.22 is now generally available",
-        "url": "https://github.blog/changelog/2026-09-08-github-enterprise-server-3-22-is-now-generally-available",
+        "id": "eb40e36e6a9a04e2c03ce1e5fef7636434e1b494",
+        "title": "Auto-resolution and analysis updates in Copilot code review",
+        "url": "https://github.blog/changelog/2026-09-11-auto-resolution-and-analysis-updates-in-copilot-code-review",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_167bce5d47e7",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "primary_url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "story_id": "story_94ad36d7ed05",
+      "title": "3 ways to prep for your next big race with Search",
+      "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d17100a4d67001021e880928e59782b6ce602ba4",
+          "title": "3 ways to prep for your next big race with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "d17100a4d67001021e880928e59782b6ce602ba4",
+          "title": "3 ways to prep for your next big race with Search",
+          "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-10T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.4001,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-10T16:00:00Z",
+      "latest_at": "2026-09-10T16:00:00Z",
+      "primary_item": {
+        "id": "d17100a4d67001021e880928e59782b6ce602ba4",
+        "title": "3 ways to prep for your next big race with Search",
+        "url": "https://blog.google/products-and-platforms/products/search/running-race-training-tips",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f19c7789726e",
+      "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+      "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+      "primary_url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+      "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T20:18:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）"
+      ],
+      "items": [
+        {
+          "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+          "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+          "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+          "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-12T20:18:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8517,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-12T20:18:42Z",
+      "latest_at": "2026-09-12T20:18:42Z",
+      "primary_item": {
+        "id": "fc265156e1361beb3a5e3d57c63b75562d60c0d6",
+        "title": "Dario Amodei 发文呼吁 AI 行业放慢前沿速度并公布三步计划",
+        "url": "https://x.com/PeterMcCrory/status/2098868931071226252",
+        "source": "X：Peter McCrory（Anthropic 首席经济学家，@PeterMcCrory）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c3aa33826442",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "primary_url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
-          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
+          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T17:00:00Z"
+          "published_at": "2026-09-11T16:00:00Z"
         }
       ],
       "source_count": 1,
@@ -1129,26 +1215,26 @@
       ],
       "items": [
         {
-          "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
-          "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-          "url": "https://openai.com/index/codex-quantum-computing-experiments",
+          "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
+          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "url": "https://openai.com/index/cognition-devin-testing-with-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T17:00:00Z"
+          "published_at": "2026-09-11T16:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8263,
-      "importance": 0.8263,
-      "importance_score": 0.8263,
+      "score": 0.7819,
+      "importance": 0.7819,
+      "importance_score": 0.7819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.813,
+        "recency": 0.5659,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1157,263 +1243,120 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T17:00:00Z",
-      "latest_at": "2026-09-08T17:00:00Z",
+      "earliest_at": "2026-09-11T16:00:00Z",
+      "latest_at": "2026-09-11T16:00:00Z",
       "primary_item": {
-        "id": "13b2c55da9da69c3375d377db1ddbb2cd903e5ab",
-        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-        "url": "https://openai.com/index/codex-quantum-computing-experiments",
+        "id": "2342e4759b03bcc9e1fdc6ec2451a4a3e853fe0b",
+        "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+        "url": "https://openai.com/index/cognition-devin-testing-with-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_40f32a89c2f6",
-      "title": "蚂蚁开源 Ling-3.0-flash-VL：124B 参数原生多模态大模型正式登场",
-      "url": "https://www.aibase.com/news/30924",
-      "primary_url": "https://www.aibase.com/news/30924",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8eb25888146026a7410274c23f643f524cd63172",
-          "title": "蚂蚁开源 Ling-3.0-flash-VL：124B 参数原生多模态大模型正式登场",
-          "url": "https://www.aibase.com/news/30924",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T07:20:23.556721Z"
-        },
-        {
-          "id": "bae28ce006069b33c2f88a5ee10a9c17bde12b32",
-          "title": "蚂蚁开源 Ling-3.0-flash-VL：124B 参数原生多模态大模型正式登场",
-          "url": "https://www.aibase.com/zh/news/30924",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "8eb25888146026a7410274c23f643f524cd63172",
-          "title": "蚂蚁开源 Ling-3.0-flash-VL：124B 参数原生多模态大模型正式登场",
-          "url": "https://www.aibase.com/news/30924",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-09T07:20:23.556721Z"
-        },
-        {
-          "id": "bae28ce006069b33c2f88a5ee10a9c17bde12b32",
-          "title": "蚂蚁开源 Ling-3.0-flash-VL：124B 参数原生多模态大模型正式登场",
-          "url": "https://www.aibase.com/zh/news/30924",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-09T07:20:23.556721Z",
-      "latest_at": "2026-09-09T07:20:23.556721Z",
-      "primary_item": {
-        "id": "8eb25888146026a7410274c23f643f524cd63172",
-        "title": "蚂蚁开源 Ling-3.0-flash-VL：124B 参数原生多模态大模型正式登场",
-        "url": "https://www.aibase.com/news/30924",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a6cb6a182830",
-      "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
-      "url": "https://x.com/EMostaque/status/2097378223138959719",
-      "primary_url": "https://x.com/EMostaque/status/2097378223138959719",
-      "source": "X：Emad Mostaque (@EMostaque)",
+      "story_id": "story_fc4b9c1c0950",
+      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+      "url": "https://suno.com/blog/introducing-v6",
+      "primary_url": "https://suno.com/blog/introducing-v6",
+      "source": "Suno：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f79311cc2705e435bda8295e260f4ea002ba881a",
-          "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
-          "url": "https://x.com/EMostaque/status/2097378223138959719",
-          "source": "X：Emad Mostaque (@EMostaque)",
+          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+          "url": "https://suno.com/blog/introducing-v6",
+          "source": "Suno：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T17:35:10Z"
+          "published_at": "2026-09-12T16:39:24.855000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Emad Mostaque (@EMostaque)"
+        "Suno：Blog（网页）"
       ],
       "items": [
         {
-          "id": "f79311cc2705e435bda8295e260f4ea002ba881a",
-          "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
-          "url": "https://x.com/EMostaque/status/2097378223138959719",
-          "source": "X：Emad Mostaque (@EMostaque)",
+          "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+          "url": "https://suno.com/blog/introducing-v6",
+          "source": "Suno：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T17:35:10Z"
+          "published_at": "2026-09-12T16:39:24.855000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.721,
+      "importance": 0.721,
+      "importance_score": 0.721,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8199,
+        "recency": 0.8079,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T17:35:10Z",
-      "latest_at": "2026-09-08T17:35:10Z",
+      "earliest_at": "2026-09-12T16:39:24.855000Z",
+      "latest_at": "2026-09-12T16:39:24.855000Z",
       "primary_item": {
-        "id": "f79311cc2705e435bda8295e260f4ea002ba881a",
-        "title": "Emad Mostaque 称 OpenAI 智能体求解 Navier-Stokes 千禧年难题是迈向 ASI 的里程碑",
-        "url": "https://x.com/EMostaque/status/2097378223138959719",
-        "source": "X：Emad Mostaque (@EMostaque)",
+        "id": "0ea45de03c91beaa58746311a1b4053b53fa7cab",
+        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
+        "url": "https://suno.com/blog/introducing-v6",
+        "source": "Suno：Blog（网页）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_8f03ea4c457e",
-      "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
-      "url": "https://x.com/polynoamial/status/2097375837670785447",
-      "primary_url": "https://x.com/polynoamial/status/2097375837670785447",
-      "source": "X：Noam Brown (@polynoamial)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "47b37f9f50650824879d0035f54ecddd7a33d01c",
-          "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
-          "url": "https://x.com/polynoamial/status/2097375837670785447",
-          "source": "X：Noam Brown (@polynoamial)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:25:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Noam Brown (@polynoamial)"
-      ],
-      "items": [
-        {
-          "id": "47b37f9f50650824879d0035f54ecddd7a33d01c",
-          "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
-          "url": "https://x.com/polynoamial/status/2097375837670785447",
-          "source": "X：Noam Brown (@polynoamial)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:25:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.818,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-08T17:25:41Z",
-      "latest_at": "2026-09-08T17:25:41Z",
-      "primary_item": {
-        "id": "47b37f9f50650824879d0035f54ecddd7a33d01c",
-        "title": "Noam Brown 评 OpenAI 用智能体求解 Navier-Stokes 千禧年难题：成本会快速下降",
-        "url": "https://x.com/polynoamial/status/2097375837670785447",
-        "source": "X：Noam Brown (@polynoamial)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_49d221fd67ec",
-      "title": "New customer portal help.github.com",
-      "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-      "primary_url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-      "source": "GitHub Changelog",
+      "story_id": "story_115895427a12",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-          "title": "New customer portal help.github.com",
-          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-          "source": "GitHub Changelog",
+          "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
+          "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T18:00:10Z"
+          "published_at": "2026-09-10T21:31:19Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-          "title": "New customer portal help.github.com",
-          "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-          "source": "GitHub Changelog",
+          "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
+          "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-08T18:00:10Z"
+          "published_at": "2026-09-10T21:31:19Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8248,
+        "ai_relevance": 0.91,
+        "recency": 0.4333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1422,194 +1365,135 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-08T18:00:10Z",
-      "latest_at": "2026-09-08T18:00:10Z",
+      "earliest_at": "2026-09-10T21:31:19Z",
+      "latest_at": "2026-09-10T21:31:19Z",
       "primary_item": {
-        "id": "5042a82818d0c9db796c36bd230e9ec34d144b25",
-        "title": "New customer portal help.github.com",
-        "url": "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-        "source": "GitHub Changelog",
+        "id": "40bc0a2f1839400b24b9b45378777be768b1b293",
+        "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser",
+        "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_6d05cbe635d4",
-      "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "primary_url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_907498d8ada4",
+      "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+      "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+      "primary_url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
-          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
+          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T07:20:02.739000Z"
+          "published_at": "2026-09-12T23:16:27Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "X：OpenAI Developers (@OpenAIDevs)"
       ],
       "items": [
         {
-          "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
-          "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-          "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
+          "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+          "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-08T07:20:02.739000Z"
+          "published_at": "2026-09-12T23:16:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.707,
+        "recency": 0.8889,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T07:20:02.739000Z",
-      "latest_at": "2026-09-08T07:20:02.739000Z",
+      "earliest_at": "2026-09-12T23:16:27Z",
+      "latest_at": "2026-09-12T23:16:27Z",
       "primary_item": {
-        "id": "ab134c36a54fea581c80987fa5900787b6c80ef1",
-        "title": "数学家巴克马斯特宣布多项方程 blowup 结果并公开与 OpenAI 沟通经过",
-        "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "23601fca23fa8ec5df7c7426cb61458c2d8f4b0a",
+        "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
+        "url": "https://x.com/OpenAIDevs/status/2098913661993603215",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_41fd5e104fee",
-      "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-      "url": "https://x.com/OpenAI/status/2097375276384567642",
-      "primary_url": "https://x.com/OpenAI/status/2097375276384567642",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
+      "story_id": "story_e8608e40b722",
+      "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+      "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "primary_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2a75ecefe6f4767a37ed33681139055bb1e041ab",
-          "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-          "url": "https://x.com/OpenAI/status/2097375276384567642",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:23:27Z"
+          "id": "fd91534dca51075721031b57097e5f9315f7f497",
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T15:36:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：OpenAI (@OpenAI)"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "2a75ecefe6f4767a37ed33681139055bb1e041ab",
-          "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-          "url": "https://x.com/OpenAI/status/2097375276384567642",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T17:23:27Z"
+          "id": "fd91534dca51075721031b57097e5f9315f7f497",
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-09T15:36:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
-      "importance_label": "行业动态",
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8176,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.2813,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-08T17:23:27Z",
-      "latest_at": "2026-09-08T17:23:27Z",
+      "earliest_at": "2026-09-09T15:36:24Z",
+      "latest_at": "2026-09-09T15:36:24Z",
       "primary_item": {
-        "id": "2a75ecefe6f4767a37ed33681139055bb1e041ab",
-        "title": "OpenAI 智能体团队宣布求解 Navier-Stokes 千禧年大奖难题并向独立证明者致贺",
-        "url": "https://x.com/OpenAI/status/2097375276384567642",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6bc8a3367e33",
-      "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-      "url": "https://x.com/sama/status/2097385167002415140",
-      "primary_url": "https://x.com/sama/status/2097385167002415140",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4d4d3f72ee65c0125c3bdd2e78058da395b37929",
-          "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-          "url": "https://x.com/sama/status/2097385167002415140",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T18:02:46Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "4d4d3f72ee65c0125c3bdd2e78058da395b37929",
-          "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-          "url": "https://x.com/sama/status/2097385167002415140",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-08T18:02:46Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8253,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-08T18:02:46Z",
-      "latest_at": "2026-09-08T18:02:46Z",
-      "primary_item": {
-        "id": "4d4d3f72ee65c0125c3bdd2e78058da395b37929",
-        "title": "Sam Altman 回应与 Anthropic 研究员的 Navier-Stokes 证明发布争议",
-        "url": "https://x.com/sama/status/2097385167002415140",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
+        "id": "fd91534dca51075721031b57097e5f9315f7f497",
+        "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+        "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     }
   ]
