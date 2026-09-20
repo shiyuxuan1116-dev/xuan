@@ -1,8 +1,1010 @@
 {
-  "generated_at": "2026-09-16T07:38:02.167333Z",
+  "generated_at": "2026-09-20T07:42:15.527763Z",
   "window_hours": 168,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "ChatGPT for iOS 1.2026.251",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a453b31867fbfba353953ae2a0e28a329eb7d885",
+          "title": "ChatGPT for iOS 1.2026.251",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T00:00:00Z"
+        },
+        {
+          "id": "e3af0e76504a572eafec3af003d83d22abbed670",
+          "title": "Codex CLI 0.155.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T00:00:00Z"
+        },
+        {
+          "id": "499bcac3f064b38395a189728210bcf035424ff1",
+          "title": "Codex CLI 0.155.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:00:00Z"
+        },
+        {
+          "id": "5711058af1a3bd1df960430f413261c50f51fdee",
+          "title": "GPT-5.3-Codex-Spark deprecated",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T00:00:00Z"
+        },
+        {
+          "id": "2f7e6707f6fee5ed24820aabdc1d12f2ebd8fb47",
+          "title": "GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T00:00:00Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "a453b31867fbfba353953ae2a0e28a329eb7d885",
+          "title": "ChatGPT for iOS 1.2026.251",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T00:00:00Z"
+        },
+        {
+          "id": "e3af0e76504a572eafec3af003d83d22abbed670",
+          "title": "Codex CLI 0.155.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T00:00:00Z"
+        },
+        {
+          "id": "499bcac3f064b38395a189728210bcf035424ff1",
+          "title": "Codex CLI 0.155.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-17T00:00:00Z"
+        },
+        {
+          "id": "5711058af1a3bd1df960430f413261c50f51fdee",
+          "title": "GPT-5.3-Codex-Spark deprecated",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T00:00:00Z"
+        },
+        {
+          "id": "2f7e6707f6fee5ed24820aabdc1d12f2ebd8fb47",
+          "title": "GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T00:00:00Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8705,
+      "importance": 0.8705,
+      "importance_score": 0.8705,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.4474,
+        "story_heat": 1.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T00:00:00Z",
+      "latest_at": "2026-09-18T00:00:00Z",
+      "primary_item": {
+        "id": "a453b31867fbfba353953ae2a0e28a329eb7d885",
+        "title": "ChatGPT for iOS 1.2026.251",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+      "source": "公众号：阶跃星辰（Step）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
+          "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T02:00:00Z"
+        },
+        {
+          "id": "2dcd15b2ec58e7927a02657d7d294e3e4a49793e",
+          "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T00:08:00Z"
+        },
+        {
+          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
+          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:09:06Z"
+        },
+        {
+          "id": "3b100d82b102c8649fc96cee21fef0c21fe60dc9",
+          "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+          "source": "公众号：生数科技（Vidu·视频）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T14:30:59Z"
+        },
+        {
+          "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
+          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T07:29:56Z"
+        },
+        {
+          "id": "add1184de4e05e7931adf227851a985e2925cc49",
+          "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T09:59:00Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）",
+        "公众号：数字生命卡兹克",
+        "公众号：生数科技（Vidu·视频）",
+        "公众号：阶跃星辰（Step）"
+      ],
+      "items": [
+        {
+          "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
+          "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-20T02:00:00Z"
+        },
+        {
+          "id": "2dcd15b2ec58e7927a02657d7d294e3e4a49793e",
+          "title": "TypeSafe AI 发布只做高频决策的大模型 Jev，作者实测其分类判断性价比",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686475&idx=1&sn=1d9d43036b6d72fd83b9d5658b351215",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T00:08:00Z"
+        },
+        {
+          "id": "dee18d72420c66afd72b48c6263be57b51fcd9bb",
+          "title": "用 MCP 插件让 GPT-6 Pro 分担 Codex 规划任务，节省 Pro 会员周额度",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686431&idx=1&sn=c1bfba7e0b5b7cf995e444daf79861a4",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:09:06Z"
+        },
+        {
+          "id": "3b100d82b102c8649fc96cee21fef0c21fe60dc9",
+          "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
+          "source": "公众号：生数科技（Vidu·视频）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T14:30:59Z"
+        },
+        {
+          "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
+          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-15T07:29:56Z"
+        },
+        {
+          "id": "add1184de4e05e7931adf227851a985e2925cc49",
+          "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T09:59:00Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.8354,
+      "importance": 0.8354,
+      "importance_score": 0.8354,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9209,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T09:59:00Z",
+      "latest_at": "2026-09-20T02:00:00Z",
+      "primary_item": {
+        "id": "c3244cdb51a60dc3ca1678706b35a50a4ea63696",
+        "title": "阶跃星辰发布旗舰模型 Step 5 Preview，10 月 15 日开源权重",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488120&idx=1&sn=8ba9ac7f0b36682d6262290677c665da",
+        "source": "公众号：阶跃星辰（Step）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_dc8b1f74b838",
+      "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
+          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        },
+        {
+          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
+          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        },
+        {
+          "id": "db0a741db6728ddf6a35dfb6c2ac2c45b97669c6",
+          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用 / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T18:21:30Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.tomshardware.com"
+      ],
+      "items": [
+        {
+          "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
+          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        },
+        {
+          "id": "d8ca7c66fdf0de89083765a6bd0fa4d72bcd54ab",
+          "title": "微软高管：AI“是人类历史上规模最大的劳动力盗用”",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-19T23:58:19.151000Z"
+        },
+        {
+          "id": "db0a741db6728ddf6a35dfb6c2ac2c45b97669c6",
+          "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用 / Microsoft director: AI scraping 'the largest theft of labor in human history'",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-19T18:21:30Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8943,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-19T18:21:30Z",
+      "latest_at": "2026-09-19T23:58:19.151000Z",
+      "primary_item": {
+        "id": "34e7b5ab86917cef138ec6aa4edbe0dad8b9c08e",
+        "title": "纽约时报诉讼文件披露：微软高管称 AI 抓取是人类历史上最大规模的劳动力盗用",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-director-called-ai-scraping-the-largest-theft-of-labor-in-human-history-while-openai-head-brands-chatgpt-an-existential-threat-to-publishers-revelations-come-from-legal-briefs-filed-in-nyt-lawsuit",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_06067dc9dffc",
+      "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+      "url": "https://www.aibase.com/news/31195",
+      "primary_url": "https://www.aibase.com/news/31195",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
+          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "url": "https://www.aibase.com/news/31195",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:42:15.527763Z"
+        },
+        {
+          "id": "535656a3ef2580fd2b00a3404a7757bed209b22e",
+          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "url": "https://www.aibase.com/zh/news/31195",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
+          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "url": "https://www.aibase.com/news/31195",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:42:15.527763Z"
+        },
+        {
+          "id": "535656a3ef2580fd2b00a3404a7757bed209b22e",
+          "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+          "url": "https://www.aibase.com/zh/news/31195",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T07:42:15.527763Z",
+      "latest_at": "2026-09-20T07:42:15.527763Z",
+      "primary_item": {
+        "id": "4e86e6d63db0480d4d8b1c50b780b041357d7fcc",
+        "title": "GPT-6 Astra 联手人类攻破重大进展级数学难题：AI 不再只是解题机，成了规律发现者",
+        "url": "https://www.aibase.com/news/31195",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_cbde4620c702",
+      "title": "Copilot code review: An improved review experience",
+      "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+      "primary_url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
+          "title": "Copilot code review: An improved review experience",
+          "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T20:17:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
+          "title": "Copilot code review: An improved review experience",
+          "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T20:17:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5996,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T20:17:22Z",
+      "latest_at": "2026-09-18T20:17:22Z",
+      "primary_item": {
+        "id": "eda89f683fc829811bfac03eaaca9ec78f28c28a",
+        "title": "Copilot code review: An improved review experience",
+        "url": "https://github.blog/changelog/2026-09-18-copilot-code-review-an-improved-review-experience",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_55f4720a90e1",
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "primary_url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+          "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+          "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.772,
+      "importance": 0.772,
+      "importance_score": 0.772,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5556,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T15:00:00Z",
+      "latest_at": "2026-09-18T15:00:00Z",
+      "primary_item": {
+        "id": "b2a33477c6a92e94e343ae83b5c74e9663d09bdc",
+        "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+        "url": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_559b0cf11197",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "primary_url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
+          "title": "Introducing the Australian Youth Safety Blueprint",
+          "url": "https://openai.com/index/australian-youth-safety-blueprint",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.532,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T12:00:00Z",
+      "latest_at": "2026-09-18T12:00:00Z",
+      "primary_item": {
+        "id": "be4cac5d83c18c0cb661cdfb21c814ebaa542268",
+        "title": "Introducing the Australian Youth Safety Blueprint",
+        "url": "https://openai.com/index/australian-youth-safety-blueprint",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8905851ba602",
+      "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+      "url": "https://www.aibase.com/news/31189",
+      "primary_url": "https://www.aibase.com/news/31189",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "url": "https://www.aibase.com/news/31189",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:42:15.527763Z"
+        },
+        {
+          "id": "c2f016ed45cebd8c13aacc4dc3a10d8e051b000e",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "url": "https://www.aibase.com/zh/news/31189",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "url": "https://www.aibase.com/news/31189",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-20T07:42:15.527763Z"
+        },
+        {
+          "id": "c2f016ed45cebd8c13aacc4dc3a10d8e051b000e",
+          "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+          "url": "https://www.aibase.com/zh/news/31189",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-20T07:42:15.527763Z",
+      "latest_at": "2026-09-20T07:42:15.527763Z",
+      "primary_item": {
+        "id": "6dc2e713e964392dd9302c202f330a7e09070e0a",
+        "title": "MiniMax 开源 Code CLI：命令行编程工具亮出 76.7% 通过率，把企业级 harness 摊在阳光下",
+        "url": "https://www.aibase.com/news/31189",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_c72f60fcf6ad",
+      "title": "New experts join Google’s AI & Economy team",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+          "title": "New experts join Google’s AI & Economy team",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T14:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+          "title": "New experts join Google’s AI & Economy team",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T14:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5476,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T14:00:00Z",
+      "latest_at": "2026-09-18T14:00:00Z",
+      "primary_item": {
+        "id": "25046bb7961a34242ccbe3121d4b7f9225d727c7",
+        "title": "New experts join Google’s AI & Economy team",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_587e82fd87bc",
+      "title": "GitHub Copilot weekly releases — September 14",
+      "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+      "primary_url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
+          "title": "GitHub Copilot weekly releases — September 14",
+          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:21:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
+          "title": "GitHub Copilot weekly releases — September 14",
+          "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:21:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5916,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-18T19:21:22Z",
+      "latest_at": "2026-09-18T19:21:22Z",
+      "primary_item": {
+        "id": "ec3c44c58e68216dee4e22ab0b584c55825e5eec",
+        "title": "GitHub Copilot weekly releases — September 14",
+        "url": "https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c834c1232b76",
+      "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
+      "url": "https://x.com/haider1/status/2101187073990611232",
+      "primary_url": "https://x.com/haider1/status/2101187073990611232",
+      "source": "X：Haider (@haider1)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7be25af0c2acab7857d209435467e836f1230c1",
+          "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
+          "url": "https://x.com/haider1/status/2101187073990611232",
+          "source": "X：Haider (@haider1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T05:50:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Haider (@haider1)"
+      ],
+      "items": [
+        {
+          "id": "b7be25af0c2acab7857d209435467e836f1230c1",
+          "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
+          "url": "https://x.com/haider1/status/2101187073990611232",
+          "source": "X：Haider (@haider1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-19T05:50:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6883,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-19T05:50:11Z",
+      "latest_at": "2026-09-19T05:50:11Z",
+      "primary_item": {
+        "id": "b7be25af0c2acab7857d209435467e836f1230c1",
+        "title": "WSJ 报道：Gemini 在 Irregular 网络安全评测中越出测试环境并入侵三家公司",
+        "url": "https://x.com/haider1/status/2101187073990611232",
+        "source": "X：Haider (@haider1)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_092d4a0f928d",
+      "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+      "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+      "primary_url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T15:27:29Z"
+        },
+        {
+          "id": "fdc223f0d4bb96656c466bd1a9e8fda04c7975a6",
+          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T15:27:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-18T15:27:29Z"
+        },
+        {
+          "id": "fdc223f0d4bb96656c466bd1a9e8fda04c7975a6",
+          "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩 / AI training built on fair use looks shaky when the companies' own people call it \"astonishing theft\"",
+          "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-09-18T15:27:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5592,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-18T15:27:29Z",
+      "latest_at": "2026-09-18T15:27:29Z",
+      "primary_item": {
+        "id": "e0580084c9245f773dc9e155db74b4b84593adb2",
+        "title": "《纽约时报》等媒体提交简要判决动议，援引 OpenAI 与微软高管内部言论质疑合理使用抗辩",
+        "url": "https://the-decoder.com/ai-training-built-on-fair-use-looks-shaky-when-the-companies-own-people-call-it-astonishing-theft",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_2f92a8ca47fb",
       "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking / Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -28,42 +1030,12 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-15T17:05:57Z"
-        },
-        {
-          "id": "672279aa0b83aaca80d5544236f153d480447bb0",
-          "title": "Gemini 3.8 Live 和 3.8 Live Extended Thinking",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T19:53:25.270000Z"
-        },
-        {
-          "id": "d042d39e5041d2deb57549b43593b8db61b0083e",
-          "title": "Gemini 3.8 Live 和 3.8 Live Extended Thinking / Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-15T17:38:18Z"
-        },
-        {
-          "id": "51f2aedc3da6daf7a24b962f3bc92bee2cc9a453",
-          "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "url": "https://news.ycombinator.com/item?id=49715947",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-15T17:38:18Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 2,
       "source_names": [
         "Google DeepMind",
-        "Google DeepMind：Blog（RSS）",
-        "Hacker News (黑客新闻)",
-        "blog.google",
-        "hackernews"
+        "Google DeepMind：Blog（RSS）"
       ],
       "items": [
         {
@@ -83,57 +1055,29 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-09-15T17:05:57Z"
-        },
-        {
-          "id": "672279aa0b83aaca80d5544236f153d480447bb0",
-          "title": "Gemini 3.8 Live 和 3.8 Live Extended Thinking",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
-          "source": "blog.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T19:53:25.270000Z"
-        },
-        {
-          "id": "d042d39e5041d2deb57549b43593b8db61b0083e",
-          "title": "Gemini 3.8 Live 和 3.8 Live Extended Thinking / Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-15T17:38:18Z"
-        },
-        {
-          "id": "51f2aedc3da6daf7a24b962f3bc92bee2cc9a453",
-          "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-          "url": "https://news.ycombinator.com/item?id=49715947",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-15T17:38:18Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.9179,
-      "importance": 0.9179,
-      "importance_score": 0.9179,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8107,
-        "story_heat": 1.0
+        "recency": 0.2025,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-15T17:05:57Z",
-      "latest_at": "2026-09-15T19:53:25.270000Z",
+      "latest_at": "2026-09-15T17:05:57Z",
       "primary_item": {
         "id": "d4698e1cc41a05e866c459a7521514f37fbe34ce",
         "title": "Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking / Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
@@ -143,487 +1087,86 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2f7e6707f6fee5ed24820aabdc1d12f2ebd8fb47",
-          "title": "GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T00:00:00Z"
-        },
-        {
-          "id": "7117458f518f885fe141d11b2560556284fc84d8",
-          "title": "Quick chats with Pets and Appshots on Windows 26.908",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T00:00:00Z"
-        },
-        {
-          "id": "e68db8d85219bed1556b149155beb7759db91bbc",
-          "title": "Codex CLI Cygwin build inputs and matching source for Windows voice",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        },
-        {
-          "id": "4a626eb7c4e4a97cc2ed6e709431dddbf19fba02",
-          "title": "Codex CLI Python SDK 0.154.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "2f7e6707f6fee5ed24820aabdc1d12f2ebd8fb47",
-          "title": "GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T00:00:00Z"
-        },
-        {
-          "id": "7117458f518f885fe141d11b2560556284fc84d8",
-          "title": "Quick chats with Pets and Appshots on Windows 26.908",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-11T00:00:00Z"
-        },
-        {
-          "id": "e68db8d85219bed1556b149155beb7759db91bbc",
-          "title": "Codex CLI Cygwin build inputs and matching source for Windows voice",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        },
-        {
-          "id": "4a626eb7c4e4a97cc2ed6e709431dddbf19fba02",
-          "title": "Codex CLI Python SDK 0.154.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-10T00:00:00Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.4478,
-        "story_heat": 0.75
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-10T00:00:00Z",
-      "latest_at": "2026-09-14T00:00:00Z",
-      "primary_item": {
-        "id": "2f7e6707f6fee5ed24820aabdc1d12f2ebd8fb47",
-        "title": "GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_98c36a850624",
-      "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "14060c2571c717161b27bfaa69b30841c601742d",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        },
-        {
-          "id": "cb25acf576fbb99883abea0569b755d3b8ae5fc8",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "14060c2571c717161b27bfaa69b30841c601742d",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        },
-        {
-          "id": "cb25acf576fbb99883abea0569b755d3b8ae5fc8",
-          "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7979,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:00:00Z",
-      "latest_at": "2026-09-15T16:00:00Z",
-      "primary_item": {
-        "id": "14060c2571c717161b27bfaa69b30841c601742d",
-        "title": "Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_16a7b27ed0ae",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-          "title": "Your Agent Aced the Task. Will It Do It Again?",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-          "title": "Your Agent Aced the Task. Will It Do It Again?",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.798,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:00:44Z",
-      "latest_at": "2026-09-15T16:00:44Z",
-      "primary_item": {
-        "id": "5483b40883b9a65644edb078c2fa278d0495f0d0",
-        "title": "Your Agent Aced the Task. Will It Do It Again?",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_e594f69ef387",
-      "title": "GitHub Copilot suggests custom properties definitions",
-      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "primary_url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot suggests custom properties definitions",
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-          "title": "GitHub Copilot suggests custom properties definitions",
-          "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T19:07:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8348,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T19:07:47Z",
-      "latest_at": "2026-09-15T19:07:47Z",
-      "primary_item": {
-        "id": "084e2a3fdd8599948d5c6fbc35ac9380aa96e0d7",
-        "title": "GitHub Copilot suggests custom properties definitions",
-        "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
-      "source": "公众号：生数科技（Vidu·视频）",
+      "story_id": "story_176ec7b3e8f0",
+      "title": "美军因 AI 幻觉情报报告险些拦截中国船只",
+      "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "primary_url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+      "source": "Hacker News：AI 热帖",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3b100d82b102c8649fc96cee21fef0c21fe60dc9",
-          "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
-          "source": "公众号：生数科技（Vidu·视频）",
+          "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
+          "title": "美军因 AI 幻觉情报报告险些拦截中国船只",
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-15T14:30:59Z"
-        },
-        {
-          "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
-          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
-          "source": "公众号：阶跃星辰（Step）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T07:29:56Z"
-        },
-        {
-          "id": "add1184de4e05e7931adf227851a985e2925cc49",
-          "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T09:59:00Z"
-        },
-        {
-          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
-          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T04:24:28Z"
-        },
-        {
-          "id": "fa27be238f3c70c332da91ed576d6ebf332c56c0",
-          "title": "27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T00:08:00Z"
+          "published_at": "2026-09-18T17:28:01Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 1,
       "source_names": [
-        "公众号：卡尔的AI沃茨",
-        "公众号：小红书技术（dots.llm）",
-        "公众号：数字生命卡兹克",
-        "公众号：生数科技（Vidu·视频）",
-        "公众号：阶跃星辰（Step）"
+        "Hacker News：AI 热帖"
       ],
       "items": [
         {
-          "id": "3b100d82b102c8649fc96cee21fef0c21fe60dc9",
-          "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
-          "source": "公众号：生数科技（Vidu·视频）",
+          "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
+          "title": "美军因 AI 幻觉情报报告险些拦截中国船只",
+          "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-15T14:30:59Z"
-        },
-        {
-          "id": "b69041dae5191a7a0dc28f029074ec6d089dda22",
-          "title": "阶跃星辰发布 StepAudio 3 系列语音大模型，多款在 Artificial Analysis 榜单全球第一",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488074&idx=1&sn=7d92ce0f0098ec0c53b243df4709b522",
-          "source": "公众号：阶跃星辰（Step）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T07:29:56Z"
-        },
-        {
-          "id": "add1184de4e05e7931adf227851a985e2925cc49",
-          "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496383&idx=1&sn=2db8607f797615a3647d9fec7e54f448",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-14T09:59:00Z"
-        },
-        {
-          "id": "75b9e770438f92296d66b37e1b8f03368d074325",
-          "title": "实测 DeepSeek V4.1 Flash：价格大降、原生带视觉，作者用游戏与城市生成任务验证表现",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247511119&idx=1&sn=0f53b5017e41b16afc9b201966ce2bda",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-11T04:24:28Z"
-        },
-        {
-          "id": "fa27be238f3c70c332da91ed576d6ebf332c56c0",
-          "title": "27岁前Anthropic研究员Jacob Coxon辞职警示AI灭绝风险，作者重读Tim Urban《人工智能革命》谈文明赌局",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686114&idx=1&sn=ef25c9da794a29795c3d7ca0637efafb",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-10T00:08:00Z"
+          "published_at": "2026-09-18T17:28:01Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8102,
-      "importance": 0.8102,
-      "importance_score": 0.8102,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.781,
-        "story_heat": 1.0
+        "recency": 0.5757,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-10T00:08:00Z",
-      "latest_at": "2026-09-15T14:30:59Z",
+      "earliest_at": "2026-09-18T17:28:01Z",
+      "latest_at": "2026-09-18T17:28:01Z",
       "primary_item": {
-        "id": "3b100d82b102c8649fc96cee21fef0c21fe60dc9",
-        "title": "生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&mid=2247489246&idx=2&sn=b23b39da69f6c75594eccac11854111f",
-        "source": "公众号：生数科技（Vidu·视频）",
+        "id": "2decbef3c0728a852ea1e5b34fc103fa36eb94a1",
+        "title": "美军因 AI 幻觉情报报告险些拦截中国船只",
+        "url": "https://www.cnn.com/2026/09/18/politics/us-military-ai-false-intelligence-china-ship",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_d77bf16ee0f4",
-      "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-      "url": "https://www.aibase.com/news/31091",
-      "primary_url": "https://www.aibase.com/news/31091",
+      "story_id": "story_ab083c078ed1",
+      "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+      "url": "https://www.aibase.com/news/31179",
+      "primary_url": "https://www.aibase.com/news/31179",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
-          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "url": "https://www.aibase.com/news/31091",
+          "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
+          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+          "url": "https://www.aibase.com/news/31179",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T07:38:02.167333Z"
+          "published_at": "2026-09-20T07:42:15.527763Z"
         },
         {
-          "id": "b4096a9d44cd1cfa57ff626c96b6ee20c176f537",
-          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "url": "https://www.aibase.com/zh/news/31091",
+          "id": "cf50111df169db69802f9d2b372218404d29031a",
+          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+          "url": "https://www.aibase.com/zh/news/31179",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -637,18 +1180,18 @@
       ],
       "items": [
         {
-          "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
-          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "url": "https://www.aibase.com/news/31091",
+          "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
+          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+          "url": "https://www.aibase.com/news/31179",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-16T07:38:02.167333Z"
+          "published_at": "2026-09-20T07:42:15.527763Z"
         },
         {
-          "id": "b4096a9d44cd1cfa57ff626c96b6ee20c176f537",
-          "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-          "url": "https://www.aibase.com/zh/news/31091",
+          "id": "cf50111df169db69802f9d2b372218404d29031a",
+          "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+          "url": "https://www.aibase.com/zh/news/31179",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -674,94 +1217,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-16T07:38:02.167333Z",
-      "latest_at": "2026-09-16T07:38:02.167333Z",
+      "earliest_at": "2026-09-20T07:42:15.527763Z",
+      "latest_at": "2026-09-20T07:42:15.527763Z",
       "primary_item": {
-        "id": "3e63e3eb122ccea806d2910f13506b5be7e4e90c",
-        "title": "vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型",
-        "url": "https://www.aibase.com/news/31091",
+        "id": "7f44ad952779b57076d0d3086a2e67e45fcba1ba",
+        "title": "中国电信开源 Xing4.0-29B-A4B：从昇腾芯片到框架全栈国产，消费级显卡也能跑长上下文",
+        "url": "https://www.aibase.com/news/31179",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_12ae08f337ea",
-      "title": "Enforce GitHub Advanced Security configurations",
-      "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-      "primary_url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "Enforce GitHub Advanced Security configurations",
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-          "title": "Enforce GitHub Advanced Security configurations",
-          "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T19:31:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8151,
-      "importance": 0.8151,
-      "importance_score": 0.8151,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8397,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T19:31:58Z",
-      "latest_at": "2026-09-15T19:31:58Z",
-      "primary_item": {
-        "id": "b5a46c6cd1e97667f4d24a094d15936f0b5f94db",
-        "title": "Enforce GitHub Advanced Security configurations",
-        "url": "https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_149a852934bd",
-      "title": "AI for Societal Impact",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+      "story_id": "story_94ad9f737cb6",
+      "title": "Co-creating the future of fashion with Google",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-          "title": "AI for Societal Impact",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+          "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
+          "title": "Co-creating the future of fashion with Google",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
+          "published_at": "2026-09-18T13:00:00Z"
         }
       ],
       "source_count": 1,
@@ -770,26 +1251,26 @@
       ],
       "items": [
         {
-          "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-          "title": "AI for Societal Impact",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+          "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
+          "title": "Co-creating the future of fashion with Google",
+          "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
+          "published_at": "2026-09-18T13:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7979,
+        "recency": 0.5397,
         "story_heat": 0.0
       },
       "category": "official",
@@ -798,60 +1279,223 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-15T16:00:00Z",
-      "latest_at": "2026-09-15T16:00:00Z",
+      "earliest_at": "2026-09-18T13:00:00Z",
+      "latest_at": "2026-09-18T13:00:00Z",
       "primary_item": {
-        "id": "26a5630cff9e8872abc22ccb03614f08acadea77",
-        "title": "AI for Societal Impact",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+        "id": "18ad2a7607198ed5d033e6f9755509fee6ff947c",
+        "title": "Co-creating the future of fashion with Google",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_296d33defd03",
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "primary_url": "https://openai.com/index/fyxer",
-      "source": "OpenAI News",
+      "story_id": "story_6b8b0b6f48f2",
+      "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "primary_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "167e0f28aaf9969b90a74569a182b62614d29230",
-          "title": "How Fyxer built an AI executive assistant people trust",
-          "url": "https://openai.com/index/fyxer",
-          "source": "OpenAI News",
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-14T12:00:00Z"
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "GitHub AI & ML",
+        "GitHub Blog"
       ],
       "items": [
         {
-          "id": "167e0f28aaf9969b90a74569a182b62614d29230",
-          "title": "How Fyxer built an AI executive assistant people trust",
-          "url": "https://openai.com/index/fyxer",
-          "source": "OpenAI News",
+          "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-14T12:00:00Z"
+          "published_at": "2026-09-17T00:26:43Z"
+        },
+        {
+          "id": "ca4dffffcb00c23f888bfd34c6a8e082a9dc14c3",
+          "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-17T00:26:43Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7679,
-      "importance": 0.7679,
-      "importance_score": 0.7679,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5325,
+        "recency": 0.3184,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-17T00:26:43Z",
+      "latest_at": "2026-09-17T00:26:43Z",
+      "primary_item": {
+        "id": "a576196c89c601051dc98e2b0ab6cdc406aef131",
+        "title": "GitHub 用 Copilot 智能体将 Copilot 运行时从 TypeScript 迁移到 83 万行 Rust / Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bbe6c30a33c9",
+      "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+      "url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "primary_url": "https://openai.com/index/model-misalignment-reporting-framework",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "b568a844303081c8d51ffebb6f966d3a359bb0e0",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T17:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "b568a844303081c8d51ffebb6f966d3a359bb0e0",
+          "title": "OpenAI 发布模型失准披露框架并公开六份失准报告",
+          "url": "https://openai.com/index/model-misalignment-reporting-framework",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-16T17:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.2859,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-16T17:00:00Z",
+      "latest_at": "2026-09-16T17:00:00Z",
+      "primary_item": {
+        "id": "9bd9c39f2ea2df15db99f22e470944b351e04a12",
+        "title": "OpenAI 发布模型失准披露框架并公开六份失准报告 / Our framework for reporting model misalignment",
+        "url": "https://openai.com/index/model-misalignment-reporting-framework",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7019e34a4540",
+      "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+      "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+      "primary_url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
+          "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
+          "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+          "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-18T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5886,
         "story_heat": 0.0
       },
       "category": "official",
@@ -860,122 +1504,41 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-14T12:00:00Z",
-      "latest_at": "2026-09-14T12:00:00Z",
+      "earliest_at": "2026-09-18T19:00:00Z",
+      "latest_at": "2026-09-18T19:00:00Z",
       "primary_item": {
-        "id": "167e0f28aaf9969b90a74569a182b62614d29230",
-        "title": "How Fyxer built an AI executive assistant people trust",
-        "url": "https://openai.com/index/fyxer",
-        "source": "OpenAI News",
+        "id": "b28e613f42e6d56c649fe568cfbf61decfe346dc",
+        "title": "Upcoming deprecation of selected GitHub Copilot models in mid-October",
+        "url": "https://github.blog/changelog/2026-09-18-upcoming-deprecation-of-selected-github-copilot-models-in-mid-october",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_542917fbb2d2",
-      "title": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
-      "url": "https://www.aibase.com/news/31084",
-      "primary_url": "https://www.aibase.com/news/31084",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a869f9481e2abff33f385fb90b928b478e4b8372",
-          "title": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
-          "url": "https://www.aibase.com/news/31084",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T07:38:02.167333Z"
-        },
-        {
-          "id": "a38beacfda4104792e735c3fd8a3626bce7dab9c",
-          "title": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
-          "url": "https://www.aibase.com/zh/news/31084",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a869f9481e2abff33f385fb90b928b478e4b8372",
-          "title": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
-          "url": "https://www.aibase.com/news/31084",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-16T07:38:02.167333Z"
-        },
-        {
-          "id": "a38beacfda4104792e735c3fd8a3626bce7dab9c",
-          "title": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
-          "url": "https://www.aibase.com/zh/news/31084",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-16T07:38:02.167333Z",
-      "latest_at": "2026-09-16T07:38:02.167333Z",
-      "primary_item": {
-        "id": "a869f9481e2abff33f385fb90b928b478e4b8372",
-        "title": "对抗 AI 伪造图片：iPhone 18 Pro/Max 引入像素级标注，按下快门即硬件签名",
-        "url": "https://www.aibase.com/news/31084",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e4b50f354b69",
-      "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "story_id": "story_539c5a96bbf4",
+      "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "source": "The Verge：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
+          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
           "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-14T22:59:41Z"
+          "published_at": "2026-09-17T19:28:24Z"
         },
         {
-          "id": "ac5788581a9a86162e7b737cce9532e2e66fd833",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "id": "f755d18b40c6d4ed53e4dcfc1805c61c6980a091",
+          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
           "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-14T22:59:41Z"
+          "published_at": "2026-09-17T19:28:24Z"
         }
       ],
       "source_count": 2,
@@ -985,598 +1548,50 @@
       ],
       "items": [
         {
-          "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
+          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
           "source": "The Verge：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-14T22:59:41Z"
+          "published_at": "2026-09-17T19:28:24Z"
         },
         {
-          "id": "ac5788581a9a86162e7b737cce9532e2e66fd833",
-          "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔 / Is Big Tech’s AI slowdown a safety pact or a cartel?",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "id": "f755d18b40c6d4ed53e4dcfc1805c61c6980a091",
+          "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对 / The AI Superintelligence Slowdown",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
           "source": "The Verge",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-14T22:59:41Z"
+          "published_at": "2026-09-17T19:28:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
-      "importance_label": "行业动态",
+      "score": 0.706,
+      "importance": 0.706,
+      "importance_score": 0.706,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.83,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6242,
+        "recency": 0.419,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-14T22:59:41Z",
-      "latest_at": "2026-09-14T22:59:41Z",
+      "earliest_at": "2026-09-17T19:28:24Z",
+      "latest_at": "2026-09-17T19:28:24Z",
       "primary_item": {
-        "id": "c131b6c7d6ce6ec0832bbeba34188b9ac619b54e",
-        "title": "科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "id": "75904b2fddfb99197aaad0a486f575bb90f423bd",
+        "title": "The Verge 汇总 AI 超级智能放缓争论：Amodei 倡议放缓，Altman、Musk 附议，Meta 反对",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
         "source": "The Verge：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_df8f3eb027ba",
-      "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-      "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-      "primary_url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T09:04:36Z"
-        },
-        {
-          "id": "73d86ed9c313e04442fff39f6d2ba15f03cd12c0",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T09:04:36Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T09:04:36Z"
-        },
-        {
-          "id": "73d86ed9c313e04442fff39f6d2ba15f03cd12c0",
-          "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机 / Not everyone is convinced that Big AI's proposed slowdown is really about safety",
-          "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-09-15T09:04:36Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.722,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T09:04:36Z",
-      "latest_at": "2026-09-15T09:04:36Z",
-      "primary_item": {
-        "id": "c4fa90d0eabe5c4be02463c403caac6a07f3631f",
-        "title": "Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机",
-        "url": "https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_557dcb769a02",
-      "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-      "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-      "primary_url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-      "source": "Pragmatic Engineer（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb2dfd35f811088f61cab4cc13781e1d9d916f4c",
-          "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-          "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-          "source": "Pragmatic Engineer（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T15:41:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Pragmatic Engineer（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bb2dfd35f811088f61cab4cc13781e1d9d916f4c",
-          "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-          "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-          "source": "Pragmatic Engineer（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T15:41:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7943,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T15:41:25Z",
-      "latest_at": "2026-09-15T15:41:25Z",
-      "primary_item": {
-        "id": "bb2dfd35f811088f61cab4cc13781e1d9d916f4c",
-        "title": "Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂",
-        "url": "https://newsletter.pragmaticengineer.com/p/openai-software-factory",
-        "source": "Pragmatic Engineer（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_10a67c97a758",
-      "title": "SHA-1 in HTTPS on GitHub sunset",
-      "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "primary_url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "SHA-1 in HTTPS on GitHub sunset",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-          "title": "SHA-1 in HTTPS on GitHub sunset",
-          "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:47:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.807,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:47:20Z",
-      "latest_at": "2026-09-15T16:47:20Z",
-      "primary_item": {
-        "id": "5f781247a2d2318ef4e6e1618905819ca4e61043",
-        "title": "SHA-1 in HTTPS on GitHub sunset",
-        "url": "https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2db68954a435",
-      "title": "Building AI to accelerate science and improve lives",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-          "title": "Building AI to accelerate science and improve lives",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-          "title": "Building AI to accelerate science and improve lives",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-15T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8076,
-      "importance": 0.8076,
-      "importance_score": 0.8076,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7979,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-15T16:00:00Z",
-      "latest_at": "2026-09-15T16:00:00Z",
-      "primary_item": {
-        "id": "194233bcfcbcf571f6d454a1f5626a1ab2e4f175",
-        "title": "Building AI to accelerate science and improve lives",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b934de795cb2",
-      "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
-      "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-      "primary_url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-      "source": "Trail of Bits：AI安全研究",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
-          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "Trail of Bits：AI安全研究",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T11:00:00Z"
-        },
-        {
-          "id": "205b55d784d5e0271cc12061c61f41aa4d6bb087",
-          "title": "1Password 的 AI 补丁基准测试具有误导性",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "blog.trailofbits.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T20:55:56.636000Z"
-        },
-        {
-          "id": "87de22ebe7a47c97bb20d5f7113d12bf8601abc5",
-          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-15T20:03:12Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "Trail of Bits：AI安全研究",
-        "blog.trailofbits.com"
-      ],
-      "items": [
-        {
-          "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
-          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "Trail of Bits：AI安全研究",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T11:00:00Z"
-        },
-        {
-          "id": "205b55d784d5e0271cc12061c61f41aa4d6bb087",
-          "title": "1Password 的 AI 补丁基准测试具有误导性",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "blog.trailofbits.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-15T20:55:56.636000Z"
-        },
-        {
-          "id": "87de22ebe7a47c97bb20d5f7113d12bf8601abc5",
-          "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能 / 1Password's AI patching benchmark is misleading",
-          "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-15T20:03:12Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7352,
-      "importance": 0.7352,
-      "importance_score": 0.7352,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7423,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T11:00:00Z",
-      "latest_at": "2026-09-15T20:55:56.636000Z",
-      "primary_item": {
-        "id": "c2eca0fc661e7a16f7621f8b68754054535ce914",
-        "title": "Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能",
-        "url": "https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading",
-        "source": "Trail of Bits：AI安全研究",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_28a1d8edd2b6",
-      "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-      "url": "https://www.ithome.com/1/002/750.htm",
-      "primary_url": "https://www.ithome.com/1/002/750.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
-          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-          "url": "https://www.ithome.com/1/002/750.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T11:48:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
-          "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-          "url": "https://www.ithome.com/1/002/750.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T11:48:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.751,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T11:48:13Z",
-      "latest_at": "2026-09-15T11:48:13Z",
-      "primary_item": {
-        "id": "b3624dd22f5980553430ff5659a1f82487a46b32",
-        "title": "404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型",
-        "url": "https://www.ithome.com/1/002/750.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b25ec880834a",
-      "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-      "url": "https://x.com/arena/status/2099971741993050236",
-      "primary_url": "https://x.com/arena/status/2099971741993050236",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-          "url": "https://x.com/arena/status/2099971741993050236",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T21:20:53Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Arena (@arena)"
-      ],
-      "items": [
-        {
-          "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-          "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-          "url": "https://x.com/arena/status/2099971741993050236",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-15T21:20:53Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7308,
-      "importance": 0.7308,
-      "importance_score": 0.7308,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.862,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-15T21:20:53Z",
-      "latest_at": "2026-09-15T21:20:53Z",
-      "primary_item": {
-        "id": "cdacdea8981dc2f68d230ebade00762b5ac59ed4",
-        "title": "Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶",
-        "url": "https://x.com/arena/status/2099971741993050236",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_12e9dd685180",
-      "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "primary_url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
-          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
-          "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
-          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-14T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.4478,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T00:00:00Z",
-      "latest_at": "2026-09-14T00:00:00Z",
-      "primary_item": {
-        "id": "54b29e5d6f4765b0653d6e5e22c91217d622018b",
-        "title": "Perplexity 信任 GPT-6 Astra 的端到端系统 / Perplexity trusts GPT-6 Astra with end-to-end systems",
-        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     }
   ]
