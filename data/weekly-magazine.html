@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AI 雷达周报 · 2026年9月24日</title>
+<title>AI 雷达周报 · 2026年9月16日</title>
 <link rel="preconnect" href="https://fonts.googleapis.com/">
 <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Albert+Sans:wght@300;400;500;600;700;800;900&family=Noto+Serif+SC:wght@400;500;700;900&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
@@ -56,6 +56,7 @@
   .card-title{font-weight:700;font-size:22px;line-height:1.4;margin-bottom:10px;letter-spacing:.02em}
   .card-title a{text-decoration:none;border-bottom:1px solid var(--ink)}
   .card-title .en{display:block;font-weight:400;font-size:14px;color:var(--faint);margin-top:4px;letter-spacing:.01em}
+  .card-summary{font-size:15px;line-height:1.9;color:#333;margin:2px 0 12px;max-width:78ch}
   .src-list{margin-bottom:10px}
   .src-list .src{display:inline-block;font-size:12px;color:var(--soft);background:#f5f5f5;padding:3px 8px;margin-right:6px;margin-bottom:4px;border-radius:2px;letter-spacing:.02em}
   .card-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:11px;color:var(--faint);letter-spacing:.02em}
@@ -63,6 +64,15 @@
   .card-meta .src-count{color:var(--ink);font-weight:500}
   .card-meta .ai-rel{color:var(--accent)}
   .card-meta .reasons{color:var(--soft)}
+
+  .briefing{display:grid;grid-template-columns:150px 1fr;gap:36px;align-items:start;padding:44px 0 44px;border-bottom:1px solid var(--line)}
+  .briefing-label{font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--ink);border-top:1px solid var(--ink);padding-top:10px;font-weight:600}
+  .briefing-body>p{font-size:17px;line-height:1.95;max-width:72ch;color:var(--ink)}
+  .briefing-body h3{font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--soft);margin:28px 0 12px}
+  .briefing-body ol{padding-left:22px}
+  .briefing-body li{font-size:15px;line-height:1.85;margin-bottom:10px;color:#333;max-width:82ch}
+  .briefing-body li em{display:block;font-style:normal;color:var(--soft);font-size:14px;margin-top:2px}
+  .briefing-body .conclusion{margin-top:26px;padding-top:16px;border-top:1px solid var(--line);font-size:16px}
 
   .colophon{padding:48px 0 72px;text-align:center}
   .colophon p{font-size:13px;line-height:1.95;color:var(--soft);max-width:52ch;margin:0 auto}
@@ -81,24 +91,28 @@
 
   <div class="topbar">
     <div class="left mono"><b>AI 雷达周报</b><span class="dot"></span>AI Radar Weekly</div>
-    <div class="right mono">本周刊 · 2026年9月24日 周四</div>
+    <div class="right mono">本周刊 · 2026年9月16日 周三</div>
   </div>
 
   <header class="masthead">
     <div class="kicker">AI 雷达周报 · AI Radar Weekly</div>
     <h1 class="wordmark">AI 雷达周报<span class="en">AI Radar Weekly</span></h1>
-    <div class="tagline">每周一期，追踪真正值得看的 AI 更新。伯乐 Skill 从 26 个信息源里精选 20 条故事，按官方更新、多源热议、行业动态分类，附信号强度、AI 相关度与来源层级。</div>
+    <div class="tagline">每周一期，只看真正值得关注的 AI 更新。</div>
     <div class="mast-meta mono">
-      <div class="left">26 个信息源</div>
-      <div class="center"><span class="big">2026年9月24日</span></div>
+      <div class="left">28 个信息源</div>
+      <div class="center"><span class="big">2026年9月16日</span></div>
       <div class="right">20 条精选故事</div>
     </div>
   </header>
 
-  <!-- 导读 -->
-  <div class="note" style="display:grid;grid-template-columns:150px 1fr;gap:36px;align-items:start;padding:44px 0 14px">
-    <div style="font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--ink);border-top:1px solid var(--ink);padding-top:10px;font-weight:600">本期导读<br>Editor's Note</div>
-    <p style="font-size:17px;line-height:1.95;max-width:66ch;color:var(--ink)">本期由 ai-news-radar 管线自动抓取、去重、故事合并、AI 相关性打分后精选生成。20 条故事来自 26 个信息源，按重要性排序，覆盖官方更新、多源热议和行业动态。每条故事都附带信号强度评分、AI 相关度、来源层级与原帖链接，帮你从噪音里选出千里马。</p>
+
+  <div class="briefing">
+    <div class="briefing-label">本期导读<br>Editor's Note</div>
+    <div class="briefing-body">
+      <p>本周主线集中在基础模型与能力更新、Agent 与自动化、开发工具与 API。</p>
+      <h3>本周重点</h3><ol><li><a href="https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking" target="_blank" rel="noopener">Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking / Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</a></li><li><a href="https://developers.openai.com/codex/changelog" target="_blank" rel="noopener">GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14</a></li><li><a href="https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language" target="_blank" rel="noopener">Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言 / AI for everyone in every language</a></li></ol>
+      <h3>我的推荐</h3><ol><li><a href="https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&amp;mid=2247489246&amp;idx=2&amp;sn=b23b39da69f6c75594eccac11854111f" target="_blank" rel="noopener">生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频</a><em>多个来源同时报道，适合作为本周判断热度的锚点。</em></li></ol>
+    </div>
   </div>
 
 
@@ -112,18 +126,19 @@
         </div>
       </div>
       <div class="story-grid">
-        
+
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.18 08:00</span>
-            <span class="card-score mono">信号强度 90</span>
+            <span class="card-time mono">9.16 01:05</span>
+            <span class="card-score mono">信号强度 92</span>
           </div>
-          <h3 class="card-title"><a href="https://developers.openai.com/codex/changelog" target="_blank" rel="noopener">Codex CLI 0.156.1</a></h3>
-          <div class="src-list"><span class="src">OpenAI Codex Changelog</span></div>
+          <h3 class="card-title"><a href="https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking" target="_blank" rel="noopener">Google DeepMind 发布 Gemini 3.8 Live 和 3.8 Live Extended Thinking</a><span class="en">Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</span></h3>
+          <p class="card-summary">Google DeepMind 发布 Gemini 3.8 Live 与 Gemini 3.8 Live Extended Thinking 两个近实时语音对话模型，主打语音智能体和复杂任务执行。</p>
+          <div class="src-list"><span class="src">Google DeepMind</span><span class="src">Google DeepMind：Blog（RSS）</span><span class="src">Hacker News (黑客新闻)</span><span class="src">blog.google</span></div>
           <div class="card-meta mono">
             <span class="src-count">5 源报道</span>
             <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 98%</span>
+            <span class="ai-rel">AI 相关 91%</span>
             <span class="pipe">/</span>
             <span class="heat">热度 100%</span>
             <span class="pipe">/</span><span class="reasons">official_source · multi_source · high_ai_relevance</span>
@@ -131,15 +146,33 @@
         </article>
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.23 23:25</span>
+            <span class="card-time mono">9.10 08:00</span>
             <span class="card-score mono">信号强度 84</span>
           </div>
-          <h3 class="card-title"><a href="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech" target="_blank" rel="noopener">Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型</a><span class="en">Gemini 3.8 text-to-speech says hello</span></h3>
-          <div class="src-list"><span class="src">Google DeepMind</span><span class="src">Google DeepMind：Blog（RSS）</span></div>
+          <h3 class="card-title"><a href="https://developers.openai.com/codex/changelog" target="_blank" rel="noopener">GPT-5.5 retires from ChatGPT, ChatGPT Work, and Codex on October 14</a></h3>
+
+          <div class="src-list"><span class="src">OpenAI Codex Changelog</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">4 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 75%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · multi_source · high_ai_relevance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">9.16 00:00</span>
+            <span class="card-score mono">信号强度 83</span>
+          </div>
+          <h3 class="card-title"><a href="https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language" target="_blank" rel="noopener">Google 发布 TranslateGemma 等多语言 AI 成果，语言技术覆盖 300 多种语言</a><span class="en">AI for everyone in every language</span></h3>
+          <p class="card-summary">Google 宣布其语言技术已支持超过 300 种语言、覆盖全球 86% 人口，并发布 TranslateGemma 轻量开源翻译模型（基于 Gemini 训练、支持 55 种语言、可离线运行）。</p>
+          <div class="src-list"><span class="src">Google AI Blog</span><span class="src">Google Blog：AI（RSS）</span></div>
           <div class="card-meta mono">
             <span class="src-count">2 源报道</span>
             <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 91%</span>
+            <span class="ai-rel">AI 相关 87%</span>
             <span class="pipe">/</span>
             <span class="heat">热度 25%</span>
             <span class="pipe">/</span><span class="reasons">official_source · multi_source · high_ai_relevance</span>
@@ -147,15 +180,16 @@
         </article>
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.24 02:41</span>
-            <span class="card-score mono">信号强度 84</span>
+            <span class="card-time mono">9.16 00:00</span>
+            <span class="card-score mono">信号强度 82</span>
           </div>
-          <h3 class="card-title"><a href="https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp" target="_blank" rel="noopener">How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</a></h3>
+          <h3 class="card-title"><a href="https://huggingface.co/blog/ibm-research/altk-evolve-consistency" target="_blank" rel="noopener">Your Agent Aced the Task. Will It Do It Again?</a></h3>
+
           <div class="src-list"><span class="src">Hugging Face Blog</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
             <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 100%</span>
+            <span class="ai-rel">AI 相关 95%</span>
             <span class="pipe">/</span>
             <span class="heat">热度 0%</span>
             <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
@@ -163,26 +197,11 @@
         </article>
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.23 21:00</span>
-            <span class="card-score mono">信号强度 83</span>
+            <span class="card-time mono">9.16 03:07</span>
+            <span class="card-score mono">信号强度 82</span>
           </div>
-          <h3 class="card-title"><a href="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense" target="_blank" rel="noopener">OpenAI 向乌克兰政府开放 Daybreak 网络防御计划</a><span class="en">OpenAI extends cyber access to Ukraine for civilian defense</span></h3>
-          <div class="src-list"><span class="src">OpenAI News</span><span class="src">OpenAI：官网动态（RSS · 排除企业/客户案例）</span></div>
-          <div class="card-meta mono">
-            <span class="src-count">2 源报道</span>
-            <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 91%</span>
-            <span class="pipe">/</span>
-            <span class="heat">热度 25%</span>
-            <span class="pipe">/</span><span class="reasons">official_source · multi_source · high_ai_relevance</span>
-          </div>
-        </article>
-        <article class="story-card">
-          <div class="card-head">
-            <span class="card-time mono">9.24 05:25</span>
-            <span class="card-score mono">信号强度 83</span>
-          </div>
-          <h3 class="card-title"><a href="https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews" target="_blank" rel="noopener">More ways to request and configure Copilot code reviews</a></h3>
+          <h3 class="card-title"><a href="https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions" target="_blank" rel="noopener">GitHub Copilot suggests custom properties definitions</a></h3>
+
           <div class="src-list"><span class="src">GitHub Changelog</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -195,15 +214,16 @@
         </article>
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.24 02:29</span>
-            <span class="card-score mono">信号强度 82</span>
+            <span class="card-time mono">9.16 03:31</span>
+            <span class="card-score mono">信号强度 81</span>
           </div>
-          <h3 class="card-title"><a href="https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app" target="_blank" rel="noopener">Rendering huge pull requests in the GitHub Copilot app</a></h3>
-          <div class="src-list"><span class="src">GitHub AI &amp; ML</span></div>
+          <h3 class="card-title"><a href="https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations" target="_blank" rel="noopener">Enforce GitHub Advanced Security configurations</a></h3>
+
+          <div class="src-list"><span class="src">GitHub Changelog</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
             <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 91%</span>
+            <span class="ai-rel">AI 相关 87%</span>
             <span class="pipe">/</span>
             <span class="heat">热度 0%</span>
             <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
@@ -211,10 +231,11 @@
         </article>
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.24 02:00</span>
+            <span class="card-time mono">9.16 00:00</span>
             <span class="card-score mono">信号强度 81</span>
           </div>
-          <h3 class="card-title"><a href="https://blog.google/innovation-and-ai/technology/research/google-beam-expansion" target="_blank" rel="noopener">Google Beam expands with new regions, partners, and customers</a></h3>
+          <h3 class="card-title"><a href="https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact" target="_blank" rel="noopener">AI for Societal Impact</a></h3>
+
           <div class="src-list"><span class="src">Google AI Blog</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -227,31 +248,16 @@
         </article>
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.23 18:00</span>
-            <span class="card-score mono">信号强度 83</span>
+            <span class="card-time mono">9.14 20:00</span>
+            <span class="card-score mono">信号强度 77</span>
           </div>
-          <h3 class="card-title"><a href="https://openai.com/index/introducing-mentalhealthbench" target="_blank" rel="noopener">OpenAI 联合 80 多位心理健康专家发布开放基准 MentalHealthBench</a><span class="en">Introducing MentalHealthBench</span></h3>
-          <div class="src-list"><span class="src">OpenAI News</span><span class="src">OpenAI：官网动态（RSS · 排除企业/客户案例）</span></div>
-          <div class="card-meta mono">
-            <span class="src-count">2 源报道</span>
-            <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 91%</span>
-            <span class="pipe">/</span>
-            <span class="heat">热度 25%</span>
-            <span class="pipe">/</span><span class="reasons">official_source · multi_source · high_ai_relevance</span>
-          </div>
-        </article>
-        <article class="story-card">
-          <div class="card-head">
-            <span class="card-time mono">9.23 23:00</span>
-            <span class="card-score mono">信号强度 82</span>
-          </div>
-          <h3 class="card-title"><a href="https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app" target="_blank" rel="noopener">Local sandboxing in the GitHub Copilot app</a></h3>
-          <div class="src-list"><span class="src">GitHub Changelog</span></div>
+          <h3 class="card-title"><a href="https://openai.com/index/fyxer" target="_blank" rel="noopener">How Fyxer built an AI executive assistant people trust</a></h3>
+
+          <div class="src-list"><span class="src">OpenAI News</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
             <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 94%</span>
+            <span class="ai-rel">AI 相关 91%</span>
             <span class="pipe">/</span>
             <span class="heat">热度 0%</span>
             <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
@@ -259,11 +265,12 @@
         </article>
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.24 00:00</span>
+            <span class="card-time mono">9.16 00:47</span>
             <span class="card-score mono">信号强度 81</span>
           </div>
-          <h3 class="card-title"><a href="https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory" target="_blank" rel="noopener">Advancing Private AI Compute with secure, server-side memory</a></h3>
-          <div class="src-list"><span class="src">Google DeepMind</span></div>
+          <h3 class="card-title"><a href="https://github.blog/changelog/2026-09-15-sha-1-in-https-on-github-sunset" target="_blank" rel="noopener">SHA-1 in HTTPS on GitHub sunset</a></h3>
+
+          <div class="src-list"><span class="src">GitHub Changelog</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
             <span class="pipe">/</span>
@@ -275,18 +282,36 @@
         </article>
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.22 08:00</span>
-            <span class="card-score mono">信号强度 79</span>
+            <span class="card-time mono">9.16 00:00</span>
+            <span class="card-score mono">信号强度 81</span>
           </div>
-          <h3 class="card-title"><a href="https://huggingface.co/blog/transformers-llama-cpp-quants" target="_blank" rel="noopener">transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp</a><span class="en">Transformers now runs llama.cpp quants</span></h3>
-          <div class="src-list"><span class="src">Hugging Face Blog</span><span class="src">Hugging Face：Blog（RSS）</span></div>
+          <h3 class="card-title"><a href="https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people" target="_blank" rel="noopener">Building AI to accelerate science and improve lives</a></h3>
+
+          <div class="src-list"><span class="src">Google AI Blog</span></div>
           <div class="card-meta mono">
-            <span class="src-count">2 源报道</span>
+            <span class="src-count">1 源报道</span>
             <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 99%</span>
+            <span class="ai-rel">AI 相关 87%</span>
             <span class="pipe">/</span>
-            <span class="heat">热度 25%</span>
-            <span class="pipe">/</span><span class="reasons">official_source · multi_source · high_ai_relevance</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">9.14 08:00</span>
+            <span class="card-score mono">信号强度 76</span>
+          </div>
+          <h3 class="card-title"><a href="https://openai.com/index/perplexity-improving-accuracy-with-astra" target="_blank" rel="noopener">Perplexity trusts GPT-6 Astra with end-to-end systems</a></h3>
+
+          <div class="src-list"><span class="src">OpenAI News</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 95%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">official_source · high_ai_relevance · high_importance</span>
           </div>
         </article>
       </div>
@@ -302,53 +327,39 @@
         </div>
       </div>
       <div class="story-grid">
-        
+
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.24 05:01</span>
-            <span class="card-score mono">信号强度 86</span>
+            <span class="card-time mono">9.10 08:08</span>
+            <span class="card-score mono">信号强度 81</span>
           </div>
-          <h3 class="card-title"><a href="https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html" target="_blank" rel="noopener">阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</a></h3>
-          <div class="src-list"><span class="src">Hacker News (黑客新闻)</span><span class="src">Hacker News 热门（buzzing.cc 中文翻译）</span><span class="src">hackernews</span><span class="src">www.smh.com.au</span></div>
+          <h3 class="card-title"><a href="https://mp.weixin.qq.com/s?__biz=MzkzMDQ5NTQwMQ%3D%3D&amp;mid=2247489246&amp;idx=2&amp;sn=b23b39da69f6c75594eccac11854111f" target="_blank" rel="noopener">生数科技发布 Vidu S2：含 Avatar 与 Editing 双模型，探索空间视频</a></h3>
+          <p class="card-summary">生数科技正式发布 Vidu S2，包含面向数字角色实时交互的 Vidu S2-Avatar 和面向视频流实时编辑的 Vidu S2-Editing，并探索面向 VR 头显的实时空间视频生成与编辑。</p>
+          <div class="src-list"><span class="src">公众号：卡尔的AI沃茨</span><span class="src">公众号：小红书技术（dots.llm）</span><span class="src">公众号：数字生命卡兹克</span><span class="src">公众号：生数科技（Vidu·视频）</span></div>
           <div class="card-meta mono">
-            <span class="src-count">4 源报道</span>
-            <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 100%</span>
-            <span class="pipe">/</span>
-            <span class="heat">热度 75%</span>
-            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance · high_importance</span>
-          </div>
-        </article>
-        <article class="story-card">
-          <div class="card-head">
-            <span class="card-time mono">9.24 02:06</span>
-            <span class="card-score mono">信号强度 83</span>
-          </div>
-          <h3 class="card-title"><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" target="_blank" rel="noopener">Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART</a></h3>
-          <div class="src-list"><span class="src">Anthropic：Newsroom（网页）</span><span class="src">Hacker News (黑客新闻)</span><span class="src">hackernews</span><span class="src">www.anthropic.com</span></div>
-          <div class="card-meta mono">
-            <span class="src-count">4 源报道</span>
-            <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 100%</span>
-            <span class="pipe">/</span>
-            <span class="heat">热度 75%</span>
-            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance · high_importance</span>
-          </div>
-        </article>
-        <article class="story-card">
-          <div class="card-head">
-            <span class="card-time mono">9.18 08:08</span>
-            <span class="card-score mono">信号强度 77</span>
-          </div>
-          <h3 class="card-title"><a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686569&amp;idx=1&amp;sn=f716d3dd70259240800a67b9fabd53fd" target="_blank" rel="noopener">卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案</a></h3>
-          <div class="src-list"><span class="src">公众号：小米 MiMo</span><span class="src">公众号：数字生命卡兹克</span><span class="src">公众号：月之暗面（Kimi）</span><span class="src">公众号：阶跃星辰（Step）</span></div>
-          <div class="card-meta mono">
-            <span class="src-count">6 源报道</span>
+            <span class="src-count">5 源报道</span>
             <span class="pipe">/</span>
             <span class="ai-rel">AI 相关 100%</span>
             <span class="pipe">/</span>
             <span class="heat">热度 100%</span>
             <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">9.15 19:00</span>
+            <span class="card-score mono">信号强度 73</span>
+          </div>
+          <h3 class="card-title"><a href="https://blog.trailofbits.com/2026/09/15/1passwords-ai-patching-benchmark-is-misleading" target="_blank" rel="noopener">Trail of Bits 批评 1Password 的 AI 补丁基准存在误导，并发布两个补丁验证 Agent 技能</a></h3>
+          <p class="card-summary">Trail of Bits 发文批评 1Password 8月6日发布的 FLAWED 报告，称其 26% 的 AI 干净修复率受四项实验设计选择影响而失真，包括刻意指示智能体应用错误修复的提示词占 22% 数据、36% 的试验禁止编译测试，以及不同推理档位设置。</p>
+          <div class="src-list"><span class="src">Lobsters (技术社区)</span><span class="src">Trail of Bits：AI安全研究</span><span class="src">blog.trailofbits.com</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">3 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 50%</span>
+            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance</span>
           </div>
         </article>
       </div>
@@ -364,13 +375,14 @@
         </div>
       </div>
       <div class="story-grid">
-        
+
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.24 15:33</span>
+            <span class="card-time mono">9.16 16:25</span>
             <span class="card-score mono">信号强度 79</span>
           </div>
-          <h3 class="card-title"><a href="https://www.aibase.com/news/31337" target="_blank" rel="noopener">DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec</a></h3>
+          <h3 class="card-title"><a href="https://www.aibase.com/news/31091" target="_blank" rel="noopener">vivo 正式发布智能体大模型矩阵，并重磅预研 30B MoE 端侧大模型</a></h3>
+
           <div class="src-list"><span class="src">AIbase</span><span class="src">Readhub · AI</span></div>
           <div class="card-meta mono">
             <span class="src-count">2 源报道</span>
@@ -383,11 +395,46 @@
         </article>
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.24 10:46</span>
-            <span class="card-score mono">信号强度 78</span>
+            <span class="card-time mono">9.15 06:59</span>
+            <span class="card-score mono">信号强度 76</span>
           </div>
-          <h3 class="card-title"><a href="https://x.com/arena/status/2102952767614779403" target="_blank" rel="noopener">Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分</a></h3>
-          <div class="src-list"><span class="src">X：Arena (@arena)</span></div>
+          <h3 class="card-title"><a href="https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel" target="_blank" rel="noopener">科技巨头放缓 AI 开发的口头协议是安全共识还是卡特尔</a></h3>
+          <p class="card-summary">Sam Altman、Dario Amodei、Demis Hassabis 和 Elon Musk 周末粗略同意放慢 AI 开发，提出引入第三方审计、监管国内实验室并达成全球放缓协议，批评者则称其为压制竞争者和开源运动的&quot;卡特尔&quot;。</p>
+          <div class="src-list"><span class="src">The Verge</span><span class="src">The Verge：AI（RSS）</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">2 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 25%</span>
+            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">9.15 17:04</span>
+            <span class="card-score mono">信号强度 76</span>
+          </div>
+          <h3 class="card-title"><a href="https://the-decoder.com/not-everyone-is-convinced-that-big-ais-proposed-development-slowdown-is-really-about-safety" target="_blank" rel="noopener">Anthropic 与 OpenAI 提议协调放缓前沿 AI 开发，Cohere CEO 等批评者质疑其真实动机</a></h3>
+          <p class="card-summary">Anthropic CEO Dario Amodei 呼吁行业与政府协调放缓前沿 AI 开发，并寻求反垄断豁免，Sam Altman 与 Elon Musk 表示同意。</p>
+          <div class="src-list"><span class="src">The Decoder AI News</span><span class="src">The Decoder：AI News（RSS）</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">2 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 25%</span>
+            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">9.15 23:41</span>
+            <span class="card-score mono">信号强度 75</span>
+          </div>
+          <h3 class="card-title"><a href="https://newsletter.pragmaticengineer.com/p/openai-software-factory" target="_blank" rel="noopener">Gergely Orosz 探访 OpenAI：Codex 驱动的智能体软件工厂</a></h3>
+          <p class="card-summary">Gergely Orosz 实地探访 OpenAI 总部并访谈七位工程师与工程负责人，发现自约一月起 Codex 和 ChatGPT Work 已成为公司几乎所有工作的基础。</p>
+          <div class="src-list"><span class="src">Pragmatic Engineer（RSS）</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
             <span class="pipe">/</span>
@@ -399,10 +446,28 @@
         </article>
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.24 09:12</span>
+            <span class="card-time mono">9.16 16:25</span>
             <span class="card-score mono">信号强度 77</span>
           </div>
-          <h3 class="card-title"><a href="https://www.ithome.com/1/006/548.htm" target="_blank" rel="noopener">OpenAI 称与苹果的 ChatGPT 合作表现远低于预期</a></h3>
+          <h3 class="card-title"><a href="https://www.aibase.com/news/31092" target="_blank" rel="noopener">Claude 发布重大升级：43 项全能工作流与 27 个巨头应用深度打通</a></h3>
+
+          <div class="src-list"><span class="src">AIbase</span></div>
+          <div class="card-meta mono">
+            <span class="src-count">1 源报道</span>
+            <span class="pipe">/</span>
+            <span class="ai-rel">AI 相关 100%</span>
+            <span class="pipe">/</span>
+            <span class="heat">热度 0%</span>
+            <span class="pipe">/</span><span class="reasons">high_ai_relevance · high_importance</span>
+          </div>
+        </article>
+        <article class="story-card">
+          <div class="card-head">
+            <span class="card-time mono">9.15 19:48</span>
+            <span class="card-score mono">信号强度 73</span>
+          </div>
+          <h3 class="card-title"><a href="https://www.ithome.com/1/002/750.htm" target="_blank" rel="noopener">404 Media 曝光 OpenAI 莉莉计划：人工审核 ChatGPT 聊天记录以优化模型</a></h3>
+          <p class="card-summary">404 Media 披露 OpenAI 内部代号为莉莉计划（Project Lily）的项目，由时薪超 50 美元的提示词审核员查看匿名化后的真实用户聊天记录，评判回复是否切题、是否存在 AI 式话术和谄媚口吻。</p>
           <div class="src-list"><span class="src">IT之家（RSS）</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -410,55 +475,24 @@
             <span class="ai-rel">AI 相关 100%</span>
             <span class="pipe">/</span>
             <span class="heat">热度 0%</span>
-            <span class="pipe">/</span><span class="reasons">high_ai_relevance · high_importance</span>
+            <span class="pipe">/</span><span class="reasons">high_ai_relevance</span>
           </div>
         </article>
         <article class="story-card">
           <div class="card-head">
-            <span class="card-time mono">9.24 02:46</span>
-            <span class="card-score mono">信号强度 76</span>
+            <span class="card-time mono">9.16 05:20</span>
+            <span class="card-score mono">信号强度 73</span>
           </div>
-          <h3 class="card-title"><a href="https://x.com/rohanpaul_ai/status/2102832068157984990" target="_blank" rel="noopener">Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统</a></h3>
-          <div class="src-list"><span class="src">X：Rohan Paul (@rohanpaul_ai)</span></div>
+          <h3 class="card-title"><a href="https://x.com/arena/status/2099971741993050236" target="_blank" rel="noopener">Arena 更新 Image-to-WebDev 榜单：GPT-6 Astra 以 1733 分登顶</a></h3>
+          <p class="card-summary">Arena 更新 Image-to-WebDev 排行榜，纳入四个新评测模型。GPT-6 Astra （Max） 以 1733 分居第一，领先 GPT-5.6 Sol （xHigh） 129 分；Claude Fable 5.1 （Max） 以 1710 分排第二，Muse Spark 1.3 （Max） 1645 分第四，GLM-5.3-Flash 1588 分第十。</p>
+          <div class="src-list"><span class="src">X：Arena (@arena)</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
             <span class="pipe">/</span>
             <span class="ai-rel">AI 相关 100%</span>
             <span class="pipe">/</span>
             <span class="heat">热度 0%</span>
-            <span class="pipe">/</span><span class="reasons">high_ai_relevance · high_importance</span>
-          </div>
-        </article>
-        <article class="story-card">
-          <div class="card-head">
-            <span class="card-time mono">9.24 08:00</span>
-            <span class="card-score mono">信号强度 76</span>
-          </div>
-          <h3 class="card-title"><a href="https://openrouter.ai/blog/insights/kimi-k3-open-source" target="_blank" rel="noopener">OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用</a></h3>
-          <div class="src-list"><span class="src">OpenRouter：Announcements（RSS）</span></div>
-          <div class="card-meta mono">
-            <span class="src-count">1 源报道</span>
-            <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 100%</span>
-            <span class="pipe">/</span>
-            <span class="heat">热度 0%</span>
-            <span class="pipe">/</span><span class="reasons">high_ai_relevance · high_importance</span>
-          </div>
-        </article>
-        <article class="story-card">
-          <div class="card-head">
-            <span class="card-time mono">9.24 15:33</span>
-            <span class="card-score mono">信号强度 79</span>
-          </div>
-          <h3 class="card-title"><a href="https://www.aibase.com/news/31346" target="_blank" rel="noopener">Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能</a></h3>
-          <div class="src-list"><span class="src">AIbase</span><span class="src">Readhub · AI</span></div>
-          <div class="card-meta mono">
-            <span class="src-count">2 源报道</span>
-            <span class="pipe">/</span>
-            <span class="ai-rel">AI 相关 100%</span>
-            <span class="pipe">/</span>
-            <span class="heat">热度 25%</span>
-            <span class="pipe">/</span><span class="reasons">multi_source · high_ai_relevance · high_importance</span>
+            <span class="pipe">/</span><span class="reasons">high_ai_relevance</span>
           </div>
         </article>
       </div>
@@ -466,7 +500,7 @@
 
   <footer class="colophon">
     <p>本期内容由 <a href="https://github.com/LearnPrompt/ai-news-radar" target="_blank" rel="noopener">ai-news-radar</a> 管线自动抓取、合并、打分、翻译、精选生成。伯乐 Skill 从一堆信源里选出千里马。所有故事均附原帖跳转链接。</p>
-    <div class="fine mono">AI 雷达周报 · 2026年9月24日 · AI Radar Weekly</div>
+    <div class="fine mono">AI 雷达周报 · 2026年9月16日 · AI Radar Weekly</div>
   </footer>
 
 </div>

@@ -1,198 +1,208 @@
 {
-  "generated_at": "2026-09-24T07:33:07.835772Z",
+  "generated_at": "2026-09-16T08:25:11.426221Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
-  "latest_date": "2026-09-22",
-  "count_today": 5,
+  "latest_date": "2026-09-15",
+  "count_today": 7,
   "updates_today": [
     {
-      "date": "2026-09-22",
-      "title": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
+      "date": "2026-09-15",
+      "title": "第七期 AI 硬件训练营行程已然过半，不少零基础学员借助 AI，把开发板落地成各类硬件作品。有人打造互动桌宠、一键生成公众号素材的创作工作台，还有人做出简易钢琴、找猫小装置。你不需要深厚的代码功底，也能动手把脑海里的创意变成实体硬件，错过的小伙伴儿快来补课！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-22",
-      "title": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
+      "date": "2026-09-15",
+      "title": "模型是怎么记住我前面说的话的？它是怎么上网、读文件、改代码的？为什么聊着聊着感觉 AI 变蠢了？我发出一条指令，AI 底层都干了什么？MCP、Skill、上下文、Token 这些词到底是什么？一篇文章想把这些讲透极具挑战。这篇文章内容较多，但耐心读下去，一定能有所收获。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-22",
-      "title": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
+      "date": "2026-09-15",
+      "title": "作者用三个任务实测，讲清了部署、资源复用和启动等待的问题，也提醒我们：账单更低，可能只是完成的请求更少。做定制模型服务的开发者，可以对照这些实验，看看自己的部署究竟贵在哪里。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-22",
-      "title": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
+      "date": "2026-09-15",
+      "title": "作者整理了 20 种动效，从文字逐字出现、滚动时画面分层移动，到按钮随鼠标轻微靠近，都附有适用场景和可复制的提示词。正在用 AI 做官网、作品集或活动页的，可以按想要的效果查词，把“凭感觉修改”变成清楚的要求。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-22",
-      "title": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
+      "date": "2026-09-15",
+      "title": "iPhone Duo 的官方演示里，有一段很短的开合动作，很容易让人停下来。这段动画最值得学的地方，是它帮用户保住了上下文。顺着这个细节再往下看，会发现我们经常说的“苹果风”，只是最后被看见的那一层。在颜色、材质和动效之前，还有一套更基础、也更难偷懒的工作。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "Suno 迎来史诗级更新，全面下架 v2 至 v5.5 旧模型，推出 v6、v6-wild、v6-mini 三款全新模型，轻量版向所有用户免费开放。创作端新增 AI 聊天式 Simple 模式，支持图片、哼唱等多模态输入，搭配三大可调参数，实现局部改曲、素材融合等精细创作。平台同步落地下载额度、商用权限与 C2PA 音频溯源新规，只有官方扣额度下载的音频才具备商用资质，音乐创作者务必吃透这套新能力与合规边界。",
+      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
+    },
+    {
+      "date": "2026-09-15",
+      "title": "AI 生成的歌越来越好听，但能不能精细修改、怎样发行、收益如何分配，同样关系到创作者能否真正用起来。这期《AI 音乐周刊》把技术与产业变化放在一起：Suno v6 等模型升级、ElevenMusic 拆分人声与乐器的新功能，以及音乐分发合作、创作者扶持和版权分成争议。还有5篇研究，涵盖 MV 生成、实时伴奏与可控作曲。一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],
   "count_7d": 32,
   "updates_7d": [
     {
-      "date": "2026-09-22",
-      "title": "模型一夜三连发，那我们到底该怎么选、该把钱花在哪个模型上。这篇文章把 Claude Opus 5.5、GPT-6 Sol 和 GPT-6 Luna 放在一起拆解了下，大家可以直接看这篇来看看适合你的是哪个！",
+      "date": "2026-09-15",
+      "title": "第七期 AI 硬件训练营行程已然过半，不少零基础学员借助 AI，把开发板落地成各类硬件作品。有人打造互动桌宠、一键生成公众号素材的创作工作台，还有人做出简易钢琴、找猫小装置。你不需要深厚的代码功底，也能动手把脑海里的创意变成实体硬件，错过的小伙伴儿快来补课！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-22",
-      "title": "微信聊天里其实藏着很多高价值信息：客户需求、群聊共识、文章链接、项目讨论，但大多数时候都散在记录里，想交给 AI 处理还得手动复制粘贴。苍何开源了一个 WeChatBridge（微信流），它像一个微信和 AI 工具之间的“转发桥”：可以把聊天记录一键送到 Codex、Claude、WorkBuddy、豆包、千问办公等 Agent，也能沉淀到 Obsidian 里变成个人知识库，还能结合 Skill 解析公众号、视频号、PDF 等内容。",
+      "date": "2026-09-15",
+      "title": "模型是怎么记住我前面说的话的？它是怎么上网、读文件、改代码的？为什么聊着聊着感觉 AI 变蠢了？我发出一条指令，AI 底层都干了什么？MCP、Skill、上下文、Token 这些词到底是什么？一篇文章想把这些讲透极具挑战。这篇文章内容较多，但耐心读下去，一定能有所收获。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-22",
-      "title": "很多 Agent 现在最大的问题，是把所有事情都塞给一个大模型：理解、规划、选工具、判风险、生成回复，结果提示词越来越长，成本和延迟也越来越难控。而最近爆火的JEV模型则是用 Choice、Score、Noul 这三类结构化判断，给程序返回选项、分数、概率和置信度。或许这会成为一个模型训练的新范式。",
+      "date": "2026-09-15",
+      "title": "作者用三个任务实测，讲清了部署、资源复用和启动等待的问题，也提醒我们：账单更低，可能只是完成的请求更少。做定制模型服务的开发者，可以对照这些实验，看看自己的部署究竟贵在哪里。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-22",
-      "title": "卡尔把 463 个 AI 视频案例重新复现、评分、分类，整理成开源项目 awesome-seedance，还沉淀出可直接改写的提示语模板和 AI 视频 Skills。快来试试！",
+      "date": "2026-09-15",
+      "title": "作者整理了 20 种动效，从文字逐字出现、滚动时画面分层移动，到按钮随鼠标轻微靠近，都附有适用场景和可复制的提示词。正在用 AI 做官网、作品集或活动页的，可以按想要的效果查词，把“凭感觉修改”变成清楚的要求。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-22",
-      "title": "TypeSafe推出的Jev模型跳出传统大模型的文本生成路线，主打输出带置信度的结构化决策。这篇文章梳理了他们CEO演讲的核心思考，一起来看看Jev背后的野心！",
+      "date": "2026-09-15",
+      "title": "iPhone Duo 的官方演示里，有一段很短的开合动作，很容易让人停下来。这段动画最值得学的地方，是它帮用户保住了上下文。顺着这个细节再往下看，会发现我们经常说的“苹果风”，只是最后被看见的那一层。在颜色、材质和动效之前，还有一套更基础、也更难偷懒的工作。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-21",
-      "title": "邮箱里堆着 1700 封邮件，哪些要回复、哪些可以放着，光分清楚就得花不少时间。Ryan Vogel 在节目里，把自己的邮件交给 Jev 分类打分，展示的总费用只有 18 美分。来看看他是怎么实现的！",
+      "date": "2026-09-15",
+      "title": "Suno 迎来史诗级更新，全面下架 v2 至 v5.5 旧模型，推出 v6、v6-wild、v6-mini 三款全新模型，轻量版向所有用户免费开放。创作端新增 AI 聊天式 Simple 模式，支持图片、哼唱等多模态输入，搭配三大可调参数，实现局部改曲、素材融合等精细创作。平台同步落地下载额度、商用权限与 C2PA 音频溯源新规，只有官方扣额度下载的音频才具备商用资质，音乐创作者务必吃透这套新能力与合规边界。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-21",
-      "title": "这份合集整理了Jev模型15个落地案例，覆盖9项实用项目与6个游戏模拟实验，可以帮你快速看懂Jev专注做动作选择、概率打分的核心定位。从网页自动化、智能家居、SQL数据分类，到泰拉瑞亚、星际争霸等游戏策略决策，案例附带源码、演示视频与边界提示。",
+      "date": "2026-09-15",
+      "title": "AI 生成的歌越来越好听，但能不能精细修改、怎样发行、收益如何分配，同样关系到创作者能否真正用起来。这期《AI 音乐周刊》把技术与产业变化放在一起：Suno v6 等模型升级、ElevenMusic 拆分人声与乐器的新功能，以及音乐分发合作、创作者扶持和版权分成争议。还有5篇研究，涵盖 MV 生成、实时伴奏与可控作曲。一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-21",
-      "title": "现在的 Agent 的产品越来越多，有些主打 Coding，有些事做日常办公，也有些用于情感陪伴虽然这些产品的用途不同，背后的工作原理其实都大同小异，便是 Harness 对上下文的自动化编排。大聪明这篇文章则是以原理的角度，给大家讲一下 Agent 工具是如何使用进行上下文编排，让模型一步步把事情做完，然后输出结果的。",
+      "date": "2026-09-14",
+      "title": "Vibe coding 做动效，最容易卡在表达上。你脑中能看到效果，却叫不出它的名字；只会说“丝滑一点”“高级一点”“像苹果官网那样”，AI 只能根据自己的理解发挥。读完作者这篇文章以后，你会知道鼠标悬停、滚动、点击和状态变化该怎样描述，也会分清淡入（Fade）、滑入（Slide）、交错出现（Stagger）、模糊显现（Blur reveal）和按行显现（Line reveal）。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-21",
-      "title": "本周AI音乐资讯合集覆盖商业变局、版权纠纷、产品更新与前沿论文。Beatoven 关停 C 端转型 B2B，唱片公司接连发起巨额版权诉讼，纯全自动 AI 音乐市场占比持续走低。多款音频工具上线，支持乐谱级编曲、混音扒谱等专业能力，还有 5 篇前沿论文，覆盖对话式音乐编辑、音频幻觉等方向。",
+      "date": "2026-09-14",
+      "title": "Grok Bot工程师分享了自己关于Grok Bot的常用玩法。正在尝试多 Agent 协作的开发者和技术负责人，可以参考这套流程上手试试，或许可以节省很多时间！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-21",
-      "title": "技术小白入门 AI，只需要一张路线图，不用花钱买课，不会被割韭菜：先看懂 AI 在做什么，再知道它为什么会出错，接着学会给材料、设边界、接工具和检查结果。遇到反复要做的事，再把它沉淀成 Skill。走完这条路，你就有了继续学习各种 AI 工具的能力。",
+      "date": "2026-09-14",
+      "title": "Agent 被关闭或意外中断以后，如何恢复之前的工作？一起来检查下自己的会话恢复设计是否漏了一些关键环节！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-21",
-      "title": "做 Agent、浏览器自动化、工单分流、工具调度的人，可以借这篇快速搞懂：哪些判断值得交给 Jev，哪些任务仍该留给通用大模型。",
+      "date": "2026-09-14",
+      "title": "AI 让做产品更容易了，创业的难题也随之转向：客户从哪里来，代码人人能写，生意又靠什么留住人？Stripe CEO 与 Replit 创始人从溜冰场软件、教师工具和乡村瑜伽项目聊起，指出了普通人的机会：熟悉行业里的具体麻烦，服务被大公司忽略的小需求。产品可以快速做出来，客户关系、使用体验和持续经营仍要自己积累。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-21",
-      "title": "你可能最近看到了，Jev（一个通用的 System One 模型）在 Twitter 上引起了轰动。网上充斥着许多误导性的例子，但这些并不能真正展示 Jev 的实际能力。那么它到底是什么，又能在生产环境中用在哪些地方呢？",
+      "date": "2026-09-13",
+      "title": "这篇文章是作者关于 Harness Coding 的现场分享文稿，拆解了 AI 编码落地的四大核心难题，并给出了完整的工程闭环方案。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-21",
-      "title": "上手GPT-6 Astra踩坑不断？蓝衣剑客这篇文章从真实使用痛点出发，拆解了适配这款模型的全套提示词方案。文中附带可直接复制的指令，既能消除AI腔、写出自然文本，也能管控编码时的测试粒度，避免小改动触发全量测试。帮你最大化发挥模型性能。",
+      "date": "2026-09-13",
+      "title": "这份系统设计入门指南专为零基础开发者打造，清晰区分了高层 HLD 架构与底层 LLD 代码设计两大模块。覆盖负载均衡、缓存、数据库选型、CAP 定理等核心概念，搭配 SOLID 原则、常用设计模式与 UML 类图，附带完整练习框架。可以帮你循序渐进地建立完整系统设计思维。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-20",
-      "title": "这篇访谈把 Discord 产品负责人 Peter Sellis 的产品观讲得很实在：PM的价值在于接住创始人原本要亲自做的判断，讲清楚产品战略如何影响功能取舍，把决策权交清楚，同时敢于为了核心用户体验砍掉好点子。做产品、创业或带团队的，可以拿它检查下：你的产品计划是在堆功能，还是在让用户更频繁地完成真正重要的事。",
+      "date": "2026-09-13",
+      "title": "这份指南给出了Grok Bot的五种独立用法：整理商品上架资料、制作六张知识图卡、筛选工具做简报、制作教学工具并录成配音视频、把收藏转成选题素材。每个案例都附有提示词和成品展示，也讲清了要提供哪些材料、拿到什么文件。运营和内容创作者们可以挑一个手头任务，跟着试一试。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-20",
-      "title": "这篇文章带你复现Jev风格的LLM决策能力，不用训练，借助SGLang的打分接口，就能在本地开源模型上实现选项概率输出。它区分了打分机制与结构化输出的本质差异，给出完整可跑Python代码，还做了基准对比。",
+      "date": "2026-09-13",
+      "title": "作者整理了《关于豆包工作的 100 个问题》，主要聚焦一些用户的真实疑问：豆包工作和 Kimi 会员哪个划算？额度消耗能不能查账单？面对千问办公、WorkBuddy 竞品，豆包工作表现如何。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-20",
-      "title": "许多工作，都需要先理解信息，再做出选择。CY这篇文章就和大家聊聊，Jev是怎么来做判断这个事的。",
+      "date": "2026-09-13",
+      "title": "KV 缓存让模型保留了一部分已经完成的计算。 但它为什么保留 K 和 V？同样参与 attention 的 Q，为什么通常可以用完就放下？这篇就来讨论这个问题，帮你理解 KV缓存。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-20",
-      "title": "本周精选的10篇论文，覆盖了几个很值得关注的方向：字节级模型重新挑战分词器，Agent Harness 开始自动优化成本，LLM Judge 评估暴露偏差，Bash 工具接口反而赢过复杂类型化工具，还有企业模型训练、安全攻击、多智能体选型和实时评测方法。做 Agent、模型应用和 AI 基础设施的，可以快速扫到本周最值得深挖的研究线索。",
+      "date": "2026-09-13",
+      "title": "DeepSeek V1 到 V4.1-Flash，单 token 的 global KV 如何从 389,000 B 压缩到 890 B的？这篇文章对于 Agent 的使用者、本地模型部署者、模型开发者都有一定帮助。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-20",
-      "title": "宝玉用 GPT 6 Astra 做了 3D 版《桃花源记》，把原文拆成 20 幕，从坐船入桃林到进村做客、辞别离开，都做成可交互网页体验。更值得看的是完整流程：用提示词约束文学理解、空间连通和叙事镜头，再用真人朗诵＋SRT 做时间同步，最后交给 Codex 拆资源、换环境音、压缩文件。你也可以直接复用这套思路，把文本变成能“循文入境”的作品。",
+      "date": "2026-09-13",
+      "title": "Agent 做长任务容易跑偏，读长文漏掉关键证据，多开几个助手又越来越费钱——本周精选的10篇 AI 论文，集中回应了这些实际难题。用程序图帮助 Agent 安排步骤，利用文档目录提高检索准确率，通过并行阅读和精简协作方式提升效率；还有只改设计文档、让 AI 重新生成代码的尝试，以及智能体群体作弊的案例。在做Agent、知识库或 AI 产品的，可以从自己遇到的问题切入，找找下一步值得尝试的方法。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-20",
-      "title": "你有没有去网上找所谓的“万能提示词”？把角色、背景、步骤、格式、禁词一层层加进去。提示词从两句话长到上千字，可能确实提高了任务效率，但细节上还是不尽人意。作者这篇最新提示词工程教程或许会对你有所帮助！",
+      "date": "2026-09-13",
+      "title": "AI 能快速生成网页，但常常会忽略信息层级，导致用户难以抓取重点、找不到操作路径。作者基于自身的前端实践，整理出了一套页面信息组织指南，还配套开源了覆盖 19 种页面形态的Demo。这份指南还可以直接交给 AI，用来评审、迭代前端页面，帮你产出逻辑清晰、贴合业务的后台界面。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-20",
-      "title": "《100 个问题》系列丛书更新—《关于评估工程的 100 个问题》，聚焦 AI 评测领域。作者以问答的形式拆解了模型评估的核心难题，从评估系统搭建、指标选型，到基准测试的生命周期，直面 AI 产品落地里评估环节的各类关键疑问。",
+      "date": "2026-09-12",
+      "title": "还在为上传 GitHub 项目该选什么开源协议发愁？这篇文章拆解了MIT、Apache、GPL 等主流许可证的规则，以及开源、免费、源码可见三者的区别。不管是开发小工具、制作Skill，都能快速匹配合适的协议，守住知识产权边界。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-19",
-      "title": "这篇把 Trading Agent 拆成一条量化流水线：扫描层找异常，推理层生成假设和回测脚本，证伪层用多重检验、滑点手续费、point-in-time 数据筛掉假策略，执行层只允许确定性代码和模拟盘。文中还梳理了统计套利、期权波动率、因子残差、内部人交易四类方向。想用 AI 做交易系统、策略研究或风控自动化的，建议先看看这套“先证伪，再自动化”的工程思路。",
+      "date": "2026-09-12",
+      "title": "最近 OpenAI 和 Anthropic 相继把上下文窗口干到了1M，但上下文窗口是不是越大越好？作者这篇文章就从底层原理出发，以 Claude Code 为例，彻底揭开大模型的上下文管理的神秘面纱。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-19",
-      "title": "我们一直把大语言模型（LLM）当作解决所有 AI 问题的万能锤子，即便是简单的决策也是如此。Jev 能在毫秒级处理这些决策，成本仅为传统方法的一小部分。让我们来理解它的工作原理及其适用场景。",
+      "date": "2026-09-12",
+      "title": "大家给 Agent 配规则，核心都在防止它把任务跑偏。可GPT-6 Astra的问题恰好翻转了——它更容易因为边界不够清楚而提前停下，旧配置里的“刹车”反而成了完成任务的障碍。作者从 AGENTS.md 入手，详解了关于GPT-6 Astra，哪些规则该删、怎样把模糊限制改成明确的完成标准和审批边界，再配合验证机制，少打断Agent。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-19",
-      "title": "想把陌生领域的方法论做成 Skill，最难的常常不是写规则，而是不知道该从哪本靠谱的知识源开始。卡尔分享了一个很实用的 QBS 方法：先把问题说清楚，让 GPT-6 找到能解决问题的书，阅读相关章节，再把方法提炼成可执行 Skill，并用新场景试跑验证。可以上手试试！",
+      "date": "2026-09-12",
+      "title": "关于GPT-6 Astra，OpenAI 发布了来自其社区的一些开发者案例合集，一起来看看！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-19",
-      "title": "如果你还把 AI 创业理解成“做个 Agent 应用”，可能就有点落后了。作者梳理了 YC 2026 夏季批次 236 家公司：AI 相关仍占 91%，但应用层比例下降，算力、芯片、数据中心、训练环境、推理成本、机器人和工业方向明显升温。更有意思的是，一批 AI-native firm 不再只卖软件，而是亲自完成会计、保险、医疗、物流等工作并按结果收费。来一起看看下一个机会到底在应用包装，还是在更难被复制的基础设施和真实业务里。",
+      "date": "2026-09-12",
+      "title": "作者结合 OpenAI 的最新指南，拆解了“少写提示词”的具体做法：删掉无用的 Skill，让描述只保留精确触发条件，主文件做路由、按需加载细节；任务里少规定每一步，多写清完成标准、可自主操作和必须询问的边界。作者还给了一段提示词，能让 Astra 盘点机器级和项目级配置。一起上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-19",
-      "title": "Jev 最近刷屏，作者整理了 10 个实测玩法，从跑酷、马里奥、杀戮尖塔，到浏览器查航班、广告批量分类、写作传播潜力分析、清理 Agent 工作记录，核心逻辑都很一致：把当前状态交给 Jev，让它快速选下一步，再交给程序执行。或许能帮你判断哪些环节值得用 Jev 做“快速决策层”。",
+      "date": "2026-09-12",
+      "title": "AI 让软件开发发生了根本性变化，但在充满炒作和噪音的环境中，开发者很难判断哪些技能真正值得投入学习，团队同样难以判断该招聘什么样的人。吴恩达这套技能地图很适合想补齐 AI 工程能力的开发者，也适合带团队的人做学习和招聘参考。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-19",
-      "title": "Jev 发布不到一周，网上已经满是“快 200 倍”“永不出错”“LLM 要被取代”。作者这篇文章只做三件事：说清 Jev 是什么、不是什么；把真正跑通的案例按用途分类；把水分讲明白。想追 Jev 热点前，建议先读这份清醒清单。",
+      "date": "2026-09-11",
+      "title": "黄叔这篇 Grok Bot 蓝皮书带你上手这套自带云端电脑的 AI 协作系统。你只需要下达目标，搭建的 AI 员工便能自主分工、交接任务，24 小时在云端持续运行。文中还有大量实操案例，如果你不懂代码，也能跟着一起搭建自动化工作流，把自己从繁杂事务中解放出来。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-18",
-      "title": "给邮件分类、判断工单该交给谁，这些小任务也反复调用大模型，成本和等待都会累积。TypeSafe 的 Jev 模型专门处理这类判断：根据预设选项返回分类、评分和概率，再由程序决定下一步。文章附有接入代码，还讲清了如何一次提出多个问题、用真实样本验证效果，以及在模型没把握时转交人工。快来上手试试！",
+      "date": "2026-09-11",
+      "title": "你是不是也还在为方案架构图反复调整方框、连线而耗费大量时间？作者用Codex搭配Draw.io MCP的工作流，能自动生成可编辑的图表，就算是多层、数十个模块的复杂大图也能搞定。文中还附带了完整配置教程、多种实战案例与绘图编辑技巧，做PPT、项目方案的大家可以直接上手实操。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-18",
-      "title": "洛小山结合 Alice 的实践，提出了“关系型生产力 Agent”：用实际交付提供每天打开的理由，在长期协作中记住习惯、理解没写进提示词的需求，让任务完成得更贴合用户。文章也给出了具体的检验方法：换模型后风格是否稳定、旧习惯能否准确调用、没有任务时用户是否愿意打开。做 AI 产品和运营的，可以对照这些标准，看看自己积累的是短期吸引力，还是持续协作的信任。",
+      "date": "2026-09-10",
+      "title": "苹果发布了首款折叠屏 iPhone，也更新了耳机和手表。借着这场发布会，我们一起来探索下：做 AI 硬件，我们能向苹果偷师什么？从功能放在哪台设备上，到用户怎么检查 AI 的结果，这些具体设计里，有不少值得拆开看的产品思路。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-18",
-      "title": "很多人给 Agent 加记忆，一上来就想到向量数据库，结果反而没弄清楚：到底该记什么、什么时候取、怎么塞回上下文。这篇文章从零带你手搓一个本地记忆系统，不用 LangChain/LangGraph，只用 Python、Ollama、SQLite、嵌入模型和 LLM。读完你会更清楚“记住”背后到底发生了什么。",
+      "date": "2026-09-10",
+      "title": "小互这份文章拆解了 GPT Image 2.5 全套官方实操指南，附带 API 参数规范、8大提示词心法与 22 个实战案例。而且还提供了可直接参考的工程级提示词模板与落地工具包。快来上手试试！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-18",
-      "title": "很多人看 MoE 模型，会被“总参数很大、激活参数很小”绕晕：以为计算少了，部署就轻了，真上线才发现显存、KV 缓存、GPU 通信和专家负载不均都在拖速度。想搞定 MoE 大模型推理部署，这篇干货值得细读。",
+      "date": "2026-09-10",
+      "title": "作者把散落在Grok Bot官方企业版博客、指南库、开发文档里的案例全拼到了一起，包含招聘、销售、市场、财务、再加设计，共同整理成今天这篇文章——「非工程师到底怎么用好 Grok Bot」",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-18",
-      "title": "很多 Agent 跑起来慢、成本高，问题常出在每个小判断都让大模型重新想一遍：工单急不急、该用哪个模型、工具调用有没有风险，都要走完整 LLM 调用。这篇用最近爆火的模型 Jev 讲了一种更轻的拆法，适合做 Agent、客服工单和自动化流程的人看。",
+      "date": "2026-09-10",
+      "title": "Grok Bot 产品负责人复盘了几人团队如何在一个月做出内部原型，以及如何靠两百多位真实用户的陪跑、界面删减和底层改进，把它推向公开发布的。产品人快来一起学习下！",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     },
     {
-      "date": "2026-09-18",
-      "title": "今天被一个叫 Jev 的新模型刷屏了。很多人一看到这个名字，脑子里立刻冒出一堆问号：这又是哪个大厂出的新模型？怎么到处都在聊？作者也好好研究了一下，这篇文章给大家详细讲解一下。",
+      "date": "2026-09-10",
+      "title": "DeepSeek开源V4.1 Flash，采用创新非对称的MoE架构，550B总参数，输入仅激活 8B、输出激活 16B，Agent相关基准测试变现都有大幅跃升。配套DeepSeek Harness也进行了同步迭代，补上了文件读写、子 Agent 对话、任务协作和缓存保留等实用能力。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview"
     }
   ],

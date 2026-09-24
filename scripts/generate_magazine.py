@@ -17,6 +17,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import re
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from html import escape
@@ -67,6 +68,209 @@ def importance_to_section_num(label: str) -> str:
     return mapping.get(label, "03")
 
 
+def clean_text(value: object) -> str:
+    return re.sub(r"\s+", " ", str(value or "")).strip()
+
+
+def story_summary(story: dict) -> str:
+    """Prefer a curated source summary; fall back cleanly to metadata."""
+    title = clean_text(story.get("title")).lower()
+    candidates = [
+        story.get("summary"),
+        (story.get("primary_item") or {}).get("summary"),
+        *[
+            source.get("summary")
+            for source in story.get("sources", [])
+            if isinstance(source, dict)
+        ],
+    ]
+    for candidate in candidates:
+        text = clean_text(candidate)
+        if text and text.lower() != title and not title.startswith(text.lower()):
+            return text
+    return ""
+
+
+def trim_text(text: str, max_chars: int = 190) -> str:
+    text = clean_text(text)
+    if len(text) <= max_chars:
+        return text
+    return text[: max_chars - 1].rstrip() + "…"
+
+
+def detect_weekly_themes(texts: list[str]) -> list[str]:
+    haystack = " ".join(texts).lower()
+    themes = [
+        ("基础模型与能力更新", ("模型", "model", "gpt", "gemini", "claude", "qwen", "kimi")),
+        ("Agent 与自动化", ("agent", "智能体", "自动化", "workflow", "工作流")),
+        ("开发工具与 API", ("api", "sdk", "cli", "developer", "开发工具", "copilot", "codex")),
+        ("开源生态", ("开源", "open source", "open-source", "权重", "hugging face")),
+        ("安全与评测", ("安全", "风险", "security", "评测", "sandbox", "权限")),
+        ("算力与基础设施", ("算力", "数据中心", "芯片", "infrastructure", "data center", "gpu")),
+        ("商业化与市场", ("融资", "投资", "营收", "收入", "商业化", "市场", "funding", "revenue")),
+        ("政策与版权", ("监管", "政策", "版权", "诉讼", "regulation", "copyright")),
+    ]
+    return [name for name, keywords in themes if any(keyword in haystack for keyword in keywords)]
+
+
+def human_reason(story: dict) -> str:
+    reasons = set(story.get("reasons", []))
+    summary = story_summary(story)
+    if any(word in summary.lower() for word in ("安全", "风险", "security", "sandbox", "权限")):
+        return "这条涉及安全和权限边界，建议检查自己的 Agent/API 使用方式。"
+    if "official_source" in reasons:
+        return "这是官方一手更新，适合先确认产品/API 是否受影响。"
+    if "multi_source" in reasons or int(story.get("source_count") or 1) >= 3:
+        return "多个来源同时报道，适合作为本周判断热度的锚点。"
+    if any(word in story.get("title", "").lower() for word in ("开源", "open source", "权重", "模型")):
+        return "开源或模型更新可以低成本试用，值得放进本周观察清单。"
+    if "high_ai_relevance" in reasons or "high_importance" in reasons:
+        return "信号强度高，建议点开原文确认与自己的工作是否相关。"
+    return "先观察后续落地，不必急着调整现有方案。"
+
+
+def story_display_detail(story: dict) -> str:
+    summary = story_summary(story)
+    if summary:
+        return trim_text(summary, 80)
+    source_names = [clean_text(name) for name in story.get("source_names", []) if clean_text(name)]
+    source_text = "、".join(source_names[:2]) if source_names else "已有来源"
+    score = float(story.get("importance_score") or story.get("score") or 0)
+    return f"{importance_to_label(story)}；来源：{source_text}；信号强度 {score*100:.0f}%。"
+
+
+def compact_title(story: dict) -> str:
+    title_zh, _ = split_title(story.get("title", ""))
+    return trim_text(title_zh, 52)
+
+
+def build_weekly_digest(items: list[dict], period: str = "weekly") -> dict:
+    period_word = "本周" if period == "weekly" else "本期"
+    ranked = sorted(
+        items,
+        key=lambda story: (
+            float(story.get("importance_score") or story.get("score") or 0),
+            int(story.get("source_count") or 1),
+        ),
+        reverse=True,
+    )
+    if not ranked:
+        return {"overview": "", "mainline": "", "key_points": [], "recommendations": []}
+
+    themes = detect_weekly_themes([f"{story.get('title', '')} {story_summary(story)}" for story in items])
+    theme_text = "、".join(themes[:3]) if themes else "官方产品更新和行业观察"
+
+    overview = f"{period_word}主线集中在{theme_text}。"
+    mainline = f"{period_word}主线：{theme_text}"
+
+    key_points = []
+    for story in ranked[:3]:
+        key_points.append(
+            {
+                "title": clean_text(story.get("title")),
+                "short_title": compact_title(story),
+                "url": story.get("url", ""),
+                "detail": story_display_detail(story),
+            }
+        )
+
+    recommendations = []
+    def story_key(story: dict) -> object:
+        return story.get("story_id") or story.get("url") or story.get("title")
+
+    used_ids = {story_key(story) for story in ranked[:3]}
+    preferred_labels = ["官方更新", "多源热议", "行业动态", "值得关注"]
+    for label in preferred_labels:
+        candidates = [story for story in ranked if importance_to_label(story) == label]
+        if candidates and story_key(candidates[0]) not in used_ids:
+            story = candidates[0]
+            recommendations.append(
+                {
+                    "title": clean_text(story.get("title")),
+                    "short_title": compact_title(story),
+                    "url": story.get("url", ""),
+                    "detail": story_display_detail(story),
+                    "why": human_reason(story),
+                }
+            )
+            used_ids.add(story_key(story))
+        if recommendations:
+            break
+    for story in ranked:
+        if len(recommendations) >= 1:
+            break
+        if story_key(story) in used_ids:
+            continue
+        recommendations.append(
+            {
+                    "title": clean_text(story.get("title")),
+                    "short_title": compact_title(story),
+                    "url": story.get("url", ""),
+                "detail": story_display_detail(story),
+                "why": human_reason(story),
+            }
+        )
+        used_ids.add(story_key(story))
+    if not recommendations:
+        story = ranked[0]
+        recommendations.append(
+            {
+                "title": clean_text(story.get("title")),
+                "short_title": compact_title(story),
+                "url": story.get("url", ""),
+                "detail": story_display_detail(story),
+                "why": human_reason(story),
+            }
+        )
+
+    return {
+        "overview": overview,
+        "mainline": mainline,
+        "key_points": key_points,
+        "recommendations": recommendations,
+    }
+
+
+def render_briefing(digest: dict, period: str = "weekly") -> str:
+    period_word = "本周" if period == "weekly" else "本期"
+    if not digest.get("overview"):
+        return ""
+
+    key_items = []
+    for point in digest.get("key_points", []):
+        title = clean_text(point.get("title"))
+        url = escape(point.get("url", ""))
+        key_items.append(
+            f'<li><a href="{url}" target="_blank" rel="noopener">{escape(title)}</a></li>'
+        )
+
+    recommendation_items = []
+    for item in digest.get("recommendations", []):
+        title = clean_text(item.get("title"))
+        url = escape(item.get("url", ""))
+        why = escape(clean_text(item.get("why")))
+        recommendation_items.append(
+            f'<li><a href="{url}" target="_blank" rel="noopener">{escape(title)}</a>'
+            f'<em>{why}</em></li>'
+        )
+
+    key_html = f'<h3>{period_word}重点</h3><ol>{"".join(key_items)}</ol>' if key_items else ""
+    recommendation_html = (
+        f'<h3>我的推荐</h3><ol>{"".join(recommendation_items)}</ol>'
+        if recommendation_items
+        else ""
+    )
+    return f"""
+  <div class="briefing">
+    <div class="briefing-label">本期导读<br>Editor's Note</div>
+    <div class="briefing-body">
+      <p>{escape(digest.get("overview", ""))}</p>
+      {key_html}
+      {recommendation_html}
+    </div>
+  </div>"""
+
+
 def generate_html(brief: dict, title: str, subtitle: str, period: str) -> str:
     """Render the full magazine HTML."""
     items = brief.get("items", [])
@@ -93,6 +297,7 @@ def generate_html(brief: dict, title: str, subtitle: str, period: str) -> str:
 
     total_sources = len(set(sn for s in items for sn in s.get("source_names", [])))
     total_stories = len(items)
+    digest = build_weekly_digest(items, period)
 
     # Build story cards HTML
     sections_html = []
@@ -114,6 +319,8 @@ def generate_html(brief: dict, title: str, subtitle: str, period: str) -> str:
             earliest = fmt_time_zh(s.get("earliest_at", ""))
             score = s.get("importance_score", 0)
             score_pct = f"{score*100:.0f}"
+            summary = story_summary(s)
+            summary_html = f'<p class="card-summary">{escape(trim_text(summary, 260))}</p>' if summary else ""
             breakdown = s.get("importance_breakdown", {})
             ai_rel = breakdown.get("ai_relevance", 0)
             story_heat = breakdown.get("story_heat", 0)
@@ -135,6 +342,7 @@ def generate_html(brief: dict, title: str, subtitle: str, period: str) -> str:
             <span class="card-score mono">信号强度 {score_pct}</span>
           </div>
           <h3 class="card-title"><a href="{url}" target="_blank" rel="noopener">{escape(title_zh)}</a>{en_html}</h3>
+          {summary_html}
           {source_list_html}
           <div class="card-meta mono">
             <span class="src-count">{source_count} 源报道</span>
@@ -169,7 +377,7 @@ def generate_html(brief: dict, title: str, subtitle: str, period: str) -> str:
 
     sections_str = "\n".join(sections_html)
 
-    return f"""<!DOCTYPE html>
+    html = f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
@@ -227,6 +435,7 @@ def generate_html(brief: dict, title: str, subtitle: str, period: str) -> str:
   .card-title{{font-weight:700;font-size:22px;line-height:1.4;margin-bottom:10px;letter-spacing:.02em}}
   .card-title a{{text-decoration:none;border-bottom:1px solid var(--ink)}}
   .card-title .en{{display:block;font-weight:400;font-size:14px;color:var(--faint);margin-top:4px;letter-spacing:.01em}}
+  .card-summary{{font-size:15px;line-height:1.9;color:#333;margin:2px 0 12px;max-width:78ch}}
   .src-list{{margin-bottom:10px}}
   .src-list .src{{display:inline-block;font-size:12px;color:var(--soft);background:#f5f5f5;padding:3px 8px;margin-right:6px;margin-bottom:4px;border-radius:2px;letter-spacing:.02em}}
   .card-meta{{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:11px;color:var(--faint);letter-spacing:.02em}}
@@ -234,6 +443,15 @@ def generate_html(brief: dict, title: str, subtitle: str, period: str) -> str:
   .card-meta .src-count{{color:var(--ink);font-weight:500}}
   .card-meta .ai-rel{{color:var(--accent)}}
   .card-meta .reasons{{color:var(--soft)}}
+
+  .briefing{{display:grid;grid-template-columns:150px 1fr;gap:36px;align-items:start;padding:44px 0 44px;border-bottom:1px solid var(--line)}}
+  .briefing-label{{font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--ink);border-top:1px solid var(--ink);padding-top:10px;font-weight:600}}
+  .briefing-body>p{{font-size:17px;line-height:1.95;max-width:72ch;color:var(--ink)}}
+  .briefing-body h3{{font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--soft);margin:28px 0 12px}}
+  .briefing-body ol{{padding-left:22px}}
+  .briefing-body li{{font-size:15px;line-height:1.85;margin-bottom:10px;color:#333;max-width:82ch}}
+  .briefing-body li em{{display:block;font-style:normal;color:var(--soft);font-size:14px;margin-top:2px}}
+  .briefing-body .conclusion{{margin-top:26px;padding-top:16px;border-top:1px solid var(--line);font-size:16px}}
 
   .colophon{{padding:48px 0 72px;text-align:center}}
   .colophon p{{font-size:13px;line-height:1.95;color:var(--soft);max-width:52ch;margin:0 auto}}
@@ -258,7 +476,7 @@ def generate_html(brief: dict, title: str, subtitle: str, period: str) -> str:
   <header class="masthead">
     <div class="kicker">{escape(title.upper())} · {escape(subtitle)}</div>
     <h1 class="wordmark">{escape(title)}<span class="en">{escape(subtitle)}</span></h1>
-    <div class="tagline">每周一期，追踪真正值得看的 AI 更新。伯乐 Skill 从 {total_sources} 个信息源里精选 {total_stories} 条故事，按官方更新、多源热议、行业动态分类，附信号强度、AI 相关度与来源层级。</div>
+    <div class="tagline">每周一期，只看真正值得关注的 AI 更新。</div>
     <div class="mast-meta mono">
       <div class="left">{total_sources} 个信息源</div>
       <div class="center"><span class="big">{date_str}</span></div>
@@ -266,11 +484,7 @@ def generate_html(brief: dict, title: str, subtitle: str, period: str) -> str:
     </div>
   </header>
 
-  <!-- 导读 -->
-  <div class="note" style="display:grid;grid-template-columns:150px 1fr;gap:36px;align-items:start;padding:44px 0 14px">
-    <div style="font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--ink);border-top:1px solid var(--ink);padding-top:10px;font-weight:600">本期导读<br>Editor's Note</div>
-    <p style="font-size:17px;line-height:1.95;max-width:66ch;color:var(--ink)">本期由 ai-news-radar 管线自动抓取、去重、故事合并、AI 相关性打分后精选生成。{total_stories} 条故事来自 {total_sources} 个信息源，按重要性排序，覆盖官方更新、多源热议和行业动态。每条故事都附带信号强度评分、AI 相关度、来源层级与原帖链接，帮你从噪音里选出千里马。</p>
-  </div>
+  {render_briefing(digest, period)}
 
 {sections_str}
 
@@ -282,6 +496,7 @@ def generate_html(brief: dict, title: str, subtitle: str, period: str) -> str:
 </div>
 </body>
 </html>"""
+    return re.sub(r"[ \t]+$", "", html, flags=re.MULTILINE)
 
 
 def main():

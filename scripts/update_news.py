@@ -4920,6 +4920,7 @@ def story_item_link(item: dict[str, Any]) -> dict[str, Any]:
         "source_name": item.get("site_name"),
         "site_id": item.get("site_id"),
         "published_at": item.get("published_at"),
+        "summary": item.get("summary"),
     }
 
 
@@ -4955,10 +4956,19 @@ def build_story_record(
     source_names = sorted({str(item.get("source") or item.get("site_name") or "") for item in sorted_items if item.get("source") or item.get("site_name")})
     title = primary.get("title_bilingual") or primary.get("title")
     url = primary.get("url")
+    story_summary = next(
+        (
+            str(item.get("summary") or "").strip()
+            for item in sorted_items
+            if str(item.get("summary") or "").strip()
+        ),
+        "",
+    )
     return {
         "story_id": story_id,
         "title": title,
         "url": url,
+        "summary": story_summary,
         "primary_url": url,
         "source": primary.get("source"),
         "source_name": primary.get("site_name"),
@@ -4981,6 +4991,7 @@ def build_story_record(
             "id": primary.get("id"),
             "title": title,
             "url": url,
+            "summary": story_summary,
             "source": primary.get("source"),
             "source_name": primary.get("site_name"),
         },

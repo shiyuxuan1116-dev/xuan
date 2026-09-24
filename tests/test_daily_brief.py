@@ -24,6 +24,7 @@ def make_item(
     title: str | None = None,
     hours_ago: int = 1,
     ai_score: float = 0.9,
+    summary: str | None = None,
 ) -> dict:
     item = {
         "id": f"item-{idx}",
@@ -36,6 +37,8 @@ def make_item(
         "ai_is_related": True,
         "ai_score": ai_score,
     }
+    if summary is not None:
+        item["summary"] = summary
     return add_source_tier_fields(item)
 
 
@@ -128,6 +131,25 @@ def test_daily_brief_record_supports_bole_output_contract():
     assert len(record["items"]) == 2
     assert len(record["sources"]) == 2
     assert record["primary_item"]["id"] == "item-1"
+
+
+def test_daily_brief_story_propagates_best_available_summary():
+    items = [
+        make_item(1, title="OpenAI releases Codex agent orchestration"),
+        make_item(
+            2,
+            site_id="aihot",
+            title="OpenAI releases Codex agent orchestration",
+            summary="OpenAI 发布了 Codex 的 agent 编排能力，用来说明任务如何被拆解和执行。",
+        ),
+    ]
+    stories, _events = merge_story_items(items, NOW, 24)
+    payload = build_daily_brief_payload(stories, generated_at="2026-06-02T12:00:00Z", window_hours=24)
+    record = payload["items"][0]
+
+    assert record["summary"] == "OpenAI 发布了 Codex 的 agent 编排能力，用来说明任务如何被拆解和执行。"
+    assert record["primary_item"]["summary"] == record["summary"]
+    assert all(source["summary"] in (None, record["summary"]) for source in record["sources"])
 
 
 def test_stories_and_merge_log_payload_shapes_are_explicit():
