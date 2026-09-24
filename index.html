@@ -56,6 +56,7 @@
   .card-title{font-weight:700;font-size:22px;line-height:1.4;margin-bottom:10px;letter-spacing:.02em}
   .card-title a{text-decoration:none;border-bottom:1px solid var(--ink)}
   .card-title .en{display:block;font-weight:400;font-size:14px;color:var(--faint);margin-top:4px;letter-spacing:.01em}
+  .card-summary{font-size:15px;line-height:1.9;color:#333;margin:2px 0 12px;max-width:78ch}
   .src-list{margin-bottom:10px}
   .src-list .src{display:inline-block;font-size:12px;color:var(--soft);background:#f5f5f5;padding:3px 8px;margin-right:6px;margin-bottom:4px;border-radius:2px;letter-spacing:.02em}
   .card-meta{display:flex;align-items:center;gap:10px;flex-wrap:wrap;font-size:11px;color:var(--faint);letter-spacing:.02em}
@@ -63,6 +64,15 @@
   .card-meta .src-count{color:var(--ink);font-weight:500}
   .card-meta .ai-rel{color:var(--accent)}
   .card-meta .reasons{color:var(--soft)}
+
+  .briefing{display:grid;grid-template-columns:150px 1fr;gap:36px;align-items:start;padding:44px 0 44px;border-bottom:1px solid var(--line)}
+  .briefing-label{font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--ink);border-top:1px solid var(--ink);padding-top:10px;font-weight:600}
+  .briefing-body>p{font-size:17px;line-height:1.95;max-width:72ch;color:var(--ink)}
+  .briefing-body h3{font-size:13px;letter-spacing:.16em;text-transform:uppercase;color:var(--soft);margin:28px 0 12px}
+  .briefing-body ol{padding-left:22px}
+  .briefing-body li{font-size:15px;line-height:1.85;margin-bottom:10px;color:#333;max-width:82ch}
+  .briefing-body li em{display:block;font-style:normal;color:var(--soft);font-size:14px;margin-top:2px}
+  .briefing-body .conclusion{margin-top:26px;padding-top:16px;border-top:1px solid var(--line);font-size:16px}
 
   .colophon{padding:48px 0 72px;text-align:center}
   .colophon p{font-size:13px;line-height:1.95;color:var(--soft);max-width:52ch;margin:0 auto}
@@ -87,7 +97,7 @@
   <header class="masthead">
     <div class="kicker">AI 雷达周报 · AI Radar Weekly</div>
     <h1 class="wordmark">AI 雷达周报<span class="en">AI Radar Weekly</span></h1>
-    <div class="tagline">每周一期，追踪真正值得看的 AI 更新。伯乐 Skill 从 26 个信息源里精选 20 条故事，按官方更新、多源热议、行业动态分类，附信号强度、AI 相关度与来源层级。</div>
+    <div class="tagline">每周一期，只看真正值得关注的 AI 更新。</div>
     <div class="mast-meta mono">
       <div class="left">26 个信息源</div>
       <div class="center"><span class="big">2026年9月24日</span></div>
@@ -95,10 +105,14 @@
     </div>
   </header>
 
-  <!-- 导读 -->
-  <div class="note" style="display:grid;grid-template-columns:150px 1fr;gap:36px;align-items:start;padding:44px 0 14px">
-    <div style="font-size:11px;letter-spacing:.26em;text-transform:uppercase;color:var(--ink);border-top:1px solid var(--ink);padding-top:10px;font-weight:600">本期导读<br>Editor's Note</div>
-    <p style="font-size:17px;line-height:1.95;max-width:66ch;color:var(--ink)">本期由 ai-news-radar 管线自动抓取、去重、故事合并、AI 相关性打分后精选生成。20 条故事来自 26 个信息源，按重要性排序，覆盖官方更新、多源热议和行业动态。每条故事都附带信号强度评分、AI 相关度、来源层级与原帖链接，帮你从噪音里选出千里马。</p>
+
+  <div class="briefing">
+    <div class="briefing-label">本期导读<br>Editor's Note</div>
+    <div class="briefing-body">
+      <p>本周主线集中在基础模型与能力更新、Agent 与自动化、开发工具与 API。</p>
+      <h3>本周重点</h3><ol><li><a href="https://developers.openai.com/codex/changelog" target="_blank" rel="noopener">Codex CLI 0.156.1</a></li><li><a href="https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html" target="_blank" rel="noopener">阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</a></li><li><a href="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech" target="_blank" rel="noopener">Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型 / Gemini 3.8 text-to-speech says hello</a></li></ol>
+      <h3>我的推荐</h3><ol><li><a href="https://www.aibase.com/news/31337" target="_blank" rel="noopener">DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec</a><em>多个来源同时报道，适合作为本周判断热度的锚点。</em></li></ol>
+    </div>
   </div>
 
 
@@ -112,13 +126,14 @@
         </div>
       </div>
       <div class="story-grid">
-        
+
         <article class="story-card">
           <div class="card-head">
             <span class="card-time mono">9.18 08:00</span>
             <span class="card-score mono">信号强度 90</span>
           </div>
           <h3 class="card-title"><a href="https://developers.openai.com/codex/changelog" target="_blank" rel="noopener">Codex CLI 0.156.1</a></h3>
+
           <div class="src-list"><span class="src">OpenAI Codex Changelog</span></div>
           <div class="card-meta mono">
             <span class="src-count">5 源报道</span>
@@ -135,6 +150,7 @@
             <span class="card-score mono">信号强度 84</span>
           </div>
           <h3 class="card-title"><a href="https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech" target="_blank" rel="noopener">Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型</a><span class="en">Gemini 3.8 text-to-speech says hello</span></h3>
+
           <div class="src-list"><span class="src">Google DeepMind</span><span class="src">Google DeepMind：Blog（RSS）</span></div>
           <div class="card-meta mono">
             <span class="src-count">2 源报道</span>
@@ -151,6 +167,7 @@
             <span class="card-score mono">信号强度 84</span>
           </div>
           <h3 class="card-title"><a href="https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp" target="_blank" rel="noopener">How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows</a></h3>
+
           <div class="src-list"><span class="src">Hugging Face Blog</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -167,6 +184,7 @@
             <span class="card-score mono">信号强度 83</span>
           </div>
           <h3 class="card-title"><a href="https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense" target="_blank" rel="noopener">OpenAI 向乌克兰政府开放 Daybreak 网络防御计划</a><span class="en">OpenAI extends cyber access to Ukraine for civilian defense</span></h3>
+
           <div class="src-list"><span class="src">OpenAI News</span><span class="src">OpenAI：官网动态（RSS · 排除企业/客户案例）</span></div>
           <div class="card-meta mono">
             <span class="src-count">2 源报道</span>
@@ -183,6 +201,7 @@
             <span class="card-score mono">信号强度 83</span>
           </div>
           <h3 class="card-title"><a href="https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews" target="_blank" rel="noopener">More ways to request and configure Copilot code reviews</a></h3>
+
           <div class="src-list"><span class="src">GitHub Changelog</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -199,6 +218,7 @@
             <span class="card-score mono">信号强度 82</span>
           </div>
           <h3 class="card-title"><a href="https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app" target="_blank" rel="noopener">Rendering huge pull requests in the GitHub Copilot app</a></h3>
+
           <div class="src-list"><span class="src">GitHub AI &amp; ML</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -215,6 +235,7 @@
             <span class="card-score mono">信号强度 81</span>
           </div>
           <h3 class="card-title"><a href="https://blog.google/innovation-and-ai/technology/research/google-beam-expansion" target="_blank" rel="noopener">Google Beam expands with new regions, partners, and customers</a></h3>
+
           <div class="src-list"><span class="src">Google AI Blog</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -231,6 +252,7 @@
             <span class="card-score mono">信号强度 83</span>
           </div>
           <h3 class="card-title"><a href="https://openai.com/index/introducing-mentalhealthbench" target="_blank" rel="noopener">OpenAI 联合 80 多位心理健康专家发布开放基准 MentalHealthBench</a><span class="en">Introducing MentalHealthBench</span></h3>
+
           <div class="src-list"><span class="src">OpenAI News</span><span class="src">OpenAI：官网动态（RSS · 排除企业/客户案例）</span></div>
           <div class="card-meta mono">
             <span class="src-count">2 源报道</span>
@@ -247,6 +269,7 @@
             <span class="card-score mono">信号强度 82</span>
           </div>
           <h3 class="card-title"><a href="https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app" target="_blank" rel="noopener">Local sandboxing in the GitHub Copilot app</a></h3>
+
           <div class="src-list"><span class="src">GitHub Changelog</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -263,6 +286,7 @@
             <span class="card-score mono">信号强度 81</span>
           </div>
           <h3 class="card-title"><a href="https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory" target="_blank" rel="noopener">Advancing Private AI Compute with secure, server-side memory</a></h3>
+
           <div class="src-list"><span class="src">Google DeepMind</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -279,6 +303,7 @@
             <span class="card-score mono">信号强度 79</span>
           </div>
           <h3 class="card-title"><a href="https://huggingface.co/blog/transformers-llama-cpp-quants" target="_blank" rel="noopener">transformers 支持直接加载 GGUF 量化模型，本地推理性能接近 llama.cpp</a><span class="en">Transformers now runs llama.cpp quants</span></h3>
+
           <div class="src-list"><span class="src">Hugging Face Blog</span><span class="src">Hugging Face：Blog（RSS）</span></div>
           <div class="card-meta mono">
             <span class="src-count">2 源报道</span>
@@ -302,13 +327,14 @@
         </div>
       </div>
       <div class="story-grid">
-        
+
         <article class="story-card">
           <div class="card-head">
             <span class="card-time mono">9.24 05:01</span>
             <span class="card-score mono">信号强度 86</span>
           </div>
           <h3 class="card-title"><a href="https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html" target="_blank" rel="noopener">阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统</a></h3>
+
           <div class="src-list"><span class="src">Hacker News (黑客新闻)</span><span class="src">Hacker News 热门（buzzing.cc 中文翻译）</span><span class="src">hackernews</span><span class="src">www.smh.com.au</span></div>
           <div class="card-meta mono">
             <span class="src-count">4 源报道</span>
@@ -325,6 +351,7 @@
             <span class="card-score mono">信号强度 83</span>
           </div>
           <h3 class="card-title"><a href="https://www.anthropic.com/news/claude-discovers-novel-enzyme-system" target="_blank" rel="noopener">Anthropic 宣布 Claude 自主发现类 CRISPR 的新型酶系统 ART</a></h3>
+
           <div class="src-list"><span class="src">Anthropic：Newsroom（网页）</span><span class="src">Hacker News (黑客新闻)</span><span class="src">hackernews</span><span class="src">www.anthropic.com</span></div>
           <div class="card-meta mono">
             <span class="src-count">4 源报道</span>
@@ -341,6 +368,7 @@
             <span class="card-score mono">信号强度 77</span>
           </div>
           <h3 class="card-title"><a href="https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647686569&amp;idx=1&amp;sn=f716d3dd70259240800a67b9fabd53fd" target="_blank" rel="noopener">卡兹克实测对比 Grok 4.7 与小米 MiMo V2.6：后者成不可能三角版本答案</a></h3>
+
           <div class="src-list"><span class="src">公众号：小米 MiMo</span><span class="src">公众号：数字生命卡兹克</span><span class="src">公众号：月之暗面（Kimi）</span><span class="src">公众号：阶跃星辰（Step）</span></div>
           <div class="card-meta mono">
             <span class="src-count">6 源报道</span>
@@ -364,13 +392,14 @@
         </div>
       </div>
       <div class="story-grid">
-        
+
         <article class="story-card">
           <div class="card-head">
             <span class="card-time mono">9.24 15:33</span>
             <span class="card-score mono">信号强度 79</span>
           </div>
           <h3 class="card-title"><a href="https://www.aibase.com/news/31337" target="_blank" rel="noopener">DeepSeek 论文上新：130 余人署名、梁文锋列末位，公开智能体训练沙箱 DSec</a></h3>
+
           <div class="src-list"><span class="src">AIbase</span><span class="src">Readhub · AI</span></div>
           <div class="card-meta mono">
             <span class="src-count">2 源报道</span>
@@ -387,6 +416,7 @@
             <span class="card-score mono">信号强度 78</span>
           </div>
           <h3 class="card-title"><a href="https://x.com/arena/status/2102952767614779403" target="_blank" rel="noopener">Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分</a></h3>
+
           <div class="src-list"><span class="src">X：Arena (@arena)</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -403,6 +433,7 @@
             <span class="card-score mono">信号强度 77</span>
           </div>
           <h3 class="card-title"><a href="https://www.ithome.com/1/006/548.htm" target="_blank" rel="noopener">OpenAI 称与苹果的 ChatGPT 合作表现远低于预期</a></h3>
+
           <div class="src-list"><span class="src">IT之家（RSS）</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -419,6 +450,7 @@
             <span class="card-score mono">信号强度 76</span>
           </div>
           <h3 class="card-title"><a href="https://x.com/rohanpaul_ai/status/2102832068157984990" target="_blank" rel="noopener">Anthropic 报告 Claude agent 在湿实验室发现噬菌体中的新型 ART 酶系统</a></h3>
+
           <div class="src-list"><span class="src">X：Rohan Paul (@rohanpaul_ai)</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -435,6 +467,7 @@
             <span class="card-score mono">信号强度 76</span>
           </div>
           <h3 class="card-title"><a href="https://openrouter.ai/blog/insights/kimi-k3-open-source" target="_blank" rel="noopener">OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用</a></h3>
+
           <div class="src-list"><span class="src">OpenRouter：Announcements（RSS）</span></div>
           <div class="card-meta mono">
             <span class="src-count">1 源报道</span>
@@ -451,6 +484,7 @@
             <span class="card-score mono">信号强度 79</span>
           </div>
           <h3 class="card-title"><a href="https://www.aibase.com/news/31346" target="_blank" rel="noopener">Meta Connect 发布会：Muse 全面接入 AI 眼镜，小扎要让数十亿人用上超级智能</a></h3>
+
           <div class="src-list"><span class="src">AIbase</span><span class="src">Readhub · AI</span></div>
           <div class="card-meta mono">
             <span class="src-count">2 源报道</span>
