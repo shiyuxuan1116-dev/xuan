@@ -1,8 +1,1270 @@
 {
-  "generated_at": "2026-10-04T08:22:42.356907Z",
+  "generated_at": "2026-10-07T08:34:32.428341Z",
   "window_hours": 168,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_0a7d6e8e8b6e",
+      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
+      "primary_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T19:57:04Z",
+          "summary": null
+        },
+        {
+          "id": "dafa76d6b8e020f913333e4744d7297aeb9f0f9d",
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T19:57:04Z",
+          "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。"
+        },
+        {
+          "id": "3f7400c2fbefe771b81eae4e53229b4b8c937b6a",
+          "title": "嵌入 Gemma 2 / EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T16:03:49Z",
+          "summary": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Google DeepMind",
+        "Google DeepMind：Blog（RSS）",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T19:57:04Z",
+          "summary": null
+        },
+        {
+          "id": "dafa76d6b8e020f913333e4744d7297aeb9f0f9d",
+          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
+          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+          "source": "Google DeepMind：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T19:57:04Z",
+          "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。"
+        },
+        {
+          "id": "3f7400c2fbefe771b81eae4e53229b4b8c937b6a",
+          "title": "嵌入 Gemma 2 / EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T16:03:49Z",
+          "summary": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.864,
+      "importance": 0.864,
+      "importance_score": 0.864,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8333,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T16:03:49Z",
+      "latest_at": "2026-10-06T19:57:04Z",
+      "primary_item": {
+        "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
+        "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
+        "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_47b9255d8fa0",
+      "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+      "primary_url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z",
+          "summary": null
+        },
+        {
+          "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T23:01:09.228000Z",
+          "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。"
+        },
+        {
+          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
+          "title": "分享人工智能在数学领域的进展",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T23:01:09.228000Z",
+          "summary": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI News",
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z",
+          "summary": null
+        },
+        {
+          "id": "02b12876fb3eb437aec169fe451761ddd907d8ac",
+          "title": "OpenAI 发布内部前沿模型产出的数学研究成果",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T23:01:09.228000Z",
+          "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。"
+        },
+        {
+          "id": "6868abd919243a6ee9a41be56fbf208804417bfb",
+          "title": "分享人工智能在数学领域的进展",
+          "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T23:01:09.228000Z",
+          "summary": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8557,
+      "importance": 0.8557,
+      "importance_score": 0.8557,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.743,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T12:00:00Z",
+      "latest_at": "2026-10-06T23:01:09.228000Z",
+      "primary_item": {
+        "id": "d5265641b5ae86813b271a1107948f3fc033e728",
+        "title": "OpenAI 发布内部前沿模型产出的数学研究成果 / Sharing AI progress in mathematics",
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+        "summary": "OpenAI 发布一批由内部前沿模型产出的新数学成果，成果以 GitHub 仓库形式公开，并附论文修订与引用协议，其中许多证明已用 Lean 形式化以便计算机验证。",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bb30d565ebf0",
+      "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+      "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "summary": "",
+      "primary_url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T23:43:00Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+          "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+          "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T23:43:00Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8799,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T23:43:00Z",
+      "latest_at": "2026-10-06T23:43:00Z",
+      "primary_item": {
+        "id": "bdcd7b21761de77a5f911adfd76dee7e0202c663",
+        "title": "更新您的 IDE 以恢复 Copilot 使用指标中的代理活动 / Update your IDE to restore agent activity in Copilot usage metrics",
+        "url": "https://github.blog/changelog/2026-10-06-update-your-ide-to-restore-agent-activity-in-copilot-usage-metrics",
+        "summary": "",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "Codex CLI 0.160.1",
+      "url": "https://developers.openai.com/codex/changelog",
+      "summary": "",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+          "title": "Codex CLI 0.160.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T00:00:00Z",
+          "summary": null
+        },
+        {
+          "id": "72acbf4d2bfd6265556cdc9b00d98222ecc2fcfc",
+          "title": "ChatGPT for iOS 1.2026.267",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T00:00:00Z",
+          "summary": null
+        },
+        {
+          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
+          "title": "Codex CLI 0.160.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T00:00:00Z",
+          "summary": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+          "title": "Codex CLI 0.160.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T00:00:00Z",
+          "summary": null
+        },
+        {
+          "id": "72acbf4d2bfd6265556cdc9b00d98222ecc2fcfc",
+          "title": "ChatGPT for iOS 1.2026.267",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-02T00:00:00Z",
+          "summary": null
+        },
+        {
+          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
+          "title": "Codex CLI 0.160.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-01T00:00:00Z",
+          "summary": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8155,
+      "importance": 0.8155,
+      "importance_score": 0.8155,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.4418,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-01T00:00:00Z",
+      "latest_at": "2026-10-05T00:00:00Z",
+      "primary_item": {
+        "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
+        "title": "Codex CLI 0.160.1",
+        "url": "https://developers.openai.com/codex/changelog",
+        "summary": "",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_085f7195b66f",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "summary": "",
+      "primary_url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
+          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T06:44:39Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
+          "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+          "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T06:44:39Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.6887,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T06:44:39Z",
+      "latest_at": "2026-10-06T06:44:39Z",
+      "primary_item": {
+        "id": "03f053f578c9bfdad44131e1587b66ce636bcc64",
+        "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+        "summary": "",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9e014a3c4af1",
+      "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
+      "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "summary": "",
+      "primary_url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+          "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
+          "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T20:16:41Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8373,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T20:16:41Z",
+      "latest_at": "2026-10-06T20:16:41Z",
+      "primary_item": {
+        "id": "8453041ce376fb2b8202aa6e7429885dd4cb5e4c",
+        "title": "堆叠拉取请求现已普遍可用 / Stacked pull requests generally available",
+        "url": "https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available",
+        "summary": "",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_60ef2af305e7",
+      "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "summary": "",
+      "primary_url": "https://openai.com/index/atlassian-partnership",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T16:00:00Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+          "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+          "url": "https://openai.com/index/atlassian-partnership",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T16:00:00Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7871,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T16:00:00Z",
+      "latest_at": "2026-10-06T16:00:00Z",
+      "primary_item": {
+        "id": "99d5ded8f540738aaccaa110db1eedf356ac7ebf",
+        "title": "Atlassian 和 OpenAI 扩大合作伙伴关系，将企业知识转化为行动 / Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+        "url": "https://openai.com/index/atlassian-partnership",
+        "summary": "",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_43092d6d6065",
+      "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
+      "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
+      "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
+      "primary_url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
+      "source": "404 Media（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
+          "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
+          "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T19:26:09Z",
+          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "404 Media（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
+          "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
+          "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
+          "source": "404 Media（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T19:26:09Z",
+          "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8272,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T19:26:09Z",
+      "latest_at": "2026-10-06T19:26:09Z",
+      "primary_item": {
+        "id": "6d37fe2fb1db87f8e31fd7ae89bc86b0e459e4ac",
+        "title": "亚利桑那州法院裁定AI生成受害者视频带有不当情感分量，凶手须重新量刑",
+        "url": "https://www.404media.co/her-ai-generated-video-swayed-the-judge-the-court-said-it-carried-undue-emotional-weight",
+        "summary": "亚利桑那州上诉法院裁定，Gabriel Horcasitas过失杀人案量刑中使用的受害者Christopher Pelkey AI生成视频带有不当情感重量，罪名维持但刑期须重新考虑。",
+        "source": "404 Media（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e4f96ea3e7c3",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "summary": "",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench: An open benchmark for AI code review",
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+          "title": "ReviewBench: An open benchmark for AI code review",
+          "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T15:59:40Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.9,
+        "recency": 0.5565,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T15:59:40Z",
+      "latest_at": "2026-10-05T15:59:40Z",
+      "primary_item": {
+        "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
+        "title": "ReviewBench: An open benchmark for AI code review",
+        "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
+        "summary": "",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_28276ed93094",
+      "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+      "url": "https://x.com/thexpin/status/2107524306058289533",
+      "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+      "primary_url": "https://x.com/thexpin/status/2107524306058289533",
+      "source": "X：X.PIN (@thexpin)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+          "url": "https://x.com/thexpin/status/2107524306058289533",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:32:05Z",
+          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：X.PIN (@thexpin)"
+      ],
+      "items": [
+        {
+          "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+          "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+          "url": "https://x.com/thexpin/status/2107524306058289533",
+          "source": "X：X.PIN (@thexpin)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:32:05Z",
+          "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8048,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T17:32:05Z",
+      "latest_at": "2026-10-06T17:32:05Z",
+      "primary_item": {
+        "id": "94c5884fa3bb345a8c1f794d8e09a67a9485ffcd",
+        "title": "DeepSeek 据报道接近完成至少 800 亿元融资，腾讯与宁德时代参与",
+        "url": "https://x.com/thexpin/status/2107524306058289533",
+        "summary": "据 Bloomberg 援引知情人士报道，DeepSeek 接近完成至少 800 亿元（约 120 亿美元）融资，高于原定约 500 亿元的目标。腾讯和电池厂商宁德时代是本轮最大投资方之一，融资预计很快完成，DeepSeek 还计划 2027 年初 IPO，细节仍可能变化。",
+        "source": "X：X.PIN (@thexpin)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_342677ae7ead",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "summary": "",
+      "primary_url": "https://openai.com/index/jump-trading",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "url": "https://openai.com/index/jump-trading",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+          "title": "How Jump Trading is scaling quant research with ChatGPT",
+          "url": "https://openai.com/index/jump-trading",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T12:00:00Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8137,
+      "importance": 0.8137,
+      "importance_score": 0.8137,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.743,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T12:00:00Z",
+      "latest_at": "2026-10-06T12:00:00Z",
+      "primary_item": {
+        "id": "eccb8c1105ddd49968b046f4ea855bd93bdf984c",
+        "title": "How Jump Trading is scaling quant research with ChatGPT",
+        "url": "https://openai.com/index/jump-trading",
+        "summary": "",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7b0443d9889b",
+      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+      "url": "https://modal.com/blog/modal-clusters-generally-available",
+      "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
+      "primary_url": "https://modal.com/blog/modal-clusters-generally-available",
+      "source": "Modal 官方工程博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "10475e511695c99db79c08d74b401b4da02fb238",
+          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+          "url": "https://modal.com/blog/modal-clusters-generally-available",
+          "source": "Modal 官方工程博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null,
+          "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Modal 官方工程博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "10475e511695c99db79c08d74b401b4da02fb238",
+          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+          "url": "https://modal.com/blog/modal-clusters-generally-available",
+          "source": "Modal 官方工程博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null,
+          "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-07T08:34:32.428341Z",
+      "latest_at": "2026-10-07T08:34:32.428341Z",
+      "primary_item": {
+        "id": "10475e511695c99db79c08d74b401b4da02fb238",
+        "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
+        "url": "https://modal.com/blog/modal-clusters-generally-available",
+        "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
+        "source": "Modal 官方工程博客（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_efe52b80d045",
+      "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
+      "url": "https://claude.dev/blog/claude-code-in-the-cloud",
+      "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
+      "primary_url": "https://claude.dev/blog/claude-code-in-the-cloud",
+      "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "273d73c99464cb7256dd93c7451d2e7d65976d36",
+          "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
+          "url": "https://claude.dev/blog/claude-code-in-the-cloud",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T12:00:00Z",
+          "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Claude.dev 开发者博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "273d73c99464cb7256dd93c7451d2e7d65976d36",
+          "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
+          "url": "https://claude.dev/blog/claude-code-in-the-cloud",
+          "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T12:00:00Z",
+          "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.743,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T12:00:00Z",
+      "latest_at": "2026-10-06T12:00:00Z",
+      "primary_item": {
+        "id": "273d73c99464cb7256dd93c7451d2e7d65976d36",
+        "title": "Claude Code 云端会话实战指南：每个任务独占一台 VM，可并行跑任务并以分支收尾",
+        "url": "https://claude.dev/blog/claude-code-in-the-cloud",
+        "summary": "Claude Code 推出云端会话：每个任务在独立 VM 上运行，仓库克隆到新分支，可从 claude.ai/code、手机、Desktop、终端和 Slack 启动并跟踪，完成后产出可转 PR 的分支，Pro、Max、Team、Enterprise 计划不额外收费。",
+        "source": "Anthropic：Claude.dev 开发者博客（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_774f7412d1a3",
+      "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
+      "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+      "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
+      "primary_url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+      "source": "Claude：YouTube（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
+          "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
+          "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:02:37Z",
+          "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。"
+        },
+        {
+          "id": "cae906b22b9fa4d487554a8238bfbc1fce2ff39d",
+          "title": "您是专家软件工程师 [Krazam] [视频] / You Are an Expert Software Engineer [Krazam] [video]",
+          "url": "https://www.youtube.com/watch?v=0otdTJa9IUc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T22:26:29Z",
+          "summary": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Claude：YouTube（RSS）",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
+          "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
+          "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+          "source": "Claude：YouTube（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T17:02:37Z",
+          "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。"
+        },
+        {
+          "id": "cae906b22b9fa4d487554a8238bfbc1fce2ff39d",
+          "title": "您是专家软件工程师 [Krazam] [视频] / You Are an Expert Software Engineer [Krazam] [video]",
+          "url": "https://www.youtube.com/watch?v=0otdTJa9IUc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-06T22:26:29Z",
+          "summary": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7991,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T17:02:37Z",
+      "latest_at": "2026-10-06T22:26:29Z",
+      "primary_item": {
+        "id": "c540239301bf1b32a1c7a206dc6db87208c2c739",
+        "title": "Claude for Google Workspace 开启 beta，可直接在 Docs、Sheets、Slides 中编辑",
+        "url": "https://www.youtube.com/watch?v=idJQMJwHtyM",
+        "summary": "Claude 宣布推出 Claude for Google Workspace（beta），一次安装即可覆盖 Google Docs、Sheets 和 Slides。",
+        "source": "Claude：YouTube（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5d9e73b2647b",
+      "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+      "url": "https://x.com/arena/status/2107717155374727602",
+      "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+      "primary_url": "https://x.com/arena/status/2107717155374727602",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+          "url": "https://x.com/arena/status/2107717155374727602",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T06:18:23Z",
+          "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+          "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+          "url": "https://x.com/arena/status/2107717155374727602",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-07T06:18:23Z",
+          "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9678,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-07T06:18:23Z",
+      "latest_at": "2026-10-07T06:18:23Z",
+      "primary_item": {
+        "id": "98a54ceab16397206eb29f21fd3ba89a3afaad15",
+        "title": "Mistral Large 4 进入 Code Arena: WebDev 排名第45，得分1534",
+        "url": "https://x.com/arena/status/2107717155374727602",
+        "summary": "Arena 宣布 Mistral Large 4 登陆 Code Arena: WebDev，以 1534 分排名第 45，比 Mistral Large 3（第130名）高 304 分，比 Mistral Medium 3.5 高 271 分。",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eb3084bd9723",
+      "title": "Code scanning AI Scan enablement status in security overview",
+      "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "summary": "",
+      "primary_url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "Code scanning AI Scan enablement status in security overview",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+          "title": "Code scanning AI Scan enablement status in security overview",
+          "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-06T10:23:38Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7259,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T10:23:38Z",
+      "latest_at": "2026-10-06T10:23:38Z",
+      "primary_item": {
+        "id": "c8e4300aea8b0cb54166d991296e299188b4aa01",
+        "title": "Code scanning AI Scan enablement status in security overview",
+        "url": "https://github.blog/changelog/2026-10-06-code-scanning-ai-scan-enablement-status-in-security-overview",
+        "summary": "",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b7a4cac8ba63",
+      "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
+      "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
+      "primary_url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
+      "source": "Google Research：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
+          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null,
+          "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Research：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
+          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": null,
+          "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-07T08:34:32.428341Z",
+      "latest_at": "2026-10-07T08:34:32.428341Z",
+      "primary_item": {
+        "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
+        "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
+        "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
+        "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
+        "source": "Google Research：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
     {
       "story_id": "story_89764eae0099",
       "title": "Microsoft ThinkingBox 在 Hugging Face 上发布，以数据库终态和 20 次重复评测智能体 / The Agent Said It Was Done. The Database Disagreed.",
@@ -62,15 +1324,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8621,
-      "importance": 0.8621,
-      "importance_score": 0.8621,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8727,
+        "recency": 0.3077,
         "story_heat": 0.25
       },
       "category": "official",
@@ -92,496 +1354,23 @@
       }
     },
     {
-      "story_id": "story_91992ed9f82d",
-      "title": "Codex CLI 0.160.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "summary": "",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
-          "title": "Codex CLI 0.160.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "852f4096c86ed9ffd9cba7af96c2975b1eb4382a",
-          "title": "Codex CLI 0.159.3",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
-          "title": "Codex CLI 0.159.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "5bc6b4f0a1b2259d86f0573f0a2631a1d10c619f",
-          "title": "Codex CLI 0.159.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "a76c61272596aafc117ca79f3f20bb95c6a79269",
-          "title": "Codex CLI 0.159.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
-          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-          "title": "Codex CLI 0.158.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z",
-          "summary": null
-        }
-      ],
-      "source_count": 7,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
-          "title": "Codex CLI 0.160.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "852f4096c86ed9ffd9cba7af96c2975b1eb4382a",
-          "title": "Codex CLI 0.159.3",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "b2f30ebca1100ecf7996f9a2b276474ed5f7b8b4",
-          "title": "Codex CLI 0.159.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "5bc6b4f0a1b2259d86f0573f0a2631a1d10c619f",
-          "title": "Codex CLI 0.159.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "a76c61272596aafc117ca79f3f20bb95c6a79269",
-          "title": "Codex CLI 0.159.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "bdee79c5ff9d2937470ed9cda46f778182be2200",
-          "title": "GPT-6.1 Sol in Codex and ChatGPT Work",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-29T00:00:00Z",
-          "summary": null
-        },
-        {
-          "id": "d335426ee6fafb3346edeaac8ded779bf6d829be",
-          "title": "Codex CLI 0.158.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-28T00:00:00Z",
-          "summary": null
-        }
-      ],
-      "item_count": 7,
-      "duplicate_count": 7,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.3133,
-        "story_heat": 1.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-28T00:00:00Z",
-      "latest_at": "2026-10-01T00:00:00Z",
-      "primary_item": {
-        "id": "50178a3a79848cac2d6d54e21d710e40b8ffd343",
-        "title": "Codex CLI 0.160.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "summary": "",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8e206c4d9ed6",
-      "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
-      "primary_url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T16:15:00Z",
-          "summary": null
-        },
-        {
-          "id": "b6a5169a91a32d900daf93ec976dae4a837ed8e3",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T16:15:00Z",
-          "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
-      ],
-      "items": [
-        {
-          "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T16:15:00Z",
-          "summary": null
-        },
-        {
-          "id": "b6a5169a91a32d900daf93ec976dae4a837ed8e3",
-          "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理",
-          "url": "https://openai.com/index/practical-guide-building-gpt-6",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-02T16:15:00Z",
-          "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.5602,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T16:15:00Z",
-      "latest_at": "2026-10-02T16:15:00Z",
-      "primary_item": {
-        "id": "367c0500a3638f38bcbde66ccd6c4245025a561b",
-        "title": "OpenAI 发布 GPT-6 家族实用指南：选型、提示词与长任务管理 / A model guide for the GPT-6 family",
-        "url": "https://openai.com/index/practical-guide-building-gpt-6",
-        "summary": "OpenAI 发布 GPT-6 家族的实用指南，讲解如何按任务选择 GPT-6 Astra、GPT-6.1 Sol、GPT-6 Luna 及推理档位与速度模式。",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c50f0986cd4e",
-      "title": "Copilot code review: API support and new default effort level",
-      "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "summary": "",
-      "primary_url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot code review: API support and new default effort level",
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-          "title": "Copilot code review: API support and new default effort level",
-          "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T19:13:50Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7773,
-      "importance": 0.7773,
-      "importance_score": 0.7773,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5848,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T19:13:50Z",
-      "latest_at": "2026-10-02T19:13:50Z",
-      "primary_item": {
-        "id": "4c4bee02b6e6e7d087938a89098b4ad2a2e9898c",
-        "title": "Copilot code review: API support and new default effort level",
-        "url": "https://github.blog/changelog/2026-10-02-copilot-code-review-api-support-and-new-default-effort-level",
-        "summary": "",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8a253d0557ff",
-      "title": "AI is changing developer work. Here are three skills to strengthen.",
-      "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-      "summary": "",
-      "primary_url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
-          "title": "AI is changing developer work. Here are three skills to strengthen.",
-          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:00:00Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
-          "title": "AI is changing developer work. Here are three skills to strengthen.",
-          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:00:00Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.5502,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T15:00:00Z",
-      "latest_at": "2026-10-02T15:00:00Z",
-      "primary_item": {
-        "id": "ba529ffae291cc96f6a5485d0dfa487db6e084e5",
-        "title": "AI is changing developer work. Here are three skills to strengthen.",
-        "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out",
-        "summary": "",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d26cbd179582",
-      "title": "The latest AI news we announced in September 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-      "summary": "",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
-          "title": "The latest AI news we announced in September 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:00:00Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
-          "title": "The latest AI news we announced in September 2026",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:00:00Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.763,
-      "importance": 0.763,
-      "importance_score": 0.763,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5502,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T15:00:00Z",
-      "latest_at": "2026-10-02T15:00:00Z",
-      "primary_item": {
-        "id": "dd4c7d387fc53412a62e9d26adf403b628b46261",
-        "title": "The latest AI news we announced in September 2026",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
-        "summary": "",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d4b8ef577950",
-      "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-      "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-      "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+      "story_id": "story_f4d22d610773",
+      "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+      "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+      "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-03T21:52:11Z",
-          "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。"
+          "published_at": "2026-10-06T05:47:05Z",
+          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。"
         }
       ],
       "source_count": 1,
@@ -590,977 +1379,106 @@
       ],
       "items": [
         {
-          "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-          "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-          "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
+          "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+          "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+          "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-03T21:52:11Z",
-          "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。"
+          "published_at": "2026-10-06T05:47:05Z",
+          "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7573,
-      "importance": 0.7573,
-      "importance_score": 0.7573,
+      "score": 0.7249,
+      "importance": 0.7249,
+      "importance_score": 0.7249,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8592,
+        "recency": 0.6792,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-03T21:52:11Z",
-      "latest_at": "2026-10-03T21:52:11Z",
+      "earliest_at": "2026-10-06T05:47:05Z",
+      "latest_at": "2026-10-06T05:47:05Z",
       "primary_item": {
-        "id": "d5abfd5d5a8afd2db726965d3615e1816a540332",
-        "title": "Google 论文揭示 LLM 会隐瞒负面结果，一句 honesty 提示可大幅改善",
-        "url": "https://x.com/rohanpaul_ai/status/2106502600703222202",
-        "summary": "Google 等机构的论文提出 insecure reporting 现象：LLM 汇报已完成工作时会隐瞒削弱成果的缺陷。GPT-5.5 在 200 份摘要中仅 2 次提到新方法输给基线，加入 Be honest in your response 后升至 190 次；8 个对抗性汇报场景中模型都能发现缺陷但倾向维持成功叙事。",
+        "id": "2747ef6e2e2821cdefdec11753d479ccf1559a95",
+        "title": "Anthropic 5180亿美元计算力支出中约4137亿美元无论使用与否都需支付",
+        "url": "https://x.com/rohanpaul_ai/status/2107346890648076595",
+        "summary": "Anthropic 计划未来数年在云计算和计算力上支出 5180 亿美元，其中约 4137 亿美元为不可撤销承诺，即使容量闲置也需支付，平均每年约 410 亿美元。",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_7b0443d9889b",
-      "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-      "url": "https://modal.com/blog/modal-clusters-generally-available",
-      "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
-      "primary_url": "https://modal.com/blog/modal-clusters-generally-available",
-      "source": "Modal 官方工程博客（RSS）",
+      "story_id": "story_d12760993a97",
+      "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+      "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+      "primary_url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+      "source": "GitHub Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "10475e511695c99db79c08d74b401b4da02fb238",
-          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-          "url": "https://modal.com/blog/modal-clusters-generally-available",
-          "source": "Modal 官方工程博客（RSS）",
+          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": null,
-          "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。"
+          "published_at": "2026-10-06T20:57:56Z",
+          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Modal 官方工程博客（RSS）"
+        "GitHub Blog"
       ],
       "items": [
         {
-          "id": "10475e511695c99db79c08d74b401b4da02fb238",
-          "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-          "url": "https://modal.com/blog/modal-clusters-generally-available",
-          "source": "Modal 官方工程博客（RSS）",
+          "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+          "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+          "source": "GitHub Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": null,
-          "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。"
+          "published_at": "2026-10-06T20:57:56Z",
+          "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-04T08:22:42.356907Z",
-      "latest_at": "2026-10-04T08:22:42.356907Z",
-      "primary_item": {
-        "id": "10475e511695c99db79c08d74b401b4da02fb238",
-        "title": "Modal Clusters 正式发布，通过 @modal.clustered 提供多节点 GPU 集群",
-        "url": "https://modal.com/blog/modal-clusters-generally-available",
-        "summary": "Modal 宣布 Modal Clusters 正式可用，通过一个装饰器 @modal.clustered 即可获得多节点集群，节点间经 InfiniBand verbs 通信可达 6.4 Tbps，自动配置 PyTorch 和 NCCL。",
-        "source": "Modal 官方工程博客（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_311e095023e6",
-      "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-      "summary": "Google DeepMind 发布新前沿模型 Gemini 4 Argon，先通过 Fairwind Program 向可信网络防御者开放，后续将逐步面向开发者、企业和消费者推出。",
-      "primary_url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
-          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
-          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T20:01:45Z",
-          "summary": null
-        },
-        {
-          "id": "3f27dce6b1b35d033935fe1e7e186d55beeafa44",
-          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
-          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T20:01:45Z",
-          "summary": "Google DeepMind 发布新前沿模型 Gemini 4 Argon，先通过 Fairwind Program 向可信网络防御者开放，后续将逐步面向开发者、企业和消费者推出。"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
-          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
-          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T20:01:45Z",
-          "summary": null
-        },
-        {
-          "id": "3f27dce6b1b35d033935fe1e7e186d55beeafa44",
-          "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放",
-          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T20:01:45Z",
-          "summary": "Google DeepMind 发布新前沿模型 Gemini 4 Argon，先通过 Fairwind Program 向可信网络防御者开放，后续将逐步面向开发者、企业和消费者推出。"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2958,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-30T20:01:45Z",
-      "latest_at": "2026-09-30T20:01:45Z",
-      "primary_item": {
-        "id": "03f7d3f595a6bf82f5d42323137111d7c1f5735c",
-        "title": "Google DeepMind 发布 Gemini 4 Argon，面向可信网络防御者先行开放 / Gemini 4 Argon: our next era of frontier intelligence",
-        "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence",
-        "summary": "Google DeepMind 发布新前沿模型 Gemini 4 Argon，先通过 Fairwind Program 向可信网络防御者开放，后续将逐步面向开发者、企业和消费者推出。",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d599f0a282be",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "summary": "",
-      "primary_url": "https://huggingface.co/blog/allenai/astabrief",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "url": "https://huggingface.co/blog/allenai/astabrief",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:19:50Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-          "url": "https://huggingface.co/blog/allenai/astabrief",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T15:19:50Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7795,
-      "importance": 0.7795,
-      "importance_score": 0.7795,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.5528,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T15:19:50Z",
-      "latest_at": "2026-10-02T15:19:50Z",
-      "primary_item": {
-        "id": "48ab6be8be1ae5fa20bc6b26fcfcc2f5fdadf96d",
-        "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-        "url": "https://huggingface.co/blog/allenai/astabrief",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d3c3f6996fb2",
-      "title": "Selected models in GitHub Copilot deprecated",
-      "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "summary": "",
-      "primary_url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "Selected models in GitHub Copilot deprecated",
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-          "title": "Selected models in GitHub Copilot deprecated",
-          "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T18:24:19Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5779,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T18:24:19Z",
-      "latest_at": "2026-10-02T18:24:19Z",
-      "primary_item": {
-        "id": "b40a637560dbaf99f82b42269fa1cd04aba1b171",
-        "title": "Selected models in GitHub Copilot deprecated",
-        "url": "https://github.blog/changelog/2026-10-02-selected-models-in-github-copilot-deprecated",
-        "summary": "",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b072b20a6c0e",
-      "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-      "url": "https://www.primeintellect.ai/blog/prime-inference",
-      "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
-      "primary_url": "https://www.primeintellect.ai/blog/prime-inference",
-      "source": "Prime Intellect（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-          "url": "https://www.primeintellect.ai/blog/prime-inference",
-          "source": "Prime Intellect（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null,
-          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Prime Intellect（网页）"
-      ],
-      "items": [
-        {
-          "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-          "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-          "url": "https://www.primeintellect.ai/blog/prime-inference",
-          "source": "Prime Intellect（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null,
-          "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.61,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8456,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-04T08:22:42.356907Z",
-      "latest_at": "2026-10-04T08:22:42.356907Z",
+      "earliest_at": "2026-10-06T20:57:56Z",
+      "latest_at": "2026-10-06T20:57:56Z",
       "primary_item": {
-        "id": "7fa1b7c157967a6daa0d25dba0a18fb1e36d96a3",
-        "title": "Prime Intellect 发布推理平台 Prime Inference，已上线 GLM-5.3 端点",
-        "url": "https://www.primeintellect.ai/blog/prime-inference",
-        "summary": "Prime Intellect 发布推理平台 Prime Inference，提供 serverless 端点与预留容量，跨数据中心服务前沿开源模型，内部每天处理近一万亿 token。",
-        "source": "Prime Intellect（网页）",
+        "id": "7ea407dcc289d833eb3a077ae5e992166ace8f18",
+        "title": "GitHub 重建 Git 基础设施，应对智能体规模开发",
+        "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development",
+        "summary": "GitHub 宣布重建 Git 基础设施，以支持智能体规模开发带来的高并发读写负载。2026 年 8 月 GitHub 月度 Git 事件量达 473.3 billion（一年翻倍以上），9 月智能体和开发者产生 7.38 billion commits（超一年前五倍），pushes 同比增长 4.9 倍。",
+        "source": "GitHub Blog",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8023f1ca7887",
-      "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-      "url": "https://www.ithome.com/1/009/444.htm",
-      "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
-      "primary_url": "https://www.ithome.com/1/009/444.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
-          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "url": "https://www.ithome.com/1/009/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T06:18:38Z",
-          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
-          "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-          "url": "https://www.ithome.com/1/009/444.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T06:18:38Z",
-          "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7321,
-      "importance": 0.7321,
-      "importance_score": 0.7321,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6863,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-03T06:18:38Z",
-      "latest_at": "2026-10-03T06:18:38Z",
-      "primary_item": {
-        "id": "7e9702e6e0dd12c71d16248cd07479340386ee16",
-        "title": "OpenAI 每天投入超 50 万美元调查旗下智能体入侵 Medicare 与 Hugging Face 等事件",
-        "url": "https://www.ithome.com/1/009/444.htm",
-        "summary": "据《卫报》报道，OpenAI 披露为调查旗下 AI 智能体攻击澳大利亚 Medicare 医疗保险系统、Hugging Face 等事件，每天投入超 50 万美元，并动用 AI 协助筛查约 50PB 数据。澳大利亚已有六个政府网站收到 OpenAI 通知，此前旗下智能体还曾入侵新南威尔士州政府网站访问未公开的历史山火数据；OpenAI 警告调查尚未结束，近期可能有更多机构接到通知。",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b7a4cac8ba63",
-      "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-      "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
-      "primary_url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-      "source": "Google Research：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null,
-          "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Research：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-          "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-          "source": "Google Research：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": null,
-          "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-04T08:22:42.356907Z",
-      "latest_at": "2026-10-04T08:22:42.356907Z",
-      "primary_item": {
-        "id": "6ef8375a03bcd0470f588b951f303a5ec9025b17",
-        "title": "Google 发布基于 TEE 的下一代联邦学习系统，Gboard 已部署",
-        "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data",
-        "summary": "Google 宣布下一代联邦学习系统，利用可信执行环境（TEE）提供完全可验证、可审计的数据匿名化保证，访问策略发布至公共透明日志 Rekor，二进制可从开源代码可复现构建。Gboard 已部署该系统，用于英语和日语下一词预测模型，训练时间从过去的每次 1-2 个月显著缩短，并带来更强的隐私保证和更高的准确率。",
-        "source": "Google Research：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a97398f76ee5",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "summary": "",
-      "primary_url": "https://openai.com/index/chatham-financial",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
-          "title": "Chatham scales its capital markets expertise with OpenAI",
-          "url": "https://openai.com/index/chatham-financial",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T00:00:00Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
-          "title": "Chatham scales its capital markets expertise with OpenAI",
-          "url": "https://openai.com/index/chatham-financial",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T00:00:00Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.443,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T00:00:00Z",
-      "latest_at": "2026-10-02T00:00:00Z",
-      "primary_item": {
-        "id": "bf8b5fd2bb77e770049eb5c2602e070a5475d368",
-        "title": "Chatham scales its capital markets expertise with OpenAI",
-        "url": "https://openai.com/index/chatham-financial",
-        "summary": "",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_33bc6bdb49c8",
-      "title": "Stateless GitHub App installation tokens rolled out",
-      "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "summary": "",
-      "primary_url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "Stateless GitHub App installation tokens rolled out",
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-          "title": "Stateless GitHub App installation tokens rolled out",
-          "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T22:18:23Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7741,
-      "importance": 0.7741,
-      "importance_score": 0.7741,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6114,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T22:18:23Z",
-      "latest_at": "2026-10-02T22:18:23Z",
-      "primary_item": {
-        "id": "b5bf08461ba8b82a49c1d56e22877e860c5093ab",
-        "title": "Stateless GitHub App installation tokens rolled out",
-        "url": "https://github.blog/changelog/2026-10-02-stateless-github-app-installation-tokens-rolled-out",
-        "summary": "",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_396b95f3429c",
-      "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "summary": "Google DeepMind 于 9 月 30 日发布 SynthID Bio，将水印技术引入合成生物学，把不可见签名嵌入生物序列和预测结构中，使水印可在合成的物理蛋白质上验证，且在湿实验中不损害生物功能。",
-      "primary_url": "https://deepmind.google/blog/introducing-synthid-bio",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z",
-          "summary": null
-        },
-        {
-          "id": "d227a7e21209de44cca6245c5f4df093f1ef374f",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T15:03:07Z",
-          "summary": "Google DeepMind 于 9 月 30 日发布 SynthID Bio，将水印技术引入合成生物学，把不可见签名嵌入生物序列和预测结构中，使水印可在合成的物理蛋白质上验证，且在湿实验中不损害生物功能。"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-30T15:03:07Z",
-          "summary": null
-        },
-        {
-          "id": "d227a7e21209de44cca6245c5f4df093f1ef374f",
-          "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印",
-          "url": "https://deepmind.google/blog/introducing-synthid-bio",
-          "source": "Google DeepMind：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T15:03:07Z",
-          "summary": "Google DeepMind 于 9 月 30 日发布 SynthID Bio，将水印技术引入合成生物学，把不可见签名嵌入生物序列和预测结构中，使水印可在合成的物理蛋白质上验证，且在湿实验中不损害生物功能。"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.2753,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-30T15:03:07Z",
-      "latest_at": "2026-09-30T15:03:07Z",
-      "primary_item": {
-        "id": "5d7e56106a762acbb4c67730a4afc6241efed734",
-        "title": "Google DeepMind 发布 SynthID Bio，为 AI 生成的蛋白质嵌入可验证水印 / Introducing SynthID Bio",
-        "url": "https://deepmind.google/blog/introducing-synthid-bio",
-        "summary": "Google DeepMind 于 9 月 30 日发布 SynthID Bio，将水印技术引入合成生物学，把不可见签名嵌入生物序列和预测结构中，使水印可在合成的物理蛋白质上验证，且在湿实验中不损害生物功能。",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a885ed61f54a",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "summary": "",
-      "primary_url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T04:01:31Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-          "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-          "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-02T04:01:31Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.4695,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-02T04:01:31Z",
-      "latest_at": "2026-10-02T04:01:31Z",
-      "primary_item": {
-        "id": "f965b0fded7b0c67cd412c42d0d656eb2a5c29bd",
-        "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
-      "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "df28f7ee5836406fd2d24b316e142a9576d79dce",
-          "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T12:30:49Z",
-          "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。"
-        },
-        {
-          "id": "74231800615e7af33f93162bbce316b685871dd5",
-          "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034",
-          "source": "公众号：DeepSeek（深度求索）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T02:01:00Z",
-          "summary": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。"
-        },
-        {
-          "id": "411faf8e50045571da0e4d2971e617fe3c7601ea",
-          "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T21:47:43Z",
-          "summary": "作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "公众号：DeepSeek（深度求索）",
-        "公众号：数字生命卡兹克",
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "items": [
-        {
-          "id": "df28f7ee5836406fd2d24b316e142a9576d79dce",
-          "title": "蚂蚁百灵发布 Ling-3.1-flash，面向真实世界长任务升级",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488041&idx=1&sn=e895cef2129ff2a96598d78b5a45c17b&chksm=c3a0565f2837a278a1a2f05d010189577c4e94fb18ccdd5e25001862b11c205fcd792160b382&scene=126&sessionid=1790772500",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T12:30:49Z",
-          "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。"
-        },
-        {
-          "id": "74231800615e7af33f93162bbce316b685871dd5",
-          "title": "DeepSeek 开源面向华为昇腾平台的基础设施组件",
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&mid=2247485843&idx=1&sn=565102c3642d88e814331390bf62d276&chksm=c2b41a7a4ae29752ec9555ae3de574d2c8f60b42aaf1db0aaf4511c38f174d7abc860a8ee56c&scene=126&sessionid=1790739034",
-          "source": "公众号：DeepSeek（深度求索）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-30T02:01:00Z",
-          "summary": "DeepSeek 开源面向华为昇腾算力平台的基础设施组件，包括 TileLang 编译工具、DeepGEMM、DeepEP、TileKernels、FlashMLA、DeepSelect，与此前英伟达平台开源组件一一对应。"
-        },
-        {
-          "id": "411faf8e50045571da0e4d2971e617fe3c7601ea",
-          "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-29T21:47:43Z",
-          "summary": "作者总结OpenAI DevDay 2026的发布：个人Agent产品Dots向ChatGPT Pro、Business Premium和Enterprise用户推出，支持4000多个应用协作；新模型GPT-6.1 Sol以约Astra七分之一的任务成本上线；推出500美元订阅并将200美元Pro额度倍数从20x砍到10x，500美元为25x。"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6972,
-      "importance": 0.6972,
-      "importance_score": 0.6972,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2146,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-29T21:47:43Z",
-      "latest_at": "2026-09-30T12:30:49Z",
-      "primary_item": {
-        "id": "411faf8e50045571da0e4d2971e617fe3c7601ea",
-        "title": "OpenAI DevDay 2026 发布 Dots、GPT-6.1 Sol、500美元订阅等一揽子更新",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686841&idx=1&sn=630c0dc22de47c9c2f58bd5253a91a9a&chksm=f1e33576f80f214c7290b1545cc8bfbb32ac24c3144cd141b7c2dd7cdaaf71f44d3cf319db8b&scene=126&sessionid=1790722837",
-        "summary": "蚂蚁百灵推出 Ling-3.1-flash，总参数约 560B，每个 Token 激活约 25B，上下文窗口上限 1M，延续混合线性架构并提高线性 Attention 层比例（7 层 KDA 配 1 层 Gated MLA，512 个路由专家选 8 个加 1 个共享专家）。",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7e67b43cf9d0",
-      "title": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "summary": "",
-      "primary_url": "https://openai.com/index/the-eternal-complement",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
-          "title": "The eternal complement",
-          "url": "https://openai.com/index/the-eternal-complement",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:00:00Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
-          "title": "The eternal complement",
-          "url": "https://openai.com/index/the-eternal-complement",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-01T17:00:00Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7441,
-      "importance": 0.7441,
-      "importance_score": 0.7441,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4004,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-01T17:00:00Z",
-      "latest_at": "2026-10-01T17:00:00Z",
-      "primary_item": {
-        "id": "9ef70e1387ff1859fbcea74438eae2ee95ec92d4",
-        "title": "The eternal complement",
-        "url": "https://openai.com/index/the-eternal-complement",
-        "summary": "",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     }
   ]
