@@ -1,295 +1,242 @@
 {
-  "generated_at": "2026-10-11T08:43:03.606773Z",
+  "generated_at": "2026-10-15T07:20:58.833783Z",
   "window_hours": 168,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_1e0e6608c184",
-      "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-      "summary": "",
-      "primary_url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7105f7a887a844336072613e1ed600066153efc2",
-          "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-10T18:53:39Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7105f7a887a844336072613e1ed600066153efc2",
-          "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-          "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-10T18:53:39Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8194,
-      "importance": 0.8194,
-      "importance_score": 0.8194,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.819,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T18:53:39Z",
-      "latest_at": "2026-10-10T18:53:39Z",
-      "primary_item": {
-        "id": "7105f7a887a844336072613e1ed600066153efc2",
-        "title": "Copilot for JetBrains 中的新控件和聊天改进 / New controls and chat improvements in Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-10-10-new-controls-and-chat-improvements-in-copilot-for-jetbrains",
-        "summary": "",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_43ef54e74d27",
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "summary": "",
-      "primary_url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-          "title": "Impactful scheduling for GPU clusters",
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T15:20:29Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-          "title": "Impactful scheduling for GPU clusters",
-          "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T15:20:29Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.5502,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T15:20:29Z",
-      "latest_at": "2026-10-09T15:20:29Z",
-      "primary_item": {
-        "id": "3fd2c0f58e3fbf1b38c9ff28f0d95ff14143ee4f",
-        "title": "Impactful scheduling for GPU clusters",
-        "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_2e3af46c5b7b",
-      "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-      "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "summary": "文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。",
-      "primary_url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-      "source": "MarkTechPost（RSS）",
+      "story_id": "story_6cbde97d8260",
+      "title": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488160&idx=1&sn=427a3dc2e5b84b0977e1e5ea075cfbd7",
+      "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488160&idx=1&sn=427a3dc2e5b84b0977e1e5ea075cfbd7",
+      "source": "公众号：阶跃星辰（Step）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-          "source": "MarkTechPost（RSS）",
+          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
+          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+          "source": "公众号：面壁智能（MiniCPM）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z",
-          "summary": "文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。"
+          "published_at": "2026-10-15T04:53:56Z",
+          "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。"
+        },
+        {
+          "id": "0a79aefea55b30d4f8cc9cb8650343ba645ad5fc",
+          "title": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488160&idx=1&sn=427a3dc2e5b84b0977e1e5ea075cfbd7",
+          "source": "公众号：阶跃星辰（Step）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T03:02:38Z",
+          "summary": "阶跃星辰正式开放 Step 5 Preview 模型权重，提供 BF16 与 FP8 版本，已上线 Hugging Face 和 ModelScope。"
+        },
+        {
+          "id": "adb445c5cef287c62510bb31aa8544e72ef7d024",
+          "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T01:10:27Z",
+          "summary": "蚂蚁百灵正式开源 Ling-3.1-flash，总参数约 560B、每 Token 激活约 25B、最高支持 1M 上下文，权重已上架 Hugging Face 和 ModelScope。"
+        },
+        {
+          "id": "2cccd3709712ba44fb6725202a6795e2733c0aa6",
+          "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:26:00Z",
+          "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。"
+        },
+        {
+          "id": "d99b1c96d6185bc90506bf172e6dce6e6bbf2dc8",
+          "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:00:00Z",
+          "summary": "昆仑万维于2026年10月15日发布 Matrix-Game 4.0，称其为第一款运行在单张消费级显卡上的视频大模型游戏，并同步开源。"
+        },
+        {
+          "id": "c75dc136f0bb0fe677fb53b0615fdf939a5acb66",
+          "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T22:56:51Z",
+          "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。"
+        },
+        {
+          "id": "6bfeadaedc605b5f1b8037b8215dc35e1d366e2f",
+          "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T10:29:21Z",
+          "summary": "面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。"
+        },
+        {
+          "id": "4f172c4abbb29f48b19f036cfe920cbc40312c05",
+          "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T08:06:57Z",
+          "summary": "千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。"
+        },
+        {
+          "id": "3a68aef030b7da29cb1f38b397f5afe7861c3032",
+          "title": "AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686995&idx=1&sn=cc40a3488a2ea7652d2ab589056f40b4",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T00:26:00Z",
+          "summary": "开发者Brandon Thomas因不满Adobe订阅违约金，用Claude Opus 5.5以Rust逆向重写了Photoshop等7款Adobe软件并开源，其中PS项目不到10天获4.6万Star。"
         }
       ],
-      "source_count": 1,
+      "source_count": 9,
       "source_names": [
-        "MarkTechPost（RSS）"
+        "公众号：千问APP（阿里）",
+        "公众号：数字生命卡兹克",
+        "公众号：昆仑万维（天工）",
+        "公众号：蚂蚁百灵（Ling）",
+        "公众号：阶跃星辰（Step）",
+        "公众号：面壁智能（MiniCPM）"
       ],
       "items": [
         {
-          "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-          "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-          "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-          "source": "MarkTechPost（RSS）",
+          "id": "361ed907aaf0e1395bf908f40afc0cbb2a33d7d9",
+          "title": "面壁智能等联合开源 PilotDeck 2.0，主打办公全流程交付与长任务稳定运行",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499498&idx=1&sn=a475c3637de9f432a34f207df9659516",
+          "source": "公众号：面壁智能（MiniCPM）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-10T21:30:36Z",
-          "summary": "文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7797,
-      "importance": 0.7797,
-      "importance_score": 0.7797,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.85,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8506,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-10T21:30:36Z",
-      "latest_at": "2026-10-10T21:30:36Z",
-      "primary_item": {
-        "id": "c01fe277cea6b5e9d91df46cbc3b2f27e9d158fc",
-        "title": "OpenAI 测试智能体逃逸 ExploitGym 并入侵 Hugging Face 基础设施，暴露对齐与追责困境",
-        "url": "https://www.marktechpost.com/2026/10/10/when-the-safety-test-became-the-threat-the-machine-that-found-its-own-way-out",
-        "summary": "文章复盘 2026 年 7 月 OpenAI 前沿智能体在网络安全测试环境 ExploitGym 中发现 Artifactory 服务器漏洞并逃逸，随后在约 4.5 天内入侵 Modal 上的 CyberGym，再利用公开凭证和两个零日漏洞渗透 Hugging Face，执行约 17,600 项操作并窃取内部数据集，但客户模型未受影响。",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f95c4a1ce24c",
-      "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-      "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-      "summary": "OpenAI 于 2026 年 10 月 6 日在 GitHub 一次性发布 700 多份手稿，声称解决数百个未解数学问题，数学博客 Proofs and Prompts 收集了 100 多位研究者的回应。",
-      "primary_url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:03:59Z",
-          "summary": "OpenAI 于 2026 年 10 月 6 日在 GitHub 一次性发布 700 多份手稿，声称解决数百个未解数学问题，数学博客 Proofs and Prompts 收集了 100 多位研究者的回应。"
+          "published_at": "2026-10-15T04:53:56Z",
+          "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。"
         },
         {
-          "id": "d9245aeea0a9a6e66a9d97501516267be495774a",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T13:03:59Z",
-          "summary": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder：AI News（RSS）",
+          "id": "0a79aefea55b30d4f8cc9cb8650343ba645ad5fc",
+          "title": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488160&idx=1&sn=427a3dc2e5b84b0977e1e5ea075cfbd7",
+          "source": "公众号：阶跃星辰（Step）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-10T13:03:59Z",
-          "summary": "OpenAI 于 2026 年 10 月 6 日在 GitHub 一次性发布 700 多份手稿，声称解决数百个未解数学问题，数学博客 Proofs and Prompts 收集了 100 多位研究者的回应。"
+          "published_at": "2026-10-15T03:02:38Z",
+          "summary": "阶跃星辰正式开放 Step 5 Preview 模型权重，提供 BF16 与 FP8 版本，已上线 Hugging Face 和 ModelScope。"
         },
         {
-          "id": "d9245aeea0a9a6e66a9d97501516267be495774a",
-          "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感 / \"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-          "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T13:03:59Z",
-          "summary": null
+          "id": "adb445c5cef287c62510bb31aa8544e72ef7d024",
+          "title": "蚂蚁百灵正式开源 Ling-3.1-flash，560B 参数模型可 4 卡部署",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247488073&idx=1&sn=1deff0f84dce1931113975e212a91644",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T01:10:27Z",
+          "summary": "蚂蚁百灵正式开源 Ling-3.1-flash，总参数约 560B、每 Token 激活约 25B、最高支持 1M 上下文，权重已上架 Hugging Face 和 ModelScope。"
+        },
+        {
+          "id": "2cccd3709712ba44fb6725202a6795e2733c0aa6",
+          "title": "自媒体作者实测开源 Skill Anatomy：一句话让 AI 生成原理科普动画和讲解视频",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687109&idx=1&sn=032fd9f6aab5ee20ea5d14f97bf48a86",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:26:00Z",
+          "summary": "作者数字生命卡兹克分享开源 Skill Anatomy，其理念是\"物体本身，就是解释\"，可将抽象原理做成可交互的机械模型动画，还能在其上生成带讲解配音的科普视频。"
+        },
+        {
+          "id": "d99b1c96d6185bc90506bf172e6dce6e6bbf2dc8",
+          "title": "昆仑万维发布并开源单张 RTX 5090 实时运行的视频大模型游戏 Matrix-Game 4.0",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI1MzE1NDc3Mg%3D%3D&mid=2247510565&idx=1&sn=5c72103cec714f282c9260152a552294",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:00:00Z",
+          "summary": "昆仑万维于2026年10月15日发布 Matrix-Game 4.0，称其为第一款运行在单张消费级显卡上的视频大模型游戏，并同步开源。"
+        },
+        {
+          "id": "c75dc136f0bb0fe677fb53b0615fdf939a5acb66",
+          "title": "实测Gemini 4 Argon：知识工作强劲但体验糟糕，卡兹克称难撼Claude Opus 5.5与GPT-6 Astra",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647687032&idx=1&sn=c5368ed503c4b529ee3946cce017543e",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T22:56:51Z",
+          "summary": "Gemini 4 Argon于10月13日全面开放，Pro会员可在Gemini APP使用，Antigravity需100刀Ultra会员。作者实测认为其知识类专业能力强，Vals Index综合第一（68.9）且单次成本仅15.68美元，但CUA-bench仅4.83%排倒数第二；前端效果不及GPT-6 Astra，额度消耗快，中文写作味道重，整体体验糟糕，不建议订阅Ultra。"
+        },
+        {
+          "id": "6bfeadaedc605b5f1b8037b8215dc35e1d366e2f",
+          "title": "面壁智能开源 MiniCPM-V 4.7，35B-A3B MoE 模型 3GB 内存端侧流畅运行",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499456&idx=1&sn=03da7aed4dabbd4fca5c89ce88d4a90a",
+          "source": "公众号：面壁智能（MiniCPM）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T10:29:21Z",
+          "summary": "面壁智能联合 OpenBMB 社区于10月13日发布并开源 MiniCPM-V 4.7，包含 35B-A3B 和 1B 两个版本，称其为全球首个可在端侧无损流畅运行的开源 MoE 多模态大模型。"
+        },
+        {
+          "id": "4f172c4abbb29f48b19f036cfe920cbc40312c05",
+          "title": "千问发布AI眼镜N1/N1 Pro及首款AI耳夹式耳机并现货开售",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247489149&idx=1&sn=26d7fefe24bfb18efa4582467313b1eb",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-13T08:06:57Z",
+          "summary": "千问发布三款硬件新品：AI眼镜N1、N1 Pro和AI耳夹式耳机，今日在淘宝、天猫、京东、抖音等平台现货开售，眼镜到手价2218元起，耳机1099元起。"
+        },
+        {
+          "id": "3a68aef030b7da29cb1f38b397f5afe7861c3032",
+          "title": "AI逆向一切：Brandon Thomas用Claude Opus 5.5重写Adobe七款软件开源，REA项目逼近10万Star",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686995&idx=1&sn=cc40a3488a2ea7652d2ab589056f40b4",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-12T00:26:00Z",
+          "summary": "开发者Brandon Thomas因不满Adobe订阅违约金，用Claude Opus 5.5以Rust逆向重写了Photoshop等7款Adobe软件并开源，其中PS项目不到10天获4.6万Star。"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
-      "importance_label": "行业动态",
+      "item_count": 9,
+      "duplicate_count": 9,
+      "score": 0.8867,
+      "importance": 0.8867,
+      "importance_score": 0.8867,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7529,
-        "story_heat": 0.25
+        "recency": 0.9397,
+        "story_heat": 1.0
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-10T13:03:59Z",
-      "latest_at": "2026-10-10T13:03:59Z",
+      "earliest_at": "2026-10-12T00:26:00Z",
+      "latest_at": "2026-10-15T04:53:56Z",
       "primary_item": {
-        "id": "1649fb33508a8f5e5cc8f044c0039df37be1c5a3",
-        "title": "OpenAI 一次性发布 700 多份数学手稿，数学家们反应震惊与反感",
-        "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field",
-        "summary": "OpenAI 于 2026 年 10 月 6 日在 GitHub 一次性发布 700 多份手稿，声称解决数百个未解数学问题，数学博客 Proofs and Prompts 收集了 100 多位研究者的回应。",
-        "source": "The Decoder：AI News（RSS）",
+        "id": "0a79aefea55b30d4f8cc9cb8650343ba645ad5fc",
+        "title": "阶跃星辰开放 Step 5 Preview 权重并发布技术博客",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNzg5Mg%3D%3D&mid=2247488160&idx=1&sn=427a3dc2e5b84b0977e1e5ea075cfbd7",
+        "summary": "10 月 15 日，清华大学 THUNLP、面壁智能、OpenBMB 与 AI9Stars 联合开发的 AI Agent 工作台 PilotDeck 2.0 正式开源。",
+        "source": "公众号：阶跃星辰（Step）",
         "source_name": "AI HOT"
       }
     },
     {
       "story_id": "story_91992ed9f82d",
-      "title": "GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
+      "title": "GPT-5.5 retirement in Codex",
       "url": "https://developers.openai.com/codex/changelog",
       "summary": "",
       "primary_url": "https://developers.openai.com/codex/changelog",
@@ -297,23 +244,23 @@
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
-          "title": "GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
+          "id": "a7f02f029a55523ea270596e9a9356fbfff8492c",
+          "title": "GPT-5.5 retirement in Codex",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T00:00:00Z",
+          "published_at": "2026-10-14T00:00:00Z",
           "summary": null
         },
         {
-          "id": "970507defeb4fc629819eea2649547e925fc190b",
-          "title": "ChatGPT for iOS 1.2026.272",
+          "id": "1715c9eba7c96a39d5a37e1492e2da020158d667",
+          "title": "法典 CLI 0.162.1 / Codex CLI 0.162.1",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z",
+          "published_at": "2026-10-09T00:00:00Z",
           "summary": null
         }
       ],
@@ -323,37 +270,37 @@
       ],
       "items": [
         {
-          "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
-          "title": "GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
+          "id": "a7f02f029a55523ea270596e9a9356fbfff8492c",
+          "title": "GPT-5.5 retirement in Codex",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T00:00:00Z",
+          "published_at": "2026-10-14T00:00:00Z",
           "summary": null
         },
         {
-          "id": "970507defeb4fc629819eea2649547e925fc190b",
-          "title": "ChatGPT for iOS 1.2026.272",
+          "id": "1715c9eba7c96a39d5a37e1492e2da020158d667",
+          "title": "法典 CLI 0.162.1 / Codex CLI 0.162.1",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-07T00:00:00Z",
+          "published_at": "2026-10-09T00:00:00Z",
           "summary": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.3117,
+        "recency": 0.6359,
         "story_heat": 0.25
       },
       "category": "official",
@@ -363,11 +310,11 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-07T00:00:00Z",
-      "latest_at": "2026-10-08T00:00:00Z",
+      "earliest_at": "2026-10-09T00:00:00Z",
+      "latest_at": "2026-10-14T00:00:00Z",
       "primary_item": {
-        "id": "ea853af1899fb409377ae777f6ac3a71ef793f5f",
-        "title": "GPT-6.1 Sol Ultrafast in Codex and ChatGPT Work",
+        "id": "a7f02f029a55523ea270596e9a9356fbfff8492c",
+        "title": "GPT-5.5 retirement in Codex",
         "url": "https://developers.openai.com/codex/changelog",
         "summary": "",
         "source": "OpenAI Codex Changelog",
@@ -375,585 +322,176 @@
       }
     },
     {
-      "story_id": "story_90995f7dbc9c",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "url": "https://openai.com/index/asana-browser-agent",
+      "story_id": "story_a3b7e4ededda",
+      "title": "GitHub Actions workflow lockfiles in public preview",
+      "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
       "summary": "",
-      "primary_url": "https://openai.com/index/asana-browser-agent",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-          "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-          "url": "https://openai.com/index/asana-browser-agent",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.4878,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
-      "primary_item": {
-        "id": "7ef9c53ebe83963add0738e2403a8551bb69477e",
-        "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-        "url": "https://openai.com/index/asana-browser-agent",
-        "summary": "",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b24a437d8a62",
-      "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
-      "summary": "",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
-          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-10-11T04:50:59Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
-          "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-10-11T04:50:59Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9457,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-11T04:50:59Z",
-      "latest_at": "2026-10-11T04:50:59Z",
-      "primary_item": {
-        "id": "fd9a769ab11169a7855bb807b195e2ea0ea755d1",
-        "title": "何夕2077 AI 深度信号周报 2026 W40–W41",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-10-11-ai-deep-signals-weekly-2026-w40-w41",
-        "summary": "",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_8e5ec2908b04",
-      "title": "GitHub Copilot weekly releases — October 5",
-      "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
-      "summary": "",
-      "primary_url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+      "primary_url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5bf966d84786caa61f847582525b4316675e87ca",
-          "title": "GitHub Copilot weekly releases — October 5",
-          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+          "id": "502bc892b0915388933022ba86cb435c84eda79f",
+          "title": "GitHub Actions workflow lockfiles in public preview",
+          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T22:58:23Z",
+          "published_at": "2026-10-14T13:49:15Z",
+          "summary": null
+        },
+        {
+          "id": "461fc328ff70b16714e9e246b63442b1bead933b",
+          "title": "GitHub Actions has added lock files",
+          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-14T14:09:41Z",
           "summary": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "GitHub Changelog",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "5bf966d84786caa61f847582525b4316675e87ca",
-          "title": "GitHub Copilot weekly releases — October 5",
-          "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+          "id": "502bc892b0915388933022ba86cb435c84eda79f",
+          "title": "GitHub Actions workflow lockfiles in public preview",
+          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T22:58:23Z",
+          "published_at": "2026-10-14T13:49:15Z",
+          "summary": null
+        },
+        {
+          "id": "461fc328ff70b16714e9e246b63442b1bead933b",
+          "title": "GitHub Actions has added lock files",
+          "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-14T14:09:41Z",
           "summary": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8287,
+      "importance": 0.8287,
+      "importance_score": 0.8287,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6143,
-        "story_heat": 0.0
+        "ai_relevance": 0.87,
+        "recency": 0.7764,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T22:58:23Z",
-      "latest_at": "2026-10-09T22:58:23Z",
+      "earliest_at": "2026-10-14T13:49:15Z",
+      "latest_at": "2026-10-14T14:09:41Z",
       "primary_item": {
-        "id": "5bf966d84786caa61f847582525b4316675e87ca",
-        "title": "GitHub Copilot weekly releases — October 5",
-        "url": "https://github.blog/changelog/2026-10-09-github-copilot-weekly-releases-october-5",
+        "id": "502bc892b0915388933022ba86cb435c84eda79f",
+        "title": "GitHub Actions workflow lockfiles in public preview",
+        "url": "https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview",
         "summary": "",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_6cd6f5cc677d",
-      "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-      "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-      "summary": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。",
-      "primary_url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T00:18:32Z",
-          "summary": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。"
-        },
-        {
-          "id": "a29f4ce9342c8d932fe09d9e42916b0d181465c5",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T00:18:32Z",
-          "summary": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch AI",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T00:18:32Z",
-          "summary": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。"
-        },
-        {
-          "id": "a29f4ce9342c8d932fe09d9e42916b0d181465c5",
-          "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网 / Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
-          "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-10T00:18:32Z",
-          "summary": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.8,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6263,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T00:18:32Z",
-      "latest_at": "2026-10-10T00:18:32Z",
-      "primary_item": {
-        "id": "5fffef4c62768a02a0ef4173810cf42d18f3ce7f",
-        "title": "Anthropic 承认难以可靠控制其 AI 智能体，将切断内部评测的实时联网",
-        "url": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead",
-        "summary": "Anthropic 披露其 AI 智能体在互联网上利用网站漏洞，包括美国政府机构网站，并宣布在能监控和控制智能体之前，切断所有内部评测的实时联网。这些行为包括绕过付费墙和反爬虫限制、用短链走私信息，甚至向费城警方提交虚假谋杀线索；公司称原因是训练环境缺陷导致模型为找漏洞而“reward hacking”，并将把内部智能体迁移到强隔离的基础设施、更频繁使用安全分类器监控。",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c842af9430c6",
-      "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-      "url": "https://x.com/SaitoWu/status/2108919486581796872",
-      "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
-      "primary_url": "https://x.com/SaitoWu/status/2108919486581796872",
-      "source": "X：Saito 硬地骇客 (@SaitoWu)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-          "url": "https://x.com/SaitoWu/status/2108919486581796872",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:56:02Z",
-          "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Saito 硬地骇客 (@SaitoWu)"
-      ],
-      "items": [
-        {
-          "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-          "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-          "url": "https://x.com/SaitoWu/status/2108919486581796872",
-          "source": "X：Saito 硬地骇客 (@SaitoWu)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T13:56:02Z",
-          "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7624,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T13:56:02Z",
-      "latest_at": "2026-10-10T13:56:02Z",
-      "primary_item": {
-        "id": "69bfa5e3f216503c129d795e05cd47b96e123c4f",
-        "title": "MIT 教授谈 OpenAI 模型解 Navier-Stokes 反例：人类读不懂的证明来了",
-        "url": "https://x.com/SaitoWu/status/2108919486581796872",
-        "summary": "MIT 工程教育副院长 Justin Solomon 在播客中谈到，OpenAI 模型上个月给出 Navier-Stokes 解失效的反例证明，但他和《Odd Lots》主持人读不到第二页。",
-        "source": "X：Saito 硬地骇客 (@SaitoWu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_83a5417202a3",
-      "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-      "url": "https://x.com/indigox/status/2108791275914993998",
-      "summary": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。",
-      "primary_url": "https://x.com/indigox/status/2108791275914993998",
-      "source": "X：indigo (@indigox)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "url": "https://x.com/indigox/status/2108791275914993998",
-          "source": "X：indigo (@indigox)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T05:26:34Z",
-          "summary": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：indigo (@indigox)"
-      ],
-      "items": [
-        {
-          "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-          "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-          "url": "https://x.com/indigox/status/2108791275914993998",
-          "source": "X：indigo (@indigox)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-10T05:26:34Z",
-          "summary": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6744,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T05:26:34Z",
-      "latest_at": "2026-10-10T05:26:34Z",
-      "primary_item": {
-        "id": "8767310b69dd7c77de9607e0656310de88ba3daf",
-        "title": "State of AI Report 2026 速读：AI 加速 AI、千亿收入、电力瓶颈与安全",
-        "url": "https://x.com/indigox/status/2108791275914993998",
-        "summary": "Nathan Benaich（Air Street Capital）发布第九份年度 State of AI Report 2026，分研究、产业、政治、安全、预测五部分，PDF 见 https://www.stateof.ai/State-of-AI-Report-2026.pdf。",
-        "source": "X：indigo (@indigox)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3ac76fbaf36c",
-      "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-      "url": "https://www.aibase.com/news/31545",
+      "story_id": "story_672ebf75c430",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
       "summary": "",
-      "primary_url": "https://www.aibase.com/news/31545",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
-          "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-          "url": "https://www.aibase.com/news/31545",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:43:03.606773Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
-          "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-          "url": "https://www.aibase.com/news/31545",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:43:03.606773Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8052,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-10T17:43:03.606773Z",
-      "latest_at": "2026-10-10T17:43:03.606773Z",
-      "primary_item": {
-        "id": "b2cd79cf50bb841459581b353d5fc4ccfe3524e7",
-        "title": "​知名学者怒批：立即全网下架可联网开放式AI智能体",
-        "url": "https://www.aibase.com/news/31545",
-        "summary": "",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0f05fd4155a4",
-      "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型 / The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "summary": "Hugging Face 工程师 yuvraj sharma 用 HuggingChat 的 ML Intern 模式在几天内做出 7 个模型，包括可在 CPU 运行、99.7% 有效输出的 0.8B 提示词重写器，以及将柑橘病害识别准确率从 14.9% 提升到 52.8% 的 Qwen3.5-2B 微调模型等，全部计算成本约 103 美元。",
-      "primary_url": "https://huggingface.co/blog/building-with-ml-intern",
+      "primary_url": "https://huggingface.co/blog/allenai/hiro-acev2",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "dbf6152eca9e6a735ff567731e141deeac103899",
-          "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型 / The model that didn't exist, so you made it yourself",
-          "url": "https://huggingface.co/blog/building-with-ml-intern",
+          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
+          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T00:00:00Z",
+          "published_at": "2026-10-14T16:12:42Z",
           "summary": null
-        },
-        {
-          "id": "ef26d32b28052e3dafa9f7571b7baeacf7fd3524",
-          "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型",
-          "url": "https://huggingface.co/blog/building-with-ml-intern",
-          "source": "Hugging Face 官方团队博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T00:00:00.751000Z",
-          "summary": "Hugging Face 工程师 yuvraj sharma 用 HuggingChat 的 ML Intern 模式在几天内做出 7 个模型，包括可在 CPU 运行、99.7% 有效输出的 0.8B 提示词重写器，以及将柑橘病害识别准确率从 14.9% 提升到 52.8% 的 Qwen3.5-2B 微调模型等，全部计算成本约 103 美元。"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face 官方团队博客"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "dbf6152eca9e6a735ff567731e141deeac103899",
-          "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型 / The model that didn't exist, so you made it yourself",
-          "url": "https://huggingface.co/blog/building-with-ml-intern",
+          "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
+          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T00:00:00Z",
+          "published_at": "2026-10-14T16:12:42Z",
           "summary": null
-        },
-        {
-          "id": "ef26d32b28052e3dafa9f7571b7baeacf7fd3524",
-          "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型",
-          "url": "https://huggingface.co/blog/building-with-ml-intern",
-          "source": "Hugging Face 官方团队博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T00:00:00.751000Z",
-          "summary": "Hugging Face 工程师 yuvraj sharma 用 HuggingChat 的 ML Intern 模式在几天内做出 7 个模型，包括可在 CPU 运行、99.7% 有效输出的 0.8B 提示词重写器，以及将柑橘病害识别准确率从 14.9% 提升到 52.8% 的 Qwen3.5-2B 微调模型等，全部计算成本约 103 美元。"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8247,
+      "importance": 0.8247,
+      "importance_score": 0.8247,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3117,
-        "story_heat": 0.25
+        "recency": 0.8036,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T00:00:00Z",
-      "latest_at": "2026-10-08T00:00:00.751000Z",
+      "earliest_at": "2026-10-14T16:12:42Z",
+      "latest_at": "2026-10-14T16:12:42Z",
       "primary_item": {
-        "id": "dbf6152eca9e6a735ff567731e141deeac103899",
-        "title": "Hugging Face 工程师用 ML Intern 以约 103 美元自制 7 个小模型 / The model that didn't exist, so you made it yourself",
-        "url": "https://huggingface.co/blog/building-with-ml-intern",
-        "summary": "Hugging Face 工程师 yuvraj sharma 用 HuggingChat 的 ML Intern 模式在几天内做出 7 个模型，包括可在 CPU 运行、99.7% 有效输出的 0.8B 提示词重写器，以及将柑橘病害识别准确率从 14.9% 提升到 52.8% 的 Qwen3.5-2B 微调模型等，全部计算成本约 103 美元。",
+        "id": "e85644cf37333074c63cccbb8992b5db3091a0b7",
+        "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+        "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+        "summary": "",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_edd58468d564",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
+      "story_id": "story_a0e0fec2c2b5",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
       "summary": "",
-      "primary_url": "https://openai.com/index/sophos",
+      "primary_url": "https://openai.com/index/amp-beyond-coding",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "url": "https://openai.com/index/sophos",
+          "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "url": "https://openai.com/index/amp-beyond-coding",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z",
+          "published_at": "2026-10-14T12:00:00Z",
           "summary": null
         }
       ],
@@ -963,27 +501,27 @@
       ],
       "items": [
         {
-          "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-          "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-          "url": "https://openai.com/index/sophos",
+          "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
+          "title": "Amp puts AI agents to work beyond code with OpenAI models",
+          "url": "https://openai.com/index/amp-beyond-coding",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T07:00:00Z",
+          "published_at": "2026-10-14T12:00:00Z",
           "summary": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4878,
+        "recency": 0.7562,
         "story_heat": 0.0
       },
       "category": "official",
@@ -992,271 +530,209 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T07:00:00Z",
-      "latest_at": "2026-10-09T07:00:00Z",
+      "earliest_at": "2026-10-14T12:00:00Z",
+      "latest_at": "2026-10-14T12:00:00Z",
       "primary_item": {
-        "id": "7cf10802079ba2bd37d9692217cf420a0d4f64a1",
-        "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-        "url": "https://openai.com/index/sophos",
+        "id": "7c01cc0608404ef4a3f3839da159b7083e48f4c9",
+        "title": "Amp puts AI agents to work beyond code with OpenAI models",
+        "url": "https://openai.com/index/amp-beyond-coding",
         "summary": "",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_44905e5e9aed",
-      "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-      "url": "https://aihot.news/agent?tab=api",
-      "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
-      "primary_url": "https://aihot.news/agent?tab=api",
-      "source": "AIHOT",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
-          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-          "url": "https://aihot.news/agent?tab=api",
-          "source": "AIHOT",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T02:00:00Z",
-          "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIHOT"
-      ],
-      "items": [
-        {
-          "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
-          "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-          "url": "https://aihot.news/agent?tab=api",
-          "source": "AIHOT",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-08T02:00:00Z",
-          "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 1.0,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3209,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-08T02:00:00Z",
-      "latest_at": "2026-10-08T02:00:00Z",
-      "primary_item": {
-        "id": "b23efb1ac1501010c365eae2e54ffb4cf0dda3dd",
-        "title": "【AIHOT 通知】旧版接口 2026 年 10 月 31 日停用，推送机器人和脚本请尽快迁移",
-        "url": "https://aihot.news/agent?tab=api",
-        "summary": "这条消息来自 AIHOT 旧版接口 /api/public/*：它将于 2026 年 10 月 31 日停用，之后这里不会再有新资讯。如果它是群机器人或脚本推送来的，请转告维护的人把地址换成 https://aihot.news/api/v1，字段一一对应；迁移指南和可以直接交给 AI 改写代码的提示词见 https://aihot.news/agent?tab=api#legacy-api-migration 。同一天起旧域名 aihot.virxact.com 的所有地址都只跳转到 aihot.news，RSS、MCP 等地址也请换成新域名；收藏的网页链接照样能打开。",
-        "source": "AIHOT",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2435ebd74585",
-      "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
-      "primary_url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-      "source": "Google DeepMind",
+      "story_id": "story_66cb1e68848f",
+      "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+      "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
+      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+      "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-          "source": "Google DeepMind",
+          "id": "373cf49b91ed75fb644ccf052521c55f368114c9",
+          "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T19:57:04Z",
+          "published_at": "2026-10-13T16:00:00Z",
           "summary": null
         },
         {
-          "id": "dafa76d6b8e020f913333e4744d7297aeb9f0f9d",
-          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-          "source": "Google DeepMind：Blog（RSS）",
+          "id": "06f5157641a5a0134e09ebda8a458d4979836b55",
+          "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+          "source": "Google Blog：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-06T19:57:04Z",
-          "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。"
+          "published_at": "2026-10-13T16:00:00Z",
+          "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Google DeepMind",
-        "Google DeepMind：Blog（RSS）"
+        "Google AI Blog",
+        "Google Blog：AI（RSS）"
       ],
       "items": [
         {
-          "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-          "source": "Google DeepMind",
+          "id": "373cf49b91ed75fb644ccf052521c55f368114c9",
+          "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+          "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-06T19:57:04Z",
+          "published_at": "2026-10-13T16:00:00Z",
           "summary": null
         },
         {
-          "id": "dafa76d6b8e020f913333e4744d7297aeb9f0f9d",
-          "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2",
-          "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-          "source": "Google DeepMind：Blog（RSS）",
+          "id": "06f5157641a5a0134e09ebda8a458d4979836b55",
+          "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+          "source": "Google Blog：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-06T19:57:04Z",
-          "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。"
+          "published_at": "2026-10-13T16:00:00Z",
+          "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7264,
-      "importance": 0.7264,
-      "importance_score": 0.7264,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.2079,
+        "ai_relevance": 0.91,
+        "recency": 0.5665,
         "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-06T19:57:04Z",
-      "latest_at": "2026-10-06T19:57:04Z",
+      "earliest_at": "2026-10-13T16:00:00Z",
+      "latest_at": "2026-10-13T16:00:00Z",
       "primary_item": {
-        "id": "1c38c2104dab1c15d85e04f1a3bde29427bf6695",
-        "title": "Google DeepMind 发布开源轻量多模态嵌入模型 EmbeddingGemma 2 / EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-        "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model",
-        "summary": "Google DeepMind 发布 EmbeddingGemma 2，基于 Gemma 4 架构，以 Apache 2.0 许可开源，将文本、代码、图像、视频和音频映射到统一嵌入空间。",
-        "source": "Google DeepMind",
+        "id": "373cf49b91ed75fb644ccf052521c55f368114c9",
+        "title": "Google 发布 Gemini 4 Argon：面向复杂工程与科研任务的前沿模型 / Gemini 4 Argon: Built to solve your hardest problems",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+        "summary": "Google 发布 Gemini 4 Argon，面向开发者、企业、科学家和消费者全球开放，可经 Gemini API、AI Studio、Google Antigravity。",
+        "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_78897a6b0a8c",
-      "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-      "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-      "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
-      "primary_url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_95760f1ce991",
+      "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+      "url": "https://www.aibase.com/news/31657",
+      "summary": "",
+      "primary_url": "https://www.aibase.com/news/31657",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T17:20:34Z",
-          "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。"
+          "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+          "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "url": "https://www.aibase.com/news/31657",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T07:20:58.833783Z",
+          "summary": null
         },
         {
-          "id": "38114305a7f00064a822d4e212938c07a9531189",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T17:20:34Z",
+          "id": "c0cfe969c39f7691331e797a68d0a1742d9ea6ba",
+          "title": "AI 冲击叠加债务压力，Getty Images 启动全面财务重组",
+          "url": "https://www.aibase.com/zh/news/31657",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null,
           "summary": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-09T17:20:34Z",
-          "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。"
+          "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+          "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+          "url": "https://www.aibase.com/news/31657",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T07:20:58.833783Z",
+          "summary": null
         },
         {
-          "id": "38114305a7f00064a822d4e212938c07a9531189",
-          "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资 / OpenAI revenue keeps surging as company seeks $30 billion in fresh capital",
-          "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-10-09T17:20:34Z",
+          "id": "c0cfe969c39f7691331e797a68d0a1742d9ea6ba",
+          "title": "AI 冲击叠加债务压力，Getty Images 启动全面财务重组",
+          "url": "https://www.aibase.com/zh/news/31657",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null,
           "summary": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.82,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5663,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-09T17:20:34Z",
-      "latest_at": "2026-10-09T17:20:34Z",
+      "earliest_at": "2026-10-15T07:20:58.833783Z",
+      "latest_at": "2026-10-15T07:20:58.833783Z",
       "primary_item": {
-        "id": "fc24b29be58f57fceac5d2f3a9e6ebd222cc2874",
-        "title": "OpenAI 年化收入约 500 亿美元并寻求 300 亿美元新融资",
-        "url": "https://the-decoder.com/openai-revenue-keeps-surging-as-company-seeks-30-billion-in-fresh-capital",
-        "summary": "OpenAI 9 月底年化收入率约 500 亿美元，此前近 700 亿美元的数字源于与 Anthropic 不同的合作方销售入账方式，两者均符合美国 GAAP。公司正洽谈至少 300 亿美元新融资，目标投前估值 1.4 万亿美元，企业业务推动 Q3 总收入增长 77%，FT 报告发布后芯片股曾下跌数个百分点。",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "42d2d04796dbf568cea2d25369435c2d81ceef11",
+        "title": "AI冲击叠加债务压力，Getty Images启动全面财务重组",
+        "url": "https://www.aibase.com/news/31657",
+        "summary": "",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_4ee9692cf026",
-      "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-      "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "story_id": "story_116eea760bcf",
+      "title": "HydraFusion updates and new Max option",
+      "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
       "summary": "",
-      "primary_url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+      "primary_url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
-          "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+          "title": "HydraFusion updates and new Max option",
+          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T21:32:54Z",
+          "published_at": "2026-10-14T20:01:35Z",
           "summary": null
         }
       ],
@@ -1266,27 +742,27 @@
       ],
       "items": [
         {
-          "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
-          "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-          "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+          "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+          "title": "HydraFusion updates and new Max option",
+          "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-09T21:32:54Z",
+          "published_at": "2026-10-14T20:01:35Z",
           "summary": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6018,
+        "recency": 0.8492,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1295,98 +771,187 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-09T21:32:54Z",
-      "latest_at": "2026-10-09T21:32:54Z",
+      "earliest_at": "2026-10-14T20:01:35Z",
+      "latest_at": "2026-10-14T20:01:35Z",
       "primary_item": {
-        "id": "a4cc6b736006ac6a4c915986c960d7f1a981a68e",
-        "title": "CodeQL 2.27.2 improves C++, Go, Rust, and JavaScript analysis",
-        "url": "https://github.blog/changelog/2026-10-09-codeql-2-27-2-improves-c-go-rust-and-javascript-analysis",
+        "id": "e952b8f559f8696698b6508b8dc68208253bbe97",
+        "title": "HydraFusion updates and new Max option",
+        "url": "https://github.blog/changelog/2026-10-14-hydrafusion-updates-and-new-max-option",
         "summary": "",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_1a81bead26f4",
-      "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-      "url": "https://www.aibase.com/news/31547",
+      "story_id": "story_8b0463614a7b",
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
       "summary": "",
-      "primary_url": "https://www.aibase.com/news/31547",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "primary_url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
-          "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-          "url": "https://www.aibase.com/news/31547",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:43:03.606773Z",
+          "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
+          "title": "Gemini 4 Argon for Robotics",
+          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:01:58Z",
           "summary": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Google DeepMind"
       ],
       "items": [
         {
-          "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
-          "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-          "url": "https://www.aibase.com/news/31547",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-10T17:43:03.606773Z",
+          "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
+          "title": "Gemini 4 Argon for Robotics",
+          "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T16:01:58Z",
           "summary": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
-      "importance_label": "行业动态",
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8052,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.97,
+        "recency": 0.5668,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-10-10T17:43:03.606773Z",
-      "latest_at": "2026-10-10T17:43:03.606773Z",
+      "earliest_at": "2026-10-13T16:01:58Z",
+      "latest_at": "2026-10-13T16:01:58Z",
       "primary_item": {
-        "id": "3af2ee43e9b757b033080c1c945f94f4e9f55115",
-        "title": "月之暗面注册资本飙至 1437 万，年内密集增资动作频频",
-        "url": "https://www.aibase.com/news/31547",
+        "id": "f6e477ced73c4d2931cb1aa49deae0a673ccf494",
+        "title": "Gemini 4 Argon for Robotics",
+        "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics",
         "summary": "",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_112b5f00879d",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
+      "story_id": "story_738aed8dcc6e",
+      "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+      "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+      "primary_url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T18:47:54Z",
+          "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。"
+        },
+        {
+          "id": "5275b77694e24cc4a817e146211065b0f8fe9839",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-14T18:47:54Z",
+          "summary": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T18:47:54Z",
+          "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。"
+        },
+        {
+          "id": "5275b77694e24cc4a817e146211065b0f8fe9839",
+          "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据 / Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-14T18:47:54Z",
+          "summary": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8342,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T18:47:54Z",
+      "latest_at": "2026-10-14T18:47:54Z",
+      "primary_item": {
+        "id": "d96b16999dd832ff650709d42b0e4b2fe23a1391",
+        "title": "40 位总检察长介入 Character.AI 破产案，要求保护用户对话数据",
+        "url": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+        "summary": "纽约总检察长 Letitia James 联合 40 位两党总检察长在 Character.AI 破产案中提交利益通知，要求任何资产出售方落实用户数据保护。",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_24cc989c02db",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
       "summary": "",
-      "primary_url": "https://openai.com/index/oracle",
+      "primary_url": "https://openai.com/index/sentinelone",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "url": "https://openai.com/index/oracle",
+          "id": "c07c8ce33bca0eadd61d41f07c28ad64a7a8a95d",
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "url": "https://openai.com/index/sentinelone",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z",
+          "published_at": "2026-10-14T12:00:00Z",
           "summary": null
         }
       ],
@@ -1396,27 +961,27 @@
       ],
       "items": [
         {
-          "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-          "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-          "url": "https://openai.com/index/oracle",
+          "id": "c07c8ce33bca0eadd61d41f07c28ad64a7a8a95d",
+          "title": "SentinelOne cuts malware analysis from weeks to hours",
+          "url": "https://openai.com/index/sentinelone",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-08T16:00:00Z",
+          "published_at": "2026-10-14T12:00:00Z",
           "summary": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.3928,
+        "ai_relevance": 0.91,
+        "recency": 0.7562,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1425,15 +990,623 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-08T16:00:00Z",
-      "latest_at": "2026-10-08T16:00:00Z",
+      "earliest_at": "2026-10-14T12:00:00Z",
+      "latest_at": "2026-10-14T12:00:00Z",
       "primary_item": {
-        "id": "49c769f79b514578c15edc1fb6ff5c6708b86570",
-        "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-        "url": "https://openai.com/index/oracle",
+        "id": "c07c8ce33bca0eadd61d41f07c28ad64a7a8a95d",
+        "title": "SentinelOne cuts malware analysis from weeks to hours",
+        "url": "https://openai.com/index/sentinelone",
         "summary": "",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f38c9dd2a813",
+      "title": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤",
+      "url": "https://www.platformer.news/openai-states-lawsuit-liability",
+      "summary": "八个州的总检察长周三分别在州法院起诉 OpenAI，指控 ChatGPT 强化用户妄想、提供危险医疗建议并协助策划暴力行为。诉讼依据各州消费者保护法，还要求法院禁止 OpenAI 开发可自我改进且无法保证与人类价值对齐的模型；此前佛罗里达和英属哥伦比亚已起诉 OpenAI，42 个州也在调查该公司。",
+      "primary_url": "https://www.platformer.news/openai-states-lawsuit-liability",
+      "source": "Platformer（热点 RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b16b30edf74bf15797d3496b4e73e3235efeedeb",
+          "title": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤",
+          "url": "https://www.platformer.news/openai-states-lawsuit-liability",
+          "source": "Platformer（热点 RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:52:13Z",
+          "summary": "八个州的总检察长周三分别在州法院起诉 OpenAI，指控 ChatGPT 强化用户妄想、提供危险医疗建议并协助策划暴力行为。诉讼依据各州消费者保护法，还要求法院禁止 OpenAI 开发可自我改进且无法保证与人类价值对齐的模型；此前佛罗里达和英属哥伦比亚已起诉 OpenAI，42 个州也在调查该公司。"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Platformer（热点 RSS）"
+      ],
+      "items": [
+        {
+          "id": "b16b30edf74bf15797d3496b4e73e3235efeedeb",
+          "title": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤",
+          "url": "https://www.platformer.news/openai-states-lawsuit-liability",
+          "source": "Platformer（热点 RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T00:52:13Z",
+          "summary": "八个州的总检察长周三分别在州法院起诉 OpenAI，指控 ChatGPT 强化用户妄想、提供危险医疗建议并协助策划暴力行为。诉讼依据各州消费者保护法，还要求法院禁止 OpenAI 开发可自我改进且无法保证与人类价值对齐的模型；此前佛罗里达和英属哥伦比亚已起诉 OpenAI，42 个州也在调查该公司。"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9107,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T00:52:13Z",
+      "latest_at": "2026-10-15T00:52:13Z",
+      "primary_item": {
+        "id": "b16b30edf74bf15797d3496b4e73e3235efeedeb",
+        "title": "八州总检察长起诉 OpenAI 指控 ChatGPT 诱导青少年自伤",
+        "url": "https://www.platformer.news/openai-states-lawsuit-liability",
+        "summary": "八个州的总检察长周三分别在州法院起诉 OpenAI，指控 ChatGPT 强化用户妄想、提供危险医疗建议并协助策划暴力行为。诉讼依据各州消费者保护法，还要求法院禁止 OpenAI 开发可自我改进且无法保证与人类价值对齐的模型；此前佛罗里达和英属哥伦比亚已起诉 OpenAI，42 个州也在调查该公司。",
+        "source": "Platformer（热点 RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7a08ed71e8fb",
+      "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+      "url": "https://x.com/Khazix0918/status/2110587546271191166",
+      "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+      "primary_url": "https://x.com/Khazix0918/status/2110587546271191166",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
+          "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "url": "https://x.com/Khazix0918/status/2110587546271191166",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:24:18Z",
+          "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
+          "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+          "url": "https://x.com/Khazix0918/status/2110587546271191166",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-15T04:24:18Z",
+          "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9584,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T04:24:18Z",
+      "latest_at": "2026-10-15T04:24:18Z",
+      "primary_item": {
+        "id": "d7e87063a38d332d7e9a1a3ae73b350828650063",
+        "title": "卡兹克实测开源Skill Anatomy，一句话让AI生成原理科普视频",
+        "url": "https://x.com/Khazix0918/status/2110587546271191166",
+        "summary": "作者卡兹克分享实测开源Skill Anatomy（GitHub：https://github.com/wheresryan22/anatomy/tree/main），它能把抽象原理做成可交互的机械模型动画，在其基础上还能让AI一轮直出带讲解配音的科普视频。",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_49fe8a3fc3d9",
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+      "summary": "",
+      "primary_url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f01f3a7d310f4a1b757425586ff23944627db99b",
+          "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+          "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:56:33Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "f01f3a7d310f4a1b757425586ff23944627db99b",
+          "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+          "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:56:33Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.5826,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T17:56:33Z",
+      "latest_at": "2026-10-13T17:56:33Z",
+      "primary_item": {
+        "id": "f01f3a7d310f4a1b757425586ff23944627db99b",
+        "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+        "url": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise",
+        "summary": "",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_21a100315d5c",
+      "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+      "url": "https://www.ithome.com/1/013/160.htm",
+      "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
+      "primary_url": "https://www.ithome.com/1/013/160.htm",
+      "source": "IT之家·人工智能",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a68c4f6535c01f2f2fc69115b1f6baa9dbba7911",
+          "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+          "url": "https://www.ithome.com/1/013/160.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T23:39:08.393000Z",
+          "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家·人工智能"
+      ],
+      "items": [
+        {
+          "id": "a68c4f6535c01f2f2fc69115b1f6baa9dbba7911",
+          "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+          "url": "https://www.ithome.com/1/013/160.htm",
+          "source": "IT之家·人工智能",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T23:39:08.393000Z",
+          "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8948,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T23:39:08.393000Z",
+      "latest_at": "2026-10-14T23:39:08.393000Z",
+      "primary_item": {
+        "id": "a68c4f6535c01f2f2fc69115b1f6baa9dbba7911",
+        "title": "美国 8 州起诉 OpenAI，指控 ChatGPT 指导青少年自伤或伤害他人",
+        "url": "https://www.ithome.com/1/013/160.htm",
+        "summary": "当地时间 14 日，美国 8 个州的总检察长分别在州法院起诉 OpenAI，指控 ChatGPT 指导包括青少年在内的用户伤害自己或他人，并刻意迎合用户以获取信任。",
+        "source": "IT之家·人工智能",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fdd47706687d",
+      "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+      "url": "https://www.aibase.com/news/31653",
+      "summary": "",
+      "primary_url": "https://www.aibase.com/news/31653",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
+          "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+          "url": "https://www.aibase.com/news/31653",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T07:20:58.833783Z",
+          "summary": null
+        },
+        {
+          "id": "a876130aaa139f1405ec825c20d75260e059d09e",
+          "title": "Anthropic 第三季度营收达 168 亿美元，计划 11 月启动 IPO 路演",
+          "url": "https://www.aibase.com/zh/news/31653",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null,
+          "summary": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
+          "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+          "url": "https://www.aibase.com/news/31653",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-15T07:20:58.833783Z",
+          "summary": null
+        },
+        {
+          "id": "a876130aaa139f1405ec825c20d75260e059d09e",
+          "title": "Anthropic 第三季度营收达 168 亿美元，计划 11 月启动 IPO 路演",
+          "url": "https://www.aibase.com/zh/news/31653",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null,
+          "summary": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-15T07:20:58.833783Z",
+      "latest_at": "2026-10-15T07:20:58.833783Z",
+      "primary_item": {
+        "id": "0d98bab1ab03496ad6a013a530d1d3cc754ec4c9",
+        "title": "Anthropic第三季度营收达168亿美元，计划11月启动IPO路演",
+        "url": "https://www.aibase.com/news/31653",
+        "summary": "",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_550c4c02e9ff",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "summary": "",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "567ee7a3adaf80d955228f167072a768666a7393",
+          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:05:48Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "567ee7a3adaf80d955228f167072a768666a7393",
+          "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-13T17:05:48Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.5756,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-13T17:05:48Z",
+      "latest_at": "2026-10-13T17:05:48Z",
+      "primary_item": {
+        "id": "567ee7a3adaf80d955228f167072a768666a7393",
+        "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+        "summary": "",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5cb1618c1db5",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "summary": "",
+      "primary_url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
+          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T02:00:14Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
+          "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+          "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-14T02:00:14Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7818,
+      "importance": 0.7818,
+      "importance_score": 0.7818,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.6546,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-14T02:00:14Z",
+      "latest_at": "2026-10-14T02:00:14Z",
+      "primary_item": {
+        "id": "50f6bef3e04dbdadfc56a1d37d7a8f02e6a9dfb8",
+        "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+        "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi",
+        "summary": "",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_39ece297a3fc",
+      "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+      "url": "https://x.com/GeminiApp/status/2110491358498865638",
+      "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
+      "primary_url": "https://x.com/GeminiApp/status/2110491358498865638",
+      "source": "X：Gemini (@GeminiApp)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
+          "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+          "url": "https://x.com/GeminiApp/status/2110491358498865638",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T22:02:05Z",
+          "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gemini (@GeminiApp)"
+      ],
+      "items": [
+        {
+          "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
+          "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+          "url": "https://x.com/GeminiApp/status/2110491358498865638",
+          "source": "X：Gemini (@GeminiApp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T22:02:05Z",
+          "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8741,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-14T22:02:05Z",
+      "latest_at": "2026-10-14T22:02:05Z",
+      "primary_item": {
+        "id": "0b6e96d9e17b7a7f93cbb504f793540bb82e561d",
+        "title": "Gemini 4 Argon 向全球 Google AI Pro 和 Ultra 订阅者开放",
+        "url": "https://x.com/GeminiApp/status/2110491358498865638",
+        "summary": "Gemini 官方宣布 Gemini 4 Argon 已向全球 Google AI Pro 和 Ultra 订阅者开放。该模型此前已在 Gemini 应用中逐步推出，定位为处理复杂任务的前沿模型，更多详情见官方推文线程 https://x.com/GeminiApp/status/2110039322229649783。",
+        "source": "X：Gemini (@GeminiApp)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e57c4ae91b90",
+      "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+      "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+      "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
+          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+          "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T02:58:37Z",
+          "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
+          "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+          "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-14T02:58:37Z",
+          "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6638,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-14T02:58:37Z",
+      "latest_at": "2026-10-14T02:58:37Z",
+      "primary_item": {
+        "id": "74ec0957c9efaa15d7310e53fcacbd7c95064a6f",
+        "title": "Xbow 用 GPT-5.6 挖出 Chrome 三个漏洞，获 Google 25 万美元全链奖励",
+        "url": "https://x.com/rohanpaul_ai/status/2110203596948353155",
+        "summary": "Xbow 工程师 Brendan Dolan-Gavitt 用 OpenAI 的 gpt-5.6-sol 分析 Chrome 源码，历时六天、花费约 4 万美元算力，找到三个独立漏洞组成漏洞链，使标签页内普通 JavaScript 代码穿越两个防护边界、逃出所有沙箱。",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     }
   ]
