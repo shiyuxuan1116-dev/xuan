@@ -1,382 +1,11 @@
 {
-  "generated_at": "2026-11-09T09:39:55.074500Z",
+  "generated_at": "2026-11-12T09:43:18.080439Z",
   "window_hours": 168,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_7a875051dfb6",
-      "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-      "url": "https://www.aibase.com/news/32184",
-      "summary": "",
-      "primary_url": "https://www.aibase.com/news/32184",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-          "url": "https://www.aibase.com/news/32184",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": null
-        },
-        {
-          "id": "65f114b48774795e5445b5c1bad23bdb5a7eff37",
-          "title": "千问办公 2.0 发布：定位 Team Agent，协作、自动任务、人机共创三线升级",
-          "url": "https://www.aibase.com/zh/news/32184",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null,
-          "summary": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-          "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-          "url": "https://www.aibase.com/news/32184",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": null
-        },
-        {
-          "id": "65f114b48774795e5445b5c1bad23bdb5a7eff37",
-          "title": "千问办公 2.0 发布：定位 Team Agent，协作、自动任务、人机共创三线升级",
-          "url": "https://www.aibase.com/zh/news/32184",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null,
-          "summary": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T09:39:55.074500Z",
-      "latest_at": "2026-11-09T09:39:55.074500Z",
-      "primary_item": {
-        "id": "ce073b21d9f36a3fb06e9c268114287fc958bad9",
-        "title": "千问办公2.0发布:定位Team Agent，协作、自动任务、人机共创三线升级",
-        "url": "https://www.aibase.com/news/32184",
-        "summary": "",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c49bc4d4f01a",
-      "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-      "url": "https://www.aibase.com/news/32180",
-      "summary": "",
-      "primary_url": "https://www.aibase.com/news/32180",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
-          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "url": "https://www.aibase.com/news/32180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": null
-        },
-        {
-          "id": "e1bc5c88c9100d1bcccd945712e4d86980e07fd4",
-          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "url": "https://www.aibase.com/zh/news/32180",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null,
-          "summary": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
-          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "url": "https://www.aibase.com/news/32180",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": null
-        },
-        {
-          "id": "e1bc5c88c9100d1bcccd945712e4d86980e07fd4",
-          "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-          "url": "https://www.aibase.com/zh/news/32180",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null,
-          "summary": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-09T09:39:55.074500Z",
-      "latest_at": "2026-11-09T09:39:55.074500Z",
-      "primary_item": {
-        "id": "0964a3f8f0de8510498713d41cb2f356774b8051",
-        "title": "实验室里的独角兽要出 App 了：Sakana AI 转向消费端",
-        "url": "https://www.aibase.com/news/32180",
-        "summary": "",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_be1ba71e55b7",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "summary": "",
-      "primary_url": "https://huggingface.co/blog/allenai/toyblocks",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a100fcc3e909a1dcbb72bdee0996e7bbccfdad8d",
-          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-          "url": "https://huggingface.co/blog/allenai/toyblocks",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T14:00:48Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "a100fcc3e909a1dcbb72bdee0996e7bbccfdad8d",
-          "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-          "url": "https://huggingface.co/blog/allenai/toyblocks",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T14:00:48Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.3765,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-06T14:00:48Z",
-      "latest_at": "2026-11-06T14:00:48Z",
-      "primary_item": {
-        "id": "a100fcc3e909a1dcbb72bdee0996e7bbccfdad8d",
-        "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-        "url": "https://huggingface.co/blog/allenai/toyblocks",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d28d7745dd02",
-      "title": "Copilot code review: API management and review overview updates",
-      "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-      "summary": "",
-      "primary_url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e1e7e8357f58d807f61c1cd8c07e904d4a3d4f2b",
-          "title": "Copilot code review: API management and review overview updates",
-          "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-07T00:27:19Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "e1e7e8357f58d807f61c1cd8c07e904d4a3d4f2b",
-          "title": "Copilot code review: API management and review overview updates",
-          "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-07T00:27:19Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4377,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-07T00:27:19Z",
-      "latest_at": "2026-11-07T00:27:19Z",
-      "primary_item": {
-        "id": "e1e7e8357f58d807f61c1cd8c07e904d4a3d4f2b",
-        "title": "Copilot code review: API management and review overview updates",
-        "url": "https://github.blog/changelog/2026-11-06-copilot-code-review-api-management-and-review-overview-updates",
-        "summary": "",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5cecc12e376b",
-      "title": "Beyond code generation: A developer’s guide to agentic engineering",
-      "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
-      "summary": "",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "944ae2d1d51482ecd077a4290415714a03b50c20",
-          "title": "Beyond code generation: A developer’s guide to agentic engineering",
-          "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T22:15:59Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "944ae2d1d51482ecd077a4290415714a03b50c20",
-          "title": "Beyond code generation: A developer’s guide to agentic engineering",
-          "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T22:15:59Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7463,
-      "importance": 0.7463,
-      "importance_score": 0.7463,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.4241,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T22:15:59Z",
-      "latest_at": "2026-11-06T22:15:59Z",
-      "primary_item": {
-        "id": "944ae2d1d51482ecd077a4290415714a03b50c20",
-        "title": "Beyond code generation: A developer’s guide to agentic engineering",
-        "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering",
-        "summary": "",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.167.0 / Codex CLI 0.167.0",
+      "title": "Codex CLI 0.167.2",
       "url": "https://developers.openai.com/codex/changelog",
       "summary": "",
       "primary_url": "https://developers.openai.com/codex/changelog",
@@ -384,21 +13,25 @@
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "88677f33f1069dded4b9389443a6b9d0786a0f3b",
-          "title": "法典 CLI 0.167.0 / Codex CLI 0.167.0",
+          "id": "7d9ca2900d69a2b769742642ccd22ec472f351ab",
+          "title": "Codex CLI 0.167.2",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z",
+          "published_at": "2026-11-11T00:00:00Z",
           "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
+        },
+        {
+          "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
+          "title": "Codex CLI 0.167.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z",
+          "summary": null
+        },
         {
           "id": "88677f33f1069dded4b9389443a6b9d0786a0f3b",
           "title": "法典 CLI 0.167.0 / Codex CLI 0.167.0",
@@ -410,29 +43,67 @@
           "summary": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
+      "source_count": 3,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "7d9ca2900d69a2b769742642ccd22ec472f351ab",
+          "title": "Codex CLI 0.167.2",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:00:00Z",
+          "summary": null
+        },
+        {
+          "id": "ab4d5c6464b6becfae3637128ca62c111bcf5b6d",
+          "title": "Codex CLI 0.167.1",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T00:00:00Z",
+          "summary": null
+        },
+        {
+          "id": "88677f33f1069dded4b9389443a6b9d0786a0f3b",
+          "title": "法典 CLI 0.167.0 / Codex CLI 0.167.0",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-06T00:00:00Z",
+          "summary": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8466,
+      "importance": 0.8466,
+      "importance_score": 0.8466,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.3075,
-        "story_heat": 0.0
+        "recency": 0.6145,
+        "story_heat": 0.5
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
       "earliest_at": "2026-11-06T00:00:00Z",
-      "latest_at": "2026-11-06T00:00:00Z",
+      "latest_at": "2026-11-11T00:00:00Z",
       "primary_item": {
-        "id": "88677f33f1069dded4b9389443a6b9d0786a0f3b",
-        "title": "法典 CLI 0.167.0 / Codex CLI 0.167.0",
+        "id": "7d9ca2900d69a2b769742642ccd22ec472f351ab",
+        "title": "Codex CLI 0.167.2",
         "url": "https://developers.openai.com/codex/changelog",
         "summary": "",
         "source": "OpenAI Codex Changelog",
@@ -440,22 +111,110 @@
       }
     },
     {
-      "story_id": "story_bc8f9eac1966",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
+      "story_id": "story_cce714811b51",
+      "title": "Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
       "summary": "",
-      "primary_url": "https://openai.com/index/partnering-with-hacktron",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d34fdd0eb814c13951424ba430c3a8ab0b3f570c",
+          "title": "Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T18:00:00Z",
+          "summary": null
+        },
+        {
+          "id": "00c31ea82fe2b6c039ea7b0b1dec1d75714104e5",
+          "title": "双子座决策 API / Gemini Decisions API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+          "source": "blog.google",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T21:32:55.550000Z",
+          "summary": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Google AI Blog",
+        "blog.google"
+      ],
+      "items": [
+        {
+          "id": "d34fdd0eb814c13951424ba430c3a8ab0b3f570c",
+          "title": "Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T18:00:00Z",
+          "summary": null
+        },
+        {
+          "id": "00c31ea82fe2b6c039ea7b0b1dec1d75714104e5",
+          "title": "双子座决策 API / Gemini Decisions API",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+          "source": "blog.google",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-11T21:32:55.550000Z",
+          "summary": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7969,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T18:00:00Z",
+      "latest_at": "2026-11-11T21:32:55.550000Z",
+      "primary_item": {
+        "id": "d34fdd0eb814c13951424ba430c3a8ab0b3f570c",
+        "title": "Gemini Decisions API：快速、经过校准的多模式决策 / Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f28f90d2895a",
+      "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "summary": "",
+      "primary_url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "url": "https://openai.com/index/partnering-with-hacktron",
+          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-06T08:00:00Z",
+          "published_at": "2026-11-12T00:00:00Z",
           "summary": null
         }
       ],
@@ -465,68 +224,267 @@
       ],
       "items": [
         {
-          "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-          "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-          "url": "https://openai.com/index/partnering-with-hacktron",
+          "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+          "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-06T08:00:00Z",
+          "published_at": "2026-11-12T00:00:00Z",
           "summary": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3452,
+        "recency": 0.869,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-06T08:00:00Z",
-      "latest_at": "2026-11-06T08:00:00Z",
+      "earliest_at": "2026-11-12T00:00:00Z",
+      "latest_at": "2026-11-12T00:00:00Z",
       "primary_item": {
-        "id": "804c3bd9d52e8cbf9d76dbef2136e2afab72fe17",
-        "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-        "url": "https://openai.com/index/partnering-with-hacktron",
+        "id": "955aedf9bd839a09e02e79a6b4e31829d3ade751",
+        "title": "Gilbert + Tobin 用人工智能重新思考法律业务 / Gilbert + Tobin rethinks the business of law with AI",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
         "summary": "",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_16595a8831c5",
-      "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-      "url": "https://www.aibase.com/news/32181",
+      "story_id": "story_08418a010464",
+      "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
+      "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
       "summary": "",
-      "primary_url": "https://www.aibase.com/news/32181",
+      "primary_url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "271d467320e0561411f36d7cc2d28333a239c03a",
+          "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
+          "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T17:16:46Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "271d467320e0561411f36d7cc2d28333a239c03a",
+          "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
+          "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T17:16:46Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7886,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T17:16:46Z",
+      "latest_at": "2026-11-11T17:16:46Z",
+      "primary_item": {
+        "id": "271d467320e0561411f36d7cc2d28333a239c03a",
+        "title": "问题类型和字段适用于个人账户 / Issue types and fields are available for personal accounts",
+        "url": "https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts",
+        "summary": "",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e879c6fc35d4",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "summary": "",
+      "primary_url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T15:00:15Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T15:00:15Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7632,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T15:00:15Z",
+      "latest_at": "2026-11-11T15:00:15Z",
+      "primary_item": {
+        "id": "e76f9a2bec8f46596455331e30e7462fa6a76e1a",
+        "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+        "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease",
+        "summary": "",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b22522d14a17",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "summary": "",
+      "primary_url": "https://huggingface.co/blog/qvac/botpsy",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T05:01:16Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+          "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+          "url": "https://huggingface.co/blog/qvac/botpsy",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T05:01:16Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7989,
+      "importance": 0.7989,
+      "importance_score": 0.7989,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6607,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T05:01:16Z",
+      "latest_at": "2026-11-11T05:01:16Z",
+      "primary_item": {
+        "id": "c9d239c17153ef54442877c97d94dd761a1f00ca",
+        "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+        "url": "https://huggingface.co/blog/qvac/botpsy",
+        "summary": "",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dca8976c0a7e",
+      "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+      "url": "https://www.aibase.com/news/32270",
+      "summary": "",
+      "primary_url": "https://www.aibase.com/news/32270",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "url": "https://www.aibase.com/news/32181",
+          "id": "a4477ec6492087718782506ce434cdc928a45a72",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+          "url": "https://www.aibase.com/news/32270",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T09:39:55.074500Z",
+          "published_at": "2026-11-12T09:43:18.080439Z",
           "summary": null
         },
         {
-          "id": "3f78adcbd526b9d311095d3a596b35f55fa5bf42",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "url": "https://www.aibase.com/zh/news/32181",
+          "id": "b5c0c95edebc5d8cdd875897ea90e2d00d4bd95c",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常「一盘散沙」？",
+          "url": "https://www.aibase.com/zh/news/32270",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -541,19 +499,19 @@
       ],
       "items": [
         {
-          "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "url": "https://www.aibase.com/news/32181",
+          "id": "a4477ec6492087718782506ce434cdc928a45a72",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+          "url": "https://www.aibase.com/news/32270",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T09:39:55.074500Z",
+          "published_at": "2026-11-12T09:43:18.080439Z",
           "summary": null
         },
         {
-          "id": "3f78adcbd526b9d311095d3a596b35f55fa5bf42",
-          "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-          "url": "https://www.aibase.com/zh/news/32181",
+          "id": "b5c0c95edebc5d8cdd875897ea90e2d00d4bd95c",
+          "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常「一盘散沙」？",
+          "url": "https://www.aibase.com/zh/news/32270",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
@@ -580,34 +538,100 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T09:39:55.074500Z",
-      "latest_at": "2026-11-09T09:39:55.074500Z",
+      "earliest_at": "2026-11-12T09:43:18.080439Z",
+      "latest_at": "2026-11-12T09:43:18.080439Z",
       "primary_item": {
-        "id": "1193b4cf0b1dfa9b16e1c268204e5a9d4c4ddccd",
-        "title": "未来 20 万员工将与 2000 万个 AI 智能体协同，微软已为其开发专属管理系统",
-        "url": "https://www.aibase.com/news/32181",
+        "id": "a4477ec6492087718782506ce434cdc928a45a72",
+        "title": "Anthropic 发布 MAMUBench：多智能体团队协作为何常常“一盘散沙”？",
+        "url": "https://www.aibase.com/news/32270",
         "summary": "",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d7e9e3e89ee7",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "story_id": "story_80b38ea7da37",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
       "summary": "",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+      "primary_url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+          "title": "ChatGPT Plus for veterans and servicemembers",
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T08:00:00Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+          "title": "ChatGPT Plus for veterans and servicemembers",
+          "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T08:00:00Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.6897,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T08:00:00Z",
+      "latest_at": "2026-11-11T08:00:00Z",
+      "primary_item": {
+        "id": "52d9f4aa8167c7e5d5e2725d10e23901dcc67aed",
+        "title": "ChatGPT Plus for veterans and servicemembers",
+        "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+        "summary": "",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bad6ee94c356",
+      "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
+      "summary": "",
+      "primary_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
       "source": "Google AI Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7a5e46648fa3f11f9617dc0c8228da6bc8321ca7",
-          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
+          "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-05T17:00:00Z",
+          "published_at": "2026-11-11T16:00:00Z",
           "summary": null
         }
       ],
@@ -617,531 +641,150 @@
       ],
       "items": [
         {
-          "id": "7a5e46648fa3f11f9617dc0c8228da6bc8321ca7",
-          "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+          "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
+          "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
           "source": "Google AI Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-05T17:00:00Z",
+          "published_at": "2026-11-11T16:00:00Z",
           "summary": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.722,
-      "importance": 0.722,
-      "importance_score": 0.722,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2779,
+        "ai_relevance": 0.87,
+        "recency": 0.7742,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-05T17:00:00Z",
-      "latest_at": "2026-11-05T17:00:00Z",
+      "earliest_at": "2026-11-11T16:00:00Z",
+      "latest_at": "2026-11-11T16:00:00Z",
       "primary_item": {
-        "id": "7a5e46648fa3f11f9617dc0c8228da6bc8321ca7",
-        "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash",
+        "id": "9bdff28da8a0de7c09e579f964fdc148a3b6f258",
+        "title": "尝试桌面：可定制的协作空间，供团队一起计划、玩耍和做更多事情。 / Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop",
         "summary": "",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_df141a94aef9",
-      "title": "Copilot impact dashboard adds chat and VS Code agent usage",
-      "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
+      "story_id": "story_709be10f9aa9",
+      "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+      "url": "https://www.aibase.com/news/32283",
       "summary": "",
-      "primary_url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0a471a22197c1926949bc0f24eb536ce9837e4f3",
-          "title": "Copilot impact dashboard adds chat and VS Code agent usage",
-          "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T22:17:28Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0a471a22197c1926949bc0f24eb536ce9837e4f3",
-          "title": "Copilot impact dashboard adds chat and VS Code agent usage",
-          "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T22:17:28Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4243,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T22:17:28Z",
-      "latest_at": "2026-11-06T22:17:28Z",
-      "primary_item": {
-        "id": "0a471a22197c1926949bc0f24eb536ce9837e4f3",
-        "title": "Copilot impact dashboard adds chat and VS Code agent usage",
-        "url": "https://github.blog/changelog/2026-11-06-copilot-impact-dashboard-adds-chat-and-vs-code-agent-usage",
-        "summary": "",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_82196d4ece0a",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "summary": "",
-      "primary_url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
-          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
-          "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-          "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.3075,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T00:00:00Z",
-      "latest_at": "2026-11-06T00:00:00Z",
-      "primary_item": {
-        "id": "393b75bdaf2aa53e3f359f494e75d59159173394",
-        "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-        "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-        "summary": "",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c88b52d0b210",
-      "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "summary": "",
-      "primary_url": "https://openai.com/index/cultfit-builds-with-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ba025fbad02a10169c191970e604d56009173d01",
-          "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-          "url": "https://openai.com/index/cultfit-builds-with-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T20:00:00Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "ba025fbad02a10169c191970e604d56009173d01",
-          "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-          "url": "https://openai.com/index/cultfit-builds-with-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-05T20:00:00Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7322,
-      "importance": 0.7322,
-      "importance_score": 0.7322,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.2902,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-05T20:00:00Z",
-      "latest_at": "2026-11-05T20:00:00Z",
-      "primary_item": {
-        "id": "ba025fbad02a10169c191970e604d56009173d01",
-        "title": "Cult.fit 通过 Codex 增强运营能力 / Cult.fit builds operational muscle with Codex",
-        "url": "https://openai.com/index/cultfit-builds-with-codex",
-        "summary": "",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5175c20e07f3",
-      "title": "GitHub Copilot weekly releases — November 2",
-      "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-      "summary": "",
-      "primary_url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8b2466e1d959b52b9141ece0dc3752834776c44d",
-          "title": "GitHub Copilot weekly releases — November 2",
-          "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T21:00:26Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8b2466e1d959b52b9141ece0dc3752834776c44d",
-          "title": "GitHub Copilot weekly releases — November 2",
-          "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T21:00:26Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4165,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T21:00:26Z",
-      "latest_at": "2026-11-06T21:00:26Z",
-      "primary_item": {
-        "id": "8b2466e1d959b52b9141ece0dc3752834776c44d",
-        "title": "GitHub Copilot weekly releases — November 2",
-        "url": "https://github.blog/changelog/2026-11-06-github-copilot-weekly-releases-november-2",
-        "summary": "",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_9e3200f53e5f",
-      "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-      "url": "https://www.aibase.com/news/32172",
-      "summary": "",
-      "primary_url": "https://www.aibase.com/news/32172",
+      "primary_url": "https://www.aibase.com/news/32283",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
-          "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-          "url": "https://www.aibase.com/news/32172",
+          "id": "6e6a24cf1ec3e68d9c737ceb2248ec12e0005a20",
+          "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "url": "https://www.aibase.com/news/32283",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T09:39:55.074500Z",
+          "published_at": "2026-11-12T09:43:18.080439Z",
+          "summary": null
+        },
+        {
+          "id": "3f3395716148aa03cfa240c0557675be27f1cbcc",
+          "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "url": "https://www.aibase.com/zh/news/32283",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null,
           "summary": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
-          "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-          "url": "https://www.aibase.com/news/32172",
+          "id": "6e6a24cf1ec3e68d9c737ceb2248ec12e0005a20",
+          "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "url": "https://www.aibase.com/news/32283",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-09T09:39:55.074500Z",
+          "published_at": "2026-11-12T09:43:18.080439Z",
+          "summary": null
+        },
+        {
+          "id": "3f3395716148aa03cfa240c0557675be27f1cbcc",
+          "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+          "url": "https://www.aibase.com/zh/news/32283",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null,
           "summary": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T09:39:55.074500Z",
-      "latest_at": "2026-11-09T09:39:55.074500Z",
+      "earliest_at": "2026-11-12T09:43:18.080439Z",
+      "latest_at": "2026-11-12T09:43:18.080439Z",
       "primary_item": {
-        "id": "4b7a80444e22cf178c908b5c55f7886059e5f017",
-        "title": "DeepSeek 开源智能体应用 Harness 日活突破 154 万：上线不到三月，单日大模型消耗飙升至 92T 词元",
-        "url": "https://www.aibase.com/news/32172",
+        "id": "6e6a24cf1ec3e68d9c737ceb2248ec12e0005a20",
+        "title": "冲刺 IPO 前夜，Claude 月访问量冲上 12.53 亿创纪录",
+        "url": "https://www.aibase.com/news/32283",
         "summary": "",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2df82173bb28",
-      "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
-      "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "summary": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
-      "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-11-08",
-      "source_name": "WaytoAGI",
-      "sources": [
-        {
-          "id": "082ad56beda9336881fe078c989d91b40c50fa09",
-          "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。"
-        },
-        {
-          "id": "1e2603b316d7b77c60f91459f09ceb2ba7b62f78",
-          "title": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。"
-        },
-        {
-          "id": "09df639f22eac41f4cb2800fd38fff0b4a30e253",
-          "title": "本周精选的10项前沿研究，覆盖上下文压缩、技能路由、递归自学习、持续记忆、合规门控、销售智能体、后训练训练场、决策模型、协作基准、生活化任务评测。各项方案都附带实测数据与落地价值，不管是优化成本、提升智能体稳定性，还是搭建自进化系统，都能找到可参考的技术思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": "本周精选的10项前沿研究，覆盖上下文压缩、技能路由、递归自学习、持续记忆、合规门控、销售智能体、后训练训练场、决策模型、协作基准、生活化任务评测。各项方案都附带实测数据与落地价值，不管是优化成本、提升智能体稳定性，还是搭建自进化系统，都能找到可参考的技术思路。"
-        },
-        {
-          "id": "5dbfa067e03a57466db1dde11f66ecebb2de339a",
-          "title": "让 Agent 跑个长任务，电脑一合、服务一重启，聊天记录还在，但做到哪一步却得自己重新理。作者开源了一个网页版小助手，解决的就是这种“活干到一半断了”的问题；同时还整理了大量落地踩坑细节与技术局限，适合想要搭建长期自治、稳定不掉线的个人 Agent 的开发者，拿来作为自研底座参考。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": "让 Agent 跑个长任务，电脑一合、服务一重启，聊天记录还在，但做到哪一步却得自己重新理。作者开源了一个网页版小助手，解决的就是这种“活干到一半断了”的问题；同时还整理了大量落地踩坑细节与技术局限，适合想要搭建长期自治、稳定不掉线的个人 Agent 的开发者，拿来作为自研底座参考。"
-        },
-        {
-          "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
-          "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "社区更新 · 2026-11-08"
-      ],
-      "items": [
-        {
-          "id": "082ad56beda9336881fe078c989d91b40c50fa09",
-          "title": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。"
-        },
-        {
-          "id": "1e2603b316d7b77c60f91459f09ceb2ba7b62f78",
-          "title": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": "作者用 Claude、MiniMax H3 和剪映拆出了一条个人AI短剧制作路线：先定剧本与角色、场景图，再按短镜头生成带对白的片段，最后补镜头、统一声音和字幕。文中还有可复制的提示词、H3 工作流设置和相关Skill包，可以上手试试。"
-        },
-        {
-          "id": "09df639f22eac41f4cb2800fd38fff0b4a30e253",
-          "title": "本周精选的10项前沿研究，覆盖上下文压缩、技能路由、递归自学习、持续记忆、合规门控、销售智能体、后训练训练场、决策模型、协作基准、生活化任务评测。各项方案都附带实测数据与落地价值，不管是优化成本、提升智能体稳定性，还是搭建自进化系统，都能找到可参考的技术思路。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": "本周精选的10项前沿研究，覆盖上下文压缩、技能路由、递归自学习、持续记忆、合规门控、销售智能体、后训练训练场、决策模型、协作基准、生活化任务评测。各项方案都附带实测数据与落地价值，不管是优化成本、提升智能体稳定性，还是搭建自进化系统，都能找到可参考的技术思路。"
-        },
-        {
-          "id": "5dbfa067e03a57466db1dde11f66ecebb2de339a",
-          "title": "让 Agent 跑个长任务，电脑一合、服务一重启，聊天记录还在，但做到哪一步却得自己重新理。作者开源了一个网页版小助手，解决的就是这种“活干到一半断了”的问题；同时还整理了大量落地踩坑细节与技术局限，适合想要搭建长期自治、稳定不掉线的个人 Agent 的开发者，拿来作为自研底座参考。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": "让 Agent 跑个长任务，电脑一合、服务一重启，聊天记录还在，但做到哪一步却得自己重新理。作者开源了一个网页版小助手，解决的就是这种“活干到一半断了”的问题；同时还整理了大量落地踩坑细节与技术局限，适合想要搭建长期自治、稳定不掉线的个人 Agent 的开发者，拿来作为自研底座参考。"
-        },
-        {
-          "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
-          "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
-          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-          "source": "社区更新 · 2026-11-08",
-          "source_name": "WaytoAGI",
-          "site_id": "waytoagi",
-          "published_at": "2026-11-09T09:39:55.074500Z",
-          "summary": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.6775,
-      "importance": 0.6775,
-      "importance_score": 0.6775,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.4824,
-        "source_tier": 0.54,
-        "ai_relevance": 0.67,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-09T09:39:55.074500Z",
-      "latest_at": "2026-11-09T09:39:55.074500Z",
-      "primary_item": {
-        "id": "b8be4ed53457e0b8f6a2c34cdb20603b3b455f73",
-        "title": "还在苦恼Grok Bot模型降级、额度消耗快、任务容易中断？作者把Grok Bot作为调度指挥官，联动Claude、Codex承担重度任务，依托Notion看板和Cloudflare Worker搭建稳定的流转体系。配套5套开箱即用的Agent团队提示词，覆盖跨境投流、内容SEO、用户洞察、运维、产品开发，实践思路和DeepSeek Super-agent架构相通，跨境从业者可直接复用搭建自动化业务流水线。",
-        "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "summary": "产品经理总会被各种消息、会议和上线琐事追着跑，那么到底可以让AI接住多少活呢？Figma 的增长产品经理 Ezra 拆解了内部落地的 PM OS 工具集，包含 31 个适配产品岗的 Skill，可自主挖掘流失、闭环上线实验的Agent，还有低延迟 Jev 写作助手。如果你也想把 AI 从个人助手带进真实的团队流程里，这篇值得看看。",
-        "source": "社区更新 · 2026-11-08",
-        "source_name": "WaytoAGI"
-      }
-    },
-    {
-      "story_id": "story_e8690f74b67f",
-      "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "story_id": "story_d2296a64c0dc",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
       "summary": "",
-      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "primary_url": "https://huggingface.co/blog/token-pooling",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "id": "372c6b656e3afc20196dda2b6d1a3632adb710e9",
+          "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+          "url": "https://huggingface.co/blog/token-pooling",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-05T19:35:16Z",
+          "published_at": "2026-11-11T00:00:00Z",
           "summary": null
         }
       ],
@@ -1151,127 +794,63 @@
       ],
       "items": [
         {
-          "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-          "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+          "id": "372c6b656e3afc20196dda2b6d1a3632adb710e9",
+          "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+          "url": "https://huggingface.co/blog/token-pooling",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-05T19:35:16Z",
+          "published_at": "2026-11-11T00:00:00Z",
           "summary": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7319,
-      "importance": 0.7319,
-      "importance_score": 0.7319,
+      "score": 0.7906,
+      "importance": 0.7906,
+      "importance_score": 0.7906,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.2885,
+        "recency": 0.6145,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-05T19:35:16Z",
-      "latest_at": "2026-11-05T19:35:16Z",
+      "earliest_at": "2026-11-11T00:00:00Z",
+      "latest_at": "2026-11-11T00:00:00Z",
       "primary_item": {
-        "id": "5d200fb5201a7483bb9571279375ba2f4d0ce3a0",
-        "title": "用于交互式世界模拟的全新 NVIDIA Cosmos 3 开放模型 / New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-        "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+        "id": "372c6b656e3afc20196dda2b6d1a3632adb710e9",
+        "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+        "url": "https://huggingface.co/blog/token-pooling",
         "summary": "",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_cfd4354afa14",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "story_id": "story_0fe8b882dbb9",
+      "title": "Gemini 4 Carbon in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
       "summary": "",
-      "primary_url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
-          "title": "Measuring how AI agents handle everyday wet-lab science",
-          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z",
-          "summary": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
-          "title": "Measuring how AI agents handle everyday wet-lab science",
-          "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-06T00:00:00Z",
-          "summary": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7273,
-      "importance": 0.7273,
-      "importance_score": 0.7273,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3075,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-06T00:00:00Z",
-      "latest_at": "2026-11-06T00:00:00Z",
-      "primary_item": {
-        "id": "4c2fc6e62bb42d2d74a4034974cacd8015e18940",
-        "title": "Measuring how AI agents handle everyday wet-lab science",
-        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-        "summary": "",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_23359978bbf7",
-      "title": "@GitHub in Slack and Teams is generally available and more",
-      "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
-      "summary": "",
-      "primary_url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
-          "title": "@GitHub in Slack and Teams is generally available and more",
-          "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-06T20:31:08Z",
+          "published_at": "2026-11-10T19:26:51Z",
           "summary": null
         }
       ],
@@ -1281,127 +860,414 @@
       ],
       "items": [
         {
-          "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
-          "title": "@GitHub in Slack and Teams is generally available and more",
-          "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+          "id": "1bd788375c49e28109adc857f73168083f54024c",
+          "title": "Gemini 4 Carbon in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-06T20:31:08Z",
+          "published_at": "2026-11-10T19:26:51Z",
           "summary": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7384,
-      "importance": 0.7384,
-      "importance_score": 0.7384,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.5754,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T19:26:51Z",
+      "latest_at": "2026-11-10T19:26:51Z",
+      "primary_item": {
+        "id": "1bd788375c49e28109adc857f73168083f54024c",
+        "title": "Gemini 4 Carbon in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-11-10-gemini-4-carbon-in-github-copilot",
+        "summary": "",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_fc6b6a56df7b",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "summary": "",
+      "primary_url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "05903ce497f8776eb343c1f842a030cdb79979f0",
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T16:03:47Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "05903ce497f8776eb343c1f842a030cdb79979f0",
+          "title": "Gemini 4 Carbon is now available",
+          "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-10T16:03:47Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.5479,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-10T16:03:47Z",
+      "latest_at": "2026-11-10T16:03:47Z",
+      "primary_item": {
+        "id": "05903ce497f8776eb343c1f842a030cdb79979f0",
+        "title": "Gemini 4 Carbon is now available",
+        "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available",
+        "summary": "",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_bedf0d048592",
+      "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
+      "url": "https://www.aibase.com/news/32277",
+      "summary": "",
+      "primary_url": "https://www.aibase.com/news/32277",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dabb9a17e930adf40a3de6d7d6e57fd8aef800f0",
+          "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
+          "url": "https://www.aibase.com/news/32277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T09:43:18.080439Z",
+          "summary": null
+        },
+        {
+          "id": "a016e824f73fe5a289228eb19c2bf0d8cbab3dc1",
+          "title": "火山引擎推出 Seedance2.5flash：生成速度翻倍，720P 约 0.99 元/秒、较旗舰降低 34%",
+          "url": "https://www.aibase.com/zh/news/32277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null,
+          "summary": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "dabb9a17e930adf40a3de6d7d6e57fd8aef800f0",
+          "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
+          "url": "https://www.aibase.com/news/32277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T09:43:18.080439Z",
+          "summary": null
+        },
+        {
+          "id": "a016e824f73fe5a289228eb19c2bf0d8cbab3dc1",
+          "title": "火山引擎推出 Seedance2.5flash：生成速度翻倍，720P 约 0.99 元/秒、较旗舰降低 34%",
+          "url": "https://www.aibase.com/zh/news/32277",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null,
+          "summary": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T09:43:18.080439Z",
+      "latest_at": "2026-11-12T09:43:18.080439Z",
+      "primary_item": {
+        "id": "dabb9a17e930adf40a3de6d7d6e57fd8aef800f0",
+        "title": "火山引擎推出Seedance2.5flash:生成速度翻倍，720P约0.99元/秒、较旗舰降低34%",
+        "url": "https://www.aibase.com/news/32277",
+        "summary": "",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_14eef01dc0f4",
+      "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "summary": "",
+      "primary_url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b987ab812262afb4d370b04d94c99774bc976b63",
+          "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T09:00:00Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "b987ab812262afb4d370b04d94c99774bc976b63",
+          "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+          "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T09:00:00Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.79,
+      "importance": 0.79,
+      "importance_score": 0.79,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4135,
+        "recency": 0.6998,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-06T20:31:08Z",
-      "latest_at": "2026-11-06T20:31:08Z",
+      "earliest_at": "2026-11-11T09:00:00Z",
+      "latest_at": "2026-11-11T09:00:00Z",
       "primary_item": {
-        "id": "49e18942be8158cc7e6b7282ead421b7899be1bf",
-        "title": "@GitHub in Slack and Teams is generally available and more",
-        "url": "https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available",
+        "id": "b987ab812262afb4d370b04d94c99774bc976b63",
+        "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+        "url": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu",
+        "summary": "",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_871ae47d300c",
+      "title": "GitHub App support for Enterprise Copilot seat management",
+      "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "summary": "",
+      "primary_url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub App support for Enterprise Copilot seat management",
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+          "title": "GitHub App support for Enterprise Copilot seat management",
+          "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:10:31Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.616,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-11T00:10:31Z",
+      "latest_at": "2026-11-11T00:10:31Z",
+      "primary_item": {
+        "id": "e70dcc3c8437a8baa1fb9afd2aca812232b0510f",
+        "title": "GitHub App support for Enterprise Copilot seat management",
+        "url": "https://github.blog/changelog/2026-11-10-github-app-support-for-enterprise-copilot-seat-management",
         "summary": "",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_1619f6c2ac86",
-      "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-      "url": "https://www.aibase.com/news/32170",
+      "story_id": "story_8c999d6885d2",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
       "summary": "",
-      "primary_url": "https://www.aibase.com/news/32170",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "primary_url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1f361be10a908f7d3e797b3b4085ae925ad44cea",
-          "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-          "url": "https://www.aibase.com/news/32170",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T09:39:55.074500Z",
+          "id": "5c125f5448d26d0aab0b42fe0f15f7fa9e8070a5",
+          "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+          "url": "https://openai.com/index/jiostar-vijay-seshadri",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:00:00Z",
           "summary": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "1f361be10a908f7d3e797b3b4085ae925ad44cea",
-          "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-          "url": "https://www.aibase.com/news/32170",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-09T09:39:55.074500Z",
+          "id": "5c125f5448d26d0aab0b42fe0f15f7fa9e8070a5",
+          "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+          "url": "https://openai.com/index/jiostar-vijay-seshadri",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-11T00:00:00Z",
           "summary": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
+      "score": 0.7826,
+      "importance": 0.7826,
+      "importance_score": 0.7826,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6145,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-09T09:39:55.074500Z",
-      "latest_at": "2026-11-09T09:39:55.074500Z",
+      "earliest_at": "2026-11-11T00:00:00Z",
+      "latest_at": "2026-11-11T00:00:00Z",
       "primary_item": {
-        "id": "1f361be10a908f7d3e797b3b4085ae925ad44cea",
-        "title": "Google Messages启动主页大改版:集成 Gemini 快捷入口、重构置顶与底部搜索",
-        "url": "https://www.aibase.com/news/32170",
+        "id": "5c125f5448d26d0aab0b42fe0f15f7fa9e8070a5",
+        "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+        "url": "https://openai.com/index/jiostar-vijay-seshadri",
         "summary": "",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_89209ab642b1",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
+      "story_id": "story_724fae925148",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
       "summary": "",
-      "primary_url": "https://huggingface.co/blog/phonon-tts",
+      "primary_url": "https://huggingface.co/blog/hub-gcp-marketplace",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
-          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-          "url": "https://huggingface.co/blog/phonon-tts",
+          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
+          "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-05T00:00:00Z",
+          "published_at": "2026-11-10T00:00:00Z",
           "summary": null
         }
       ],
@@ -1411,42 +1277,196 @@
       ],
       "items": [
         {
-          "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
-          "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-          "url": "https://huggingface.co/blog/phonon-tts",
+          "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
+          "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+          "url": "https://huggingface.co/blog/hub-gcp-marketplace",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-05T00:00:00Z",
+          "published_at": "2026-11-10T00:00:00Z",
           "summary": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7251,
-      "importance": 0.7251,
-      "importance_score": 0.7251,
+      "score": 0.7642,
+      "importance": 0.7642,
+      "importance_score": 0.7642,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.2174,
+        "recency": 0.4345,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-05T00:00:00Z",
-      "latest_at": "2026-11-05T00:00:00Z",
+      "earliest_at": "2026-11-10T00:00:00Z",
+      "latest_at": "2026-11-10T00:00:00Z",
       "primary_item": {
-        "id": "69ff2c127ffefbc2ab4bc6dd4e0baa5949100cc2",
-        "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-        "url": "https://huggingface.co/blog/phonon-tts",
+        "id": "f983ba03d04a4830cac344e13516cc9d9a911419",
+        "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+        "url": "https://huggingface.co/blog/hub-gcp-marketplace",
         "summary": "",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_dd998234f8fa",
+      "title": "追赶国际AI第一梯队还需数年?张一鸣谈字节大模型研发目标",
+      "url": "https://www.aibase.com/news/32280",
+      "summary": "",
+      "primary_url": "https://www.aibase.com/news/32280",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8d38b9331c2c46385aa0c052c06ea31e2446991a",
+          "title": "追赶国际AI第一梯队还需数年?张一鸣谈字节大模型研发目标",
+          "url": "https://www.aibase.com/news/32280",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T09:43:18.080439Z",
+          "summary": null
+        },
+        {
+          "id": "c584ff796930cee6578f043ea182428fac3f1a15",
+          "title": "追赶国际 AI 第一梯队还需数年？张一鸣谈字节大模型研发目标",
+          "url": "https://www.aibase.com/zh/news/32280",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null,
+          "summary": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8d38b9331c2c46385aa0c052c06ea31e2446991a",
+          "title": "追赶国际AI第一梯队还需数年?张一鸣谈字节大模型研发目标",
+          "url": "https://www.aibase.com/news/32280",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-12T09:43:18.080439Z",
+          "summary": null
+        },
+        {
+          "id": "c584ff796930cee6578f043ea182428fac3f1a15",
+          "title": "追赶国际 AI 第一梯队还需数年？张一鸣谈字节大模型研发目标",
+          "url": "https://www.aibase.com/zh/news/32280",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null,
+          "summary": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7926,
+      "importance": 0.7926,
+      "importance_score": 0.7926,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-12T09:43:18.080439Z",
+      "latest_at": "2026-11-12T09:43:18.080439Z",
+      "primary_item": {
+        "id": "8d38b9331c2c46385aa0c052c06ea31e2446991a",
+        "title": "追赶国际AI第一梯队还需数年?张一鸣谈字节大模型研发目标",
+        "url": "https://www.aibase.com/news/32280",
+        "summary": "",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7da1b2b4758f",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "summary": "",
+      "primary_url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "798822270fdec7fd185863f89fd0c703c44e5310",
+          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:51:47Z",
+          "summary": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "798822270fdec7fd185863f89fd0c703c44e5310",
+          "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+          "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-09T19:51:47Z",
+          "summary": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.97,
+        "recency": 0.4093,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-09T19:51:47Z",
+      "latest_at": "2026-11-09T19:51:47Z",
+      "primary_item": {
+        "id": "798822270fdec7fd185863f89fd0c703c44e5310",
+        "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+        "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence",
+        "summary": "",
+        "source": "Google DeepMind",
         "source_name": "Official AI Updates"
       }
     }

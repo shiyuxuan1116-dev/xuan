@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T09:39:55.074500Z",
+  "generated_at": "2026-11-12T09:43:18.080439Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 217,
-      "duration_ms": 3965,
+      "item_count": 239,
+      "duration_ms": 2832,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Curated Media",
       "ok": true,
       "item_count": 31,
-      "duration_ms": 13153,
+      "duration_ms": 12830,
       "error": null
     },
     {
@@ -22,15 +22,15 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 365,
+      "duration_ms": 296,
       "error": null
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 22,
-      "duration_ms": 860,
+      "item_count": 33,
+      "duration_ms": 336,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 481,
+      "duration_ms": 314,
       "error": null
     },
     {
@@ -46,15 +46,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 349,
+      "duration_ms": 300,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 388,
-      "duration_ms": 64797,
+      "item_count": 398,
+      "duration_ms": 73869,
       "error": null
     },
     {
@@ -62,31 +62,31 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 321,
+      "duration_ms": 563,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3032,
-      "duration_ms": 1560,
+      "item_count": 3060,
+      "duration_ms": 1140,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 57,
-      "duration_ms": 851,
+      "item_count": 75,
+      "duration_ms": 707,
       "error": null
     },
     {
       "site_id": "hackernews",
       "site_name": "Hacker News",
       "ok": true,
-      "item_count": 2,
-      "duration_ms": 7682,
+      "item_count": 3,
+      "duration_ms": 5746,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 40,
-      "duration_ms": 500,
+      "duration_ms": 449,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1879,
+      "duration_ms": 1526,
       "error": null
     },
     {
@@ -110,23 +110,23 @@
       "site_name": "AI HOT",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 4212,
+      "duration_ms": 5793,
       "error": "404 Client Error: Not Found for url: https://aihot.news/api/public/items?mode=selected&take=100"
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 119,
-      "duration_ms": 1233,
+      "item_count": 120,
+      "duration_ms": 1411,
       "error": null
     },
     {
       "site_id": "waytoagi",
       "site_name": "WaytoAGI",
       "ok": true,
-      "item_count": 6,
-      "duration_ms": 5724,
+      "item_count": 7,
+      "duration_ms": 7019,
       "error": null
     }
   ],
@@ -136,9 +136,9 @@
   ],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 5093,
-  "items_before_topic_filter": 4471,
-  "items_in_24h": 416,
+  "fetched_raw_items": 5185,
+  "items_before_topic_filter": 4541,
+  "items_in_24h": 447,
   "rss_opml": {
     "enabled": false,
     "path": null,
@@ -173,7 +173,7 @@
     "effective_result_cap": 20,
     "estimated_max_cost_usd_per_run": 0.1,
     "run_utc_hour": 0,
-    "generated_date_utc": "2026-11-09",
+    "generated_date_utc": "2026-11-12",
     "disabled_reason": "no_bearer_token"
   },
   "socialdata": {
@@ -198,7 +198,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": "2026-07-08T22:05:16.785958Z",
     "last_success_at": "2026-07-08T22:05:16.785958Z",
-    "generated_date_utc": "2026-11-09",
+    "generated_date_utc": "2026-11-12",
     "disabled_reason": "no_api_key"
   },
   "tikhub": {
@@ -223,7 +223,7 @@
     "run_utc_minute_max": 10,
     "last_run_at": "2026-07-08T20:43:04.031165Z",
     "last_success_at": "2026-07-08T20:43:04.031165Z",
-    "generated_date_utc": "2026-11-09",
+    "generated_date_utc": "2026-11-12",
     "disabled_reason": "no_api_key"
   }
 }
